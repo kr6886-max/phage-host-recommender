@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Phage Recommendation System</title>
+</head>
+<body>
+
+<h1>Phage–Host Decision Support System</h1>
+
+<form method="post">
+    <label>Select Bacterium:</label>
+    <select name="bacterium">
+        {% for b in bacteria %}
+            <option value="{{ b }}">{{ b }}</option>
+        {% endfor %}
+    </select>
+    <br><br>
+    <button type="submit">Analyze</button>
+</form>
+
+{% if result %}
+<hr>
+
+<h2>Result Summary</h2>
+<p><b>Bacterium:</b> {{ result.bacterium }}</p>
+<p><b>Best Phage:</b> {{ result.best_phage }}</p>
+<p><b>Similarity Score:</b> {{ result.score }}</p>
+
+<h3>Why this phage?</h3>
+<p>{{ result.explanation }}</p>
+
+<h3>Graph 1: Similarity vs All Phages</h3>
+<img src="/static/bar_all.png" width="700">
+
+<h3>Graph 2: Top 3 Phage Comparison</h3>
+<img src="/static/bar_top3.png" width="500">
+
+<h3>Graph 3: Global Bacteria–Phage Heatmap</h3>
+<img src="/static/heatmap.png" width="700">
+
+<h3>Interpretation</h3>
+<p>
+Higher similarity indicates closer genomic composition between the bacterium
+and the selected phage. These results are computational predictions and serve
+as a decision-support guide for experimental validation.
+</p>
+
+{% endif %}
+
+</body>
+</html>
