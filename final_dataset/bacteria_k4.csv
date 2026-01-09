@@ -1,0 +1,3407 @@
+kmer,count,genome_name,type
+GTGT,11834,Citrobacter freundii ATCC 8090__k4,bacteria
+TGTC,14536,Citrobacter freundii ATCC 8090__k4,bacteria
+GTCA,20160,Citrobacter freundii ATCC 8090__k4,bacteria
+TCAC,20337,Citrobacter freundii ATCC 8090__k4,bacteria
+CACT,12933,Citrobacter freundii ATCC 8090__k4,bacteria
+ACTT,12523,Citrobacter freundii ATCC 8090__k4,bacteria
+CTTT,23352,Citrobacter freundii ATCC 8090__k4,bacteria
+TTTC,27241,Citrobacter freundii ATCC 8090__k4,bacteria
+TTCG,19566,Citrobacter freundii ATCC 8090__k4,bacteria
+TCGC,26514,Citrobacter freundii ATCC 8090__k4,bacteria
+CGCT,30696,Citrobacter freundii ATCC 8090__k4,bacteria
+GCTT,21646,Citrobacter freundii ATCC 8090__k4,bacteria
+TTTG,24844,Citrobacter freundii ATCC 8090__k4,bacteria
+TTGG,15828,Citrobacter freundii ATCC 8090__k4,bacteria
+TGGC,33717,Citrobacter freundii ATCC 8090__k4,bacteria
+GGCA,27489,Citrobacter freundii ATCC 8090__k4,bacteria
+GCAG,32786,Citrobacter freundii ATCC 8090__k4,bacteria
+CAGC,42948,Citrobacter freundii ATCC 8090__k4,bacteria
+AGCA,25454,Citrobacter freundii ATCC 8090__k4,bacteria
+CAGT,21011,Citrobacter freundii ATCC 8090__k4,bacteria
+AGTG,13172,Citrobacter freundii ATCC 8090__k4,bacteria
+GTCT,12239,Citrobacter freundii ATCC 8090__k4,bacteria
+TCTT,17078,Citrobacter freundii ATCC 8090__k4,bacteria
+CTTG,10211,Citrobacter freundii ATCC 8090__k4,bacteria
+TTGC,26306,Citrobacter freundii ATCC 8090__k4,bacteria
+TGCC,27249,Citrobacter freundii ATCC 8090__k4,bacteria
+GCCC,16876,Citrobacter freundii ATCC 8090__k4,bacteria
+CCCG,17764,Citrobacter freundii ATCC 8090__k4,bacteria
+CCGA,16945,Citrobacter freundii ATCC 8090__k4,bacteria
+CGAT,25698,Citrobacter freundii ATCC 8090__k4,bacteria
+GATT,21272,Citrobacter freundii ATCC 8090__k4,bacteria
+ATTG,21085,Citrobacter freundii ATCC 8090__k4,bacteria
+TGCA,21061,Citrobacter freundii ATCC 8090__k4,bacteria
+CAGG,28588,Citrobacter freundii ATCC 8090__k4,bacteria
+AGGA,12891,Citrobacter freundii ATCC 8090__k4,bacteria
+GGAT,20723,Citrobacter freundii ATCC 8090__k4,bacteria
+GATG,27757,Citrobacter freundii ATCC 8090__k4,bacteria
+ATGA,21624,Citrobacter freundii ATCC 8090__k4,bacteria
+TGAG,14648,Citrobacter freundii ATCC 8090__k4,bacteria
+GAGT,10164,Citrobacter freundii ATCC 8090__k4,bacteria
+AGTT,15918,Citrobacter freundii ATCC 8090__k4,bacteria
+GTTA,17326,Citrobacter freundii ATCC 8090__k4,bacteria
+TTAC,18437,Citrobacter freundii ATCC 8090__k4,bacteria
+TACC,19574,Citrobacter freundii ATCC 8090__k4,bacteria
+ACCA,25192,Citrobacter freundii ATCC 8090__k4,bacteria
+CCAG,36734,Citrobacter freundii ATCC 8090__k4,bacteria
+AGCC,19807,Citrobacter freundii ATCC 8090__k4,bacteria
+GCCA,34238,Citrobacter freundii ATCC 8090__k4,bacteria
+CCAC,19690,Citrobacter freundii ATCC 8090__k4,bacteria
+CACA,13950,Citrobacter freundii ATCC 8090__k4,bacteria
+ACAG,18988,Citrobacter freundii ATCC 8090__k4,bacteria
+CAGA,23734,Citrobacter freundii ATCC 8090__k4,bacteria
+AGAG,11221,Citrobacter freundii ATCC 8090__k4,bacteria
+GTTC,19449,Citrobacter freundii ATCC 8090__k4,bacteria
+TTCA,27552,Citrobacter freundii ATCC 8090__k4,bacteria
+TCAG,27773,Citrobacter freundii ATCC 8090__k4,bacteria
+AGTA,11254,Citrobacter freundii ATCC 8090__k4,bacteria
+GTAT,15121,Citrobacter freundii ATCC 8090__k4,bacteria
+TATG,13576,Citrobacter freundii ATCC 8090__k4,bacteria
+ATGT,14755,Citrobacter freundii ATCC 8090__k4,bacteria
+TGTG,13766,Citrobacter freundii ATCC 8090__k4,bacteria
+GTGG,19293,Citrobacter freundii ATCC 8090__k4,bacteria
+TGGA,18283,Citrobacter freundii ATCC 8090__k4,bacteria
+GATA,21551,Citrobacter freundii ATCC 8090__k4,bacteria
+ATAC,15019,Citrobacter freundii ATCC 8090__k4,bacteria
+TACG,16287,Citrobacter freundii ATCC 8090__k4,bacteria
+ACGC,28563,Citrobacter freundii ATCC 8090__k4,bacteria
+CGCC,36759,Citrobacter freundii ATCC 8090__k4,bacteria
+CCGT,20028,Citrobacter freundii ATCC 8090__k4,bacteria
+CGTT,25796,Citrobacter freundii ATCC 8090__k4,bacteria
+GTTG,23140,Citrobacter freundii ATCC 8090__k4,bacteria
+AGGC,18916,Citrobacter freundii ATCC 8090__k4,bacteria
+GGCG,36674,Citrobacter freundii ATCC 8090__k4,bacteria
+GCGG,30328,Citrobacter freundii ATCC 8090__k4,bacteria
+CGGA,18086,Citrobacter freundii ATCC 8090__k4,bacteria
+GGAA,20505,Citrobacter freundii ATCC 8090__k4,bacteria
+GAAC,19035,Citrobacter freundii ATCC 8090__k4,bacteria
+AACT,15589,Citrobacter freundii ATCC 8090__k4,bacteria
+ACTG,20619,Citrobacter freundii ATCC 8090__k4,bacteria
+CTGA,27562,Citrobacter freundii ATCC 8090__k4,bacteria
+GAGC,15755,Citrobacter freundii ATCC 8090__k4,bacteria
+AGCG,30447,Citrobacter freundii ATCC 8090__k4,bacteria
+GCGA,26005,Citrobacter freundii ATCC 8090__k4,bacteria
+ATAA,21412,Citrobacter freundii ATCC 8090__k4,bacteria
+TAAC,17619,Citrobacter freundii ATCC 8090__k4,bacteria
+AACA,21806,Citrobacter freundii ATCC 8090__k4,bacteria
+ACAC,11596,Citrobacter freundii ATCC 8090__k4,bacteria
+CACG,18561,Citrobacter freundii ATCC 8090__k4,bacteria
+GCTG,42343,Citrobacter freundii ATCC 8090__k4,bacteria
+CTGG,35593,Citrobacter freundii ATCC 8090__k4,bacteria
+GGCT,19878,Citrobacter freundii ATCC 8090__k4,bacteria
+TTGT,16530,Citrobacter freundii ATCC 8090__k4,bacteria
+TGTA,11684,Citrobacter freundii ATCC 8090__k4,bacteria
+GTAC,14495,Citrobacter freundii ATCC 8090__k4,bacteria
+CGCG,30953,Citrobacter freundii ATCC 8090__k4,bacteria
+GCGC,40835,Citrobacter freundii ATCC 8090__k4,bacteria
+CCAA,16150,Citrobacter freundii ATCC 8090__k4,bacteria
+CAAA,24749,Citrobacter freundii ATCC 8090__k4,bacteria
+AAAC,25274,Citrobacter freundii ATCC 8090__k4,bacteria
+AACC,22145,Citrobacter freundii ATCC 8090__k4,bacteria
+ACCG,27146,Citrobacter freundii ATCC 8090__k4,bacteria
+GTTT,25664,Citrobacter freundii ATCC 8090__k4,bacteria
+TCGT,15958,Citrobacter freundii ATCC 8090__k4,bacteria
+CGTG,18505,Citrobacter freundii ATCC 8090__k4,bacteria
+GTGC,18539,Citrobacter freundii ATCC 8090__k4,bacteria
+TGCT,25355,Citrobacter freundii ATCC 8090__k4,bacteria
+GCTC,16070,Citrobacter freundii ATCC 8090__k4,bacteria
+CTCG,11452,Citrobacter freundii ATCC 8090__k4,bacteria
+TCGA,16050,Citrobacter freundii ATCC 8090__k4,bacteria
+TGGG,15188,Citrobacter freundii ATCC 8090__k4,bacteria
+GGGT,14028,Citrobacter freundii ATCC 8090__k4,bacteria
+GGTA,19066,Citrobacter freundii ATCC 8090__k4,bacteria
+GTAA,18286,Citrobacter freundii ATCC 8090__k4,bacteria
+TAAG,10007,Citrobacter freundii ATCC 8090__k4,bacteria
+AAGG,14402,Citrobacter freundii ATCC 8090__k4,bacteria
+AGGG,10511,Citrobacter freundii ATCC 8090__k4,bacteria
+GGGA,12952,Citrobacter freundii ATCC 8090__k4,bacteria
+TAAA,21975,Citrobacter freundii ATCC 8090__k4,bacteria
+AAAT,25215,Citrobacter freundii ATCC 8090__k4,bacteria
+AATA,20845,Citrobacter freundii ATCC 8090__k4,bacteria
+ACCT,15386,Citrobacter freundii ATCC 8090__k4,bacteria
+CCTT,14302,Citrobacter freundii ATCC 8090__k4,bacteria
+CTTA,10057,Citrobacter freundii ATCC 8090__k4,bacteria
+TTAA,19827,Citrobacter freundii ATCC 8090__k4,bacteria
+TAAT,17918,Citrobacter freundii ATCC 8090__k4,bacteria
+ATAT,18441,Citrobacter freundii ATCC 8090__k4,bacteria
+TATT,21184,Citrobacter freundii ATCC 8090__k4,bacteria
+ATTA,18211,Citrobacter freundii ATCC 8090__k4,bacteria
+AATG,21904,Citrobacter freundii ATCC 8090__k4,bacteria
+ATGG,21062,Citrobacter freundii ATCC 8090__k4,bacteria
+TACT,11012,Citrobacter freundii ATCC 8090__k4,bacteria
+ACTC,9932,Citrobacter freundii ATCC 8090__k4,bacteria
+CTCA,14612,Citrobacter freundii ATCC 8090__k4,bacteria
+TCAA,20789,Citrobacter freundii ATCC 8090__k4,bacteria
+CAAT,21594,Citrobacter freundii ATCC 8090__k4,bacteria
+AATT,18308,Citrobacter freundii ATCC 8090__k4,bacteria
+ATTT,25203,Citrobacter freundii ATCC 8090__k4,bacteria
+TTCT,18669,Citrobacter freundii ATCC 8090__k4,bacteria
+TCTG,23381,Citrobacter freundii ATCC 8090__k4,bacteria
+CTGT,18820,Citrobacter freundii ATCC 8090__k4,bacteria
+GGAG,10630,Citrobacter freundii ATCC 8090__k4,bacteria
+ATGC,23749,Citrobacter freundii ATCC 8090__k4,bacteria
+CCCC,10309,Citrobacter freundii ATCC 8090__k4,bacteria
+CCCA,16047,Citrobacter freundii ATCC 8090__k4,bacteria
+AGCT,16235,Citrobacter freundii ATCC 8090__k4,bacteria
+CTGC,32488,Citrobacter freundii ATCC 8090__k4,bacteria
+TGCG,27417,Citrobacter freundii ATCC 8090__k4,bacteria
+TTGA,20616,Citrobacter freundii ATCC 8090__k4,bacteria
+TGAA,26762,Citrobacter freundii ATCC 8090__k4,bacteria
+GAAG,21608,Citrobacter freundii ATCC 8090__k4,bacteria
+AAGT,12454,Citrobacter freundii ATCC 8090__k4,bacteria
+AGTC,10417,Citrobacter freundii ATCC 8090__k4,bacteria
+GTCG,18755,Citrobacter freundii ATCC 8090__k4,bacteria
+TCGG,17086,Citrobacter freundii ATCC 8090__k4,bacteria
+CGGT,26949,Citrobacter freundii ATCC 8090__k4,bacteria
+ACTA,6985,Citrobacter freundii ATCC 8090__k4,bacteria
+CTAA,7994,Citrobacter freundii ATCC 8090__k4,bacteria
+ACCC,14505,Citrobacter freundii ATCC 8090__k4,bacteria
+CGTC,20648,Citrobacter freundii ATCC 8090__k4,bacteria
+CGCA,27408,Citrobacter freundii ATCC 8090__k4,bacteria
+GCAA,26644,Citrobacter freundii ATCC 8090__k4,bacteria
+AACG,25975,Citrobacter freundii ATCC 8090__k4,bacteria
+GAAA,26638,Citrobacter freundii ATCC 8090__k4,bacteria
+AAAA,35376,Citrobacter freundii ATCC 8090__k4,bacteria
+GCCG,31179,Citrobacter freundii ATCC 8090__k4,bacteria
+CCGG,27190,Citrobacter freundii ATCC 8090__k4,bacteria
+GGTC,15822,Citrobacter freundii ATCC 8090__k4,bacteria
+CAAC,23587,Citrobacter freundii ATCC 8090__k4,bacteria
+ACAA,16648,Citrobacter freundii ATCC 8090__k4,bacteria
+ACGT,16931,Citrobacter freundii ATCC 8090__k4,bacteria
+TGTT,21953,Citrobacter freundii ATCC 8090__k4,bacteria
+CCGC,29904,Citrobacter freundii ATCC 8090__k4,bacteria
+GTGA,19927,Citrobacter freundii ATCC 8090__k4,bacteria
+TGAC,20149,Citrobacter freundii ATCC 8090__k4,bacteria
+GACT,10525,Citrobacter freundii ATCC 8090__k4,bacteria
+CAAG,10301,Citrobacter freundii ATCC 8090__k4,bacteria
+CTCC,10620,Citrobacter freundii ATCC 8090__k4,bacteria
+TCCG,17978,Citrobacter freundii ATCC 8090__k4,bacteria
+CGGC,31843,Citrobacter freundii ATCC 8090__k4,bacteria
+GCGT,28323,Citrobacter freundii ATCC 8090__k4,bacteria
+GTCC,10269,Citrobacter freundii ATCC 8090__k4,bacteria
+TCCA,18777,Citrobacter freundii ATCC 8090__k4,bacteria
+TCCC,12806,Citrobacter freundii ATCC 8090__k4,bacteria
+AGAA,18702,Citrobacter freundii ATCC 8090__k4,bacteria
+CCTA,5060,Citrobacter freundii ATCC 8090__k4,bacteria
+CTAC,10588,Citrobacter freundii ATCC 8090__k4,bacteria
+CTAT,10506,Citrobacter freundii ATCC 8090__k4,bacteria
+TATC,21230,Citrobacter freundii ATCC 8090__k4,bacteria
+ATCG,25835,Citrobacter freundii ATCC 8090__k4,bacteria
+TCTA,6222,Citrobacter freundii ATCC 8090__k4,bacteria
+TGAT,28170,Citrobacter freundii ATCC 8090__k4,bacteria
+CTTC,21929,Citrobacter freundii ATCC 8090__k4,bacteria
+AGGT,15384,Citrobacter freundii ATCC 8090__k4,bacteria
+AATC,21336,Citrobacter freundii ATCC 8090__k4,bacteria
+ATCT,16960,Citrobacter freundii ATCC 8090__k4,bacteria
+GCAC,18478,Citrobacter freundii ATCC 8090__k4,bacteria
+GGTG,24149,Citrobacter freundii ATCC 8090__k4,bacteria
+GGAC,10354,Citrobacter freundii ATCC 8090__k4,bacteria
+GACA,14495,Citrobacter freundii ATCC 8090__k4,bacteria
+ATCC,20466,Citrobacter freundii ATCC 8090__k4,bacteria
+TCCT,12685,Citrobacter freundii ATCC 8090__k4,bacteria
+CCTG,28120,Citrobacter freundii ATCC 8090__k4,bacteria
+GCCT,18530,Citrobacter freundii ATCC 8090__k4,bacteria
+TACA,11666,Citrobacter freundii ATCC 8090__k4,bacteria
+TTAT,21211,Citrobacter freundii ATCC 8090__k4,bacteria
+ATTC,18059,Citrobacter freundii ATCC 8090__k4,bacteria
+TTCC,20891,Citrobacter freundii ATCC 8090__k4,bacteria
+TTTA,22134,Citrobacter freundii ATCC 8090__k4,bacteria
+ACGG,20129,Citrobacter freundii ATCC 8090__k4,bacteria
+CGGG,17855,Citrobacter freundii ATCC 8090__k4,bacteria
+GGGC,16574,Citrobacter freundii ATCC 8090__k4,bacteria
+GGCC,17009,Citrobacter freundii ATCC 8090__k4,bacteria
+CACC,24657,Citrobacter freundii ATCC 8090__k4,bacteria
+GCAT,23504,Citrobacter freundii ATCC 8090__k4,bacteria
+CATT,21794,Citrobacter freundii ATCC 8090__k4,bacteria
+CGTA,16291,Citrobacter freundii ATCC 8090__k4,bacteria
+AAGC,20978,Citrobacter freundii ATCC 8090__k4,bacteria
+AAAG,22873,Citrobacter freundii ATCC 8090__k4,bacteria
+TGGT,24588,Citrobacter freundii ATCC 8090__k4,bacteria
+TATA,9289,Citrobacter freundii ATCC 8090__k4,bacteria
+CGAG,11397,Citrobacter freundii ATCC 8090__k4,bacteria
+TTTT,36128,Citrobacter freundii ATCC 8090__k4,bacteria
+ACAT,14685,Citrobacter freundii ATCC 8090__k4,bacteria
+CATG,17953,Citrobacter freundii ATCC 8090__k4,bacteria
+CCCT,10376,Citrobacter freundii ATCC 8090__k4,bacteria
+GATC,21150,Citrobacter freundii ATCC 8090__k4,bacteria
+CGAA,18978,Citrobacter freundii ATCC 8090__k4,bacteria
+AAGA,16955,Citrobacter freundii ATCC 8090__k4,bacteria
+GCTA,12105,Citrobacter freundii ATCC 8090__k4,bacteria
+GACG,20510,Citrobacter freundii ATCC 8090__k4,bacteria
+ACGA,15710,Citrobacter freundii ATCC 8090__k4,bacteria
+GAAT,17666,Citrobacter freundii ATCC 8090__k4,bacteria
+ATCA,28499,Citrobacter freundii ATCC 8090__k4,bacteria
+AGAT,17139,Citrobacter freundii ATCC 8090__k4,bacteria
+TCAT,21924,Citrobacter freundii ATCC 8090__k4,bacteria
+CATC,28044,Citrobacter freundii ATCC 8090__k4,bacteria
+GACC,15853,Citrobacter freundii ATCC 8090__k4,bacteria
+CCTC,9495,Citrobacter freundii ATCC 8090__k4,bacteria
+GAGA,12416,Citrobacter freundii ATCC 8090__k4,bacteria
+GGGG,9821,Citrobacter freundii ATCC 8090__k4,bacteria
+CGAC,18637,Citrobacter freundii ATCC 8090__k4,bacteria
+GTAG,10393,Citrobacter freundii ATCC 8090__k4,bacteria
+TAGC,12262,Citrobacter freundii ATCC 8090__k4,bacteria
+CTCT,11308,Citrobacter freundii ATCC 8090__k4,bacteria
+CCAT,21680,Citrobacter freundii ATCC 8090__k4,bacteria
+AGAC,12243,Citrobacter freundii ATCC 8090__k4,bacteria
+TCTC,12495,Citrobacter freundii ATCC 8090__k4,bacteria
+CATA,14002,Citrobacter freundii ATCC 8090__k4,bacteria
+GGTT,21912,Citrobacter freundii ATCC 8090__k4,bacteria
+CTAG,1284,Citrobacter freundii ATCC 8090__k4,bacteria
+TTAG,8253,Citrobacter freundii ATCC 8090__k4,bacteria
+TAGG,5151,Citrobacter freundii ATCC 8090__k4,bacteria
+GAGG,9561,Citrobacter freundii ATCC 8090__k4,bacteria
+TAGT,7132,Citrobacter freundii ATCC 8090__k4,bacteria
+ATAG,10815,Citrobacter freundii ATCC 8090__k4,bacteria
+TAGA,6200,Citrobacter freundii ATCC 8090__k4,bacteria
+AGCT,14917,ecoli_CFT073_genome__k4,bacteria
+GCTT,21886,ecoli_CFT073_genome__k4,bacteria
+CTTT,25949,ecoli_CFT073_genome__k4,bacteria
+TTTT,40797,ecoli_CFT073_genome__k4,bacteria
+TTTC,31175,ecoli_CFT073_genome__k4,bacteria
+TTCA,29510,ecoli_CFT073_genome__k4,bacteria
+TCAT,24068,ecoli_CFT073_genome__k4,bacteria
+CATT,25071,ecoli_CFT073_genome__k4,bacteria
+ATTC,19879,ecoli_CFT073_genome__k4,bacteria
+TTCT,21253,ecoli_CFT073_genome__k4,bacteria
+TCTG,25199,ecoli_CFT073_genome__k4,bacteria
+CTGA,28637,ecoli_CFT073_genome__k4,bacteria
+TGAC,21064,ecoli_CFT073_genome__k4,bacteria
+GACT,10966,ecoli_CFT073_genome__k4,bacteria
+ACTG,24028,ecoli_CFT073_genome__k4,bacteria
+CTGC,32023,ecoli_CFT073_genome__k4,bacteria
+TGCA,22830,ecoli_CFT073_genome__k4,bacteria
+GCAA,30037,ecoli_CFT073_genome__k4,bacteria
+CAAC,24725,ecoli_CFT073_genome__k4,bacteria
+AACG,26873,ecoli_CFT073_genome__k4,bacteria
+ACGG,20401,ecoli_CFT073_genome__k4,bacteria
+CGGG,18549,ecoli_CFT073_genome__k4,bacteria
+GGGC,17308,ecoli_CFT073_genome__k4,bacteria
+GGCA,30815,ecoli_CFT073_genome__k4,bacteria
+CAAT,23598,ecoli_CFT073_genome__k4,bacteria
+AATA,24490,ecoli_CFT073_genome__k4,bacteria
+ATAT,22482,ecoli_CFT073_genome__k4,bacteria
+TATG,15426,ecoli_CFT073_genome__k4,bacteria
+ATGT,16422,ecoli_CFT073_genome__k4,bacteria
+TGTC,15428,ecoli_CFT073_genome__k4,bacteria
+GTCT,11953,ecoli_CFT073_genome__k4,bacteria
+TCTC,13333,ecoli_CFT073_genome__k4,bacteria
+CTCT,12288,ecoli_CFT073_genome__k4,bacteria
+CTGT,19779,ecoli_CFT073_genome__k4,bacteria
+TGTG,15134,ecoli_CFT073_genome__k4,bacteria
+GTGT,12884,ecoli_CFT073_genome__k4,bacteria
+GTGG,20708,ecoli_CFT073_genome__k4,bacteria
+TGGA,19137,ecoli_CFT073_genome__k4,bacteria
+GGAT,20604,ecoli_CFT073_genome__k4,bacteria
+GATT,23278,ecoli_CFT073_genome__k4,bacteria
+ATTA,21997,ecoli_CFT073_genome__k4,bacteria
+TTAA,23824,ecoli_CFT073_genome__k4,bacteria
+TAAA,25427,ecoli_CFT073_genome__k4,bacteria
+AAAA,40610,ecoli_CFT073_genome__k4,bacteria
+AAAG,25935,ecoli_CFT073_genome__k4,bacteria
+AAGA,18993,ecoli_CFT073_genome__k4,bacteria
+AGAG,12508,ecoli_CFT073_genome__k4,bacteria
+GAGT,11053,ecoli_CFT073_genome__k4,bacteria
+AGTG,15829,ecoli_CFT073_genome__k4,bacteria
+TGAT,31058,ecoli_CFT073_genome__k4,bacteria
+GATA,23351,ecoli_CFT073_genome__k4,bacteria
+ATAG,10778,ecoli_CFT073_genome__k4,bacteria
+TAGC,11901,ecoli_CFT073_genome__k4,bacteria
+AGCA,26363,ecoli_CFT073_genome__k4,bacteria
+GCAG,33049,ecoli_CFT073_genome__k4,bacteria
+CAGC,41811,ecoli_CFT073_genome__k4,bacteria
+CTTC,23286,ecoli_CFT073_genome__k4,bacteria
+TGAA,29366,ecoli_CFT073_genome__k4,bacteria
+GAAC,20139,ecoli_CFT073_genome__k4,bacteria
+AACT,18004,ecoli_CFT073_genome__k4,bacteria
+CTGG,37599,ecoli_CFT073_genome__k4,bacteria
+TGGT,26740,ecoli_CFT073_genome__k4,bacteria
+GGTT,22653,ecoli_CFT073_genome__k4,bacteria
+GTTA,19732,ecoli_CFT073_genome__k4,bacteria
+TTAC,20400,ecoli_CFT073_genome__k4,bacteria
+TACC,19299,ecoli_CFT073_genome__k4,bacteria
+ACCT,14995,ecoli_CFT073_genome__k4,bacteria
+CCTG,28038,ecoli_CFT073_genome__k4,bacteria
+TGCC,30746,ecoli_CFT073_genome__k4,bacteria
+GCCG,31254,ecoli_CFT073_genome__k4,bacteria
+CCGT,20453,ecoli_CFT073_genome__k4,bacteria
+CGTG,18236,ecoli_CFT073_genome__k4,bacteria
+GTGA,21508,ecoli_CFT073_genome__k4,bacteria
+TGAG,13658,ecoli_CFT073_genome__k4,bacteria
+AGTA,12415,ecoli_CFT073_genome__k4,bacteria
+GTAA,20719,ecoli_CFT073_genome__k4,bacteria
+AAAT,29329,ecoli_CFT073_genome__k4,bacteria
+AATT,21806,ecoli_CFT073_genome__k4,bacteria
+ATTT,29395,ecoli_CFT073_genome__k4,bacteria
+TTTA,25330,ecoli_CFT073_genome__k4,bacteria
+TTAT,25497,ecoli_CFT073_genome__k4,bacteria
+TATT,24454,ecoli_CFT073_genome__k4,bacteria
+ATTG,23336,ecoli_CFT073_genome__k4,bacteria
+TTGA,21577,ecoli_CFT073_genome__k4,bacteria
+ACTT,14522,ecoli_CFT073_genome__k4,bacteria
+CTTA,10919,ecoli_CFT073_genome__k4,bacteria
+TTAG,8256,ecoli_CFT073_genome__k4,bacteria
+TAGG,4614,ecoli_CFT073_genome__k4,bacteria
+AGGT,15425,ecoli_CFT073_genome__k4,bacteria
+GGTC,14876,ecoli_CFT073_genome__k4,bacteria
+GTCA,21055,ecoli_CFT073_genome__k4,bacteria
+TCAC,21521,ecoli_CFT073_genome__k4,bacteria
+CACT,15877,ecoli_CFT073_genome__k4,bacteria
+ACTA,7498,ecoli_CFT073_genome__k4,bacteria
+CTAA,8337,ecoli_CFT073_genome__k4,bacteria
+ATAC,15708,ecoli_CFT073_genome__k4,bacteria
+TACT,12338,ecoli_CFT073_genome__k4,bacteria
+TAAC,19850,ecoli_CFT073_genome__k4,bacteria
+AACC,22821,ecoli_CFT073_genome__k4,bacteria
+ACCA,27188,ecoli_CFT073_genome__k4,bacteria
+CCAA,15100,ecoli_CFT073_genome__k4,bacteria
+TATA,11066,ecoli_CFT073_genome__k4,bacteria
+AGGC,18769,ecoli_CFT073_genome__k4,bacteria
+GCAT,24523,ecoli_CFT073_genome__k4,bacteria
+CATA,15726,ecoli_CFT073_genome__k4,bacteria
+AGCG,29057,ecoli_CFT073_genome__k4,bacteria
+GCGC,37612,ecoli_CFT073_genome__k4,bacteria
+CGCA,27797,ecoli_CFT073_genome__k4,bacteria
+GCAC,20194,ecoli_CFT073_genome__k4,bacteria
+CACA,15418,ecoli_CFT073_genome__k4,bacteria
+ACAG,20092,ecoli_CFT073_genome__k4,bacteria
+CAGA,25843,ecoli_CFT073_genome__k4,bacteria
+AGAC,12288,ecoli_CFT073_genome__k4,bacteria
+GACA,15394,ecoli_CFT073_genome__k4,bacteria
+AGAT,18632,ecoli_CFT073_genome__k4,bacteria
+ATAA,25669,ecoli_CFT073_genome__k4,bacteria
+TACA,12457,ecoli_CFT073_genome__k4,bacteria
+GTAC,13687,ecoli_CFT073_genome__k4,bacteria
+ACAC,12992,ecoli_CFT073_genome__k4,bacteria
+ACAA,18994,ecoli_CFT073_genome__k4,bacteria
+AACA,25277,ecoli_CFT073_genome__k4,bacteria
+ACAT,16474,ecoli_CFT073_genome__k4,bacteria
+CATC,29722,ecoli_CFT073_genome__k4,bacteria
+ATCC,21064,ecoli_CFT073_genome__k4,bacteria
+TCCA,19495,ecoli_CFT073_genome__k4,bacteria
+CCAT,22841,ecoli_CFT073_genome__k4,bacteria
+CATG,17386,ecoli_CFT073_genome__k4,bacteria
+ATGA,23421,ecoli_CFT073_genome__k4,bacteria
+GAAA,31409,ecoli_CFT073_genome__k4,bacteria
+AAAC,28260,ecoli_CFT073_genome__k4,bacteria
+ACGC,28463,ecoli_CFT073_genome__k4,bacteria
+CACC,26151,ecoli_CFT073_genome__k4,bacteria
+CCAC,20947,ecoli_CFT073_genome__k4,bacteria
+ATCA,31401,ecoli_CFT073_genome__k4,bacteria
+CAGG,28375,ecoli_CFT073_genome__k4,bacteria
+GGTA,19524,ecoli_CFT073_genome__k4,bacteria
+CGGT,27198,ecoli_CFT073_genome__k4,bacteria
+GGTG,25954,ecoli_CFT073_genome__k4,bacteria
+GTGC,20054,ecoli_CFT073_genome__k4,bacteria
+TGCG,27568,ecoli_CFT073_genome__k4,bacteria
+GCGG,30550,ecoli_CFT073_genome__k4,bacteria
+GGCT,19812,ecoli_CFT073_genome__k4,bacteria
+GCTG,40771,ecoli_CFT073_genome__k4,bacteria
+GACG,20283,ecoli_CFT073_genome__k4,bacteria
+CGCG,29430,ecoli_CFT073_genome__k4,bacteria
+GCGT,27980,ecoli_CFT073_genome__k4,bacteria
+CGTA,15901,ecoli_CFT073_genome__k4,bacteria
+AGGA,13239,ecoli_CFT073_genome__k4,bacteria
+GGAA,23301,ecoli_CFT073_genome__k4,bacteria
+AGAA,21335,ecoli_CFT073_genome__k4,bacteria
+AAGC,22027,ecoli_CFT073_genome__k4,bacteria
+AGCC,20125,ecoli_CFT073_genome__k4,bacteria
+GCCC,17560,ecoli_CFT073_genome__k4,bacteria
+CCCG,18257,ecoli_CFT073_genome__k4,bacteria
+CCGC,30724,ecoli_CFT073_genome__k4,bacteria
+CAGT,24116,ecoli_CFT073_genome__k4,bacteria
+TTTG,26874,ecoli_CFT073_genome__k4,bacteria
+TTGT,19013,ecoli_CFT073_genome__k4,bacteria
+ACCC,13532,ecoli_CFT073_genome__k4,bacteria
+CCCC,10638,ecoli_CFT073_genome__k4,bacteria
+CCCA,15176,ecoli_CFT073_genome__k4,bacteria
+CCAG,38249,ecoli_CFT073_genome__k4,bacteria
+GCTA,11670,ecoli_CFT073_genome__k4,bacteria
+CTAG,1138,ecoli_CFT073_genome__k4,bacteria
+TGGG,14945,ecoli_CFT073_genome__k4,bacteria
+GGGG,10474,ecoli_CFT073_genome__k4,bacteria
+GGGT,13644,ecoli_CFT073_genome__k4,bacteria
+GTTC,20468,ecoli_CFT073_genome__k4,bacteria
+TTCC,22763,ecoli_CFT073_genome__k4,bacteria
+TCCG,19292,ecoli_CFT073_genome__k4,bacteria
+CCGG,28166,ecoli_CFT073_genome__k4,bacteria
+CGGA,19529,ecoli_CFT073_genome__k4,bacteria
+TCAG,28758,ecoli_CFT073_genome__k4,bacteria
+GAGC,14725,ecoli_CFT073_genome__k4,bacteria
+GCCA,35279,ecoli_CFT073_genome__k4,bacteria
+AGTT,18279,ecoli_CFT073_genome__k4,bacteria
+CCCT,10702,ecoli_CFT073_genome__k4,bacteria
+CCTT,15348,ecoli_CFT073_genome__k4,bacteria
+TGTT,24978,ecoli_CFT073_genome__k4,bacteria
+CTTG,10865,ecoli_CFT073_genome__k4,bacteria
+TTGC,29938,ecoli_CFT073_genome__k4,bacteria
+TGGC,34633,ecoli_CFT073_genome__k4,bacteria
+CAAG,10782,ecoli_CFT073_genome__k4,bacteria
+AAGT,14728,ecoli_CFT073_genome__k4,bacteria
+TCAA,21658,ecoli_CFT073_genome__k4,bacteria
+CAAA,26682,ecoli_CFT073_genome__k4,bacteria
+AATC,23746,ecoli_CFT073_genome__k4,bacteria
+AAGG,15560,ecoli_CFT073_genome__k4,bacteria
+AGGG,10625,ecoli_CFT073_genome__k4,bacteria
+GTCC,9632,ecoli_CFT073_genome__k4,bacteria
+TCCC,13047,ecoli_CFT073_genome__k4,bacteria
+AATG,24703,ecoli_CFT073_genome__k4,bacteria
+ATGG,22169,ecoli_CFT073_genome__k4,bacteria
+GGGA,13168,ecoli_CFT073_genome__k4,bacteria
+ACGA,16017,ecoli_CFT073_genome__k4,bacteria
+CGAA,20681,ecoli_CFT073_genome__k4,bacteria
+CCGA,17206,ecoli_CFT073_genome__k4,bacteria
+CGAT,26307,ecoli_CFT073_genome__k4,bacteria
+GATG,29185,ecoli_CFT073_genome__k4,bacteria
+TGTA,12555,ecoli_CFT073_genome__k4,bacteria
+TATC,23082,ecoli_CFT073_genome__k4,bacteria
+TAGT,7601,ecoli_CFT073_genome__k4,bacteria
+GTAT,15570,ecoli_CFT073_genome__k4,bacteria
+CGCC,37861,ecoli_CFT073_genome__k4,bacteria
+ACCG,27746,ecoli_CFT073_genome__k4,bacteria
+GAAG,23344,ecoli_CFT073_genome__k4,bacteria
+TCTA,6130,ecoli_CFT073_genome__k4,bacteria
+CTAC,9877,ecoli_CFT073_genome__k4,bacteria
+GAGA,13454,ecoli_CFT073_genome__k4,bacteria
+GTAG,10419,ecoli_CFT073_genome__k4,bacteria
+TAGA,6473,ecoli_CFT073_genome__k4,bacteria
+TACG,15577,ecoli_CFT073_genome__k4,bacteria
+GAAT,19793,ecoli_CFT073_genome__k4,bacteria
+ATGC,24688,ecoli_CFT073_genome__k4,bacteria
+TGCT,25562,ecoli_CFT073_genome__k4,bacteria
+GATC,20787,ecoli_CFT073_genome__k4,bacteria
+GGAG,11464,ecoli_CFT073_genome__k4,bacteria
+ATCT,18429,ecoli_CFT073_genome__k4,bacteria
+AGTC,10974,ecoli_CFT073_genome__k4,bacteria
+GCCT,18660,ecoli_CFT073_genome__k4,bacteria
+CGAG,11115,ecoli_CFT073_genome__k4,bacteria
+GTTT,28033,ecoli_CFT073_genome__k4,bacteria
+TTGG,14984,ecoli_CFT073_genome__k4,bacteria
+GAGG,9512,ecoli_CFT073_genome__k4,bacteria
+ACGT,16064,ecoli_CFT073_genome__k4,bacteria
+CGTC,19992,ecoli_CFT073_genome__k4,bacteria
+GTCG,18628,ecoli_CFT073_genome__k4,bacteria
+TCGA,16487,ecoli_CFT073_genome__k4,bacteria
+TAAG,11245,ecoli_CFT073_genome__k4,bacteria
+CACG,18208,ecoli_CFT073_genome__k4,bacteria
+CGGC,31193,ecoli_CFT073_genome__k4,bacteria
+GGCG,37252,ecoli_CFT073_genome__k4,bacteria
+GCGA,27166,ecoli_CFT073_genome__k4,bacteria
+ATCG,26444,ecoli_CFT073_genome__k4,bacteria
+CCTA,4530,ecoli_CFT073_genome__k4,bacteria
+CTAT,10478,ecoli_CFT073_genome__k4,bacteria
+CGTT,26764,ecoli_CFT073_genome__k4,bacteria
+GGCC,14023,ecoli_CFT073_genome__k4,bacteria
+GTTG,24440,ecoli_CFT073_genome__k4,bacteria
+TCGT,16401,ecoli_CFT073_genome__k4,bacteria
+CCTC,9352,ecoli_CFT073_genome__k4,bacteria
+CTCC,11286,ecoli_CFT073_genome__k4,bacteria
+TTCG,21281,ecoli_CFT073_genome__k4,bacteria
+CGAC,18775,ecoli_CFT073_genome__k4,bacteria
+GACC,15191,ecoli_CFT073_genome__k4,bacteria
+TCGG,17349,ecoli_CFT073_genome__k4,bacteria
+TCCT,12914,ecoli_CFT073_genome__k4,bacteria
+GGAC,9705,ecoli_CFT073_genome__k4,bacteria
+ACTC,11136,ecoli_CFT073_genome__k4,bacteria
+CTCG,11116,ecoli_CFT073_genome__k4,bacteria
+TCGC,27228,ecoli_CFT073_genome__k4,bacteria
+CGCT,28943,ecoli_CFT073_genome__k4,bacteria
+TAAT,22027,ecoli_CFT073_genome__k4,bacteria
+TCTT,19264,ecoli_CFT073_genome__k4,bacteria
+CTCA,14040,ecoli_CFT073_genome__k4,bacteria
+GCTC,14909,ecoli_CFT073_genome__k4,bacteria
+TATM,1,ecoli_CFT073_genome__k4,bacteria
+ATMG,1,ecoli_CFT073_genome__k4,bacteria
+TMGA,1,ecoli_CFT073_genome__k4,bacteria
+MGAC,2,ecoli_CFT073_genome__k4,bacteria
+TGGY,4,ecoli_CFT073_genome__k4,bacteria
+GGYG,3,ecoli_CFT073_genome__k4,bacteria
+GYGC,4,ecoli_CFT073_genome__k4,bacteria
+YGCG,3,ecoli_CFT073_genome__k4,bacteria
+GCGS,2,ecoli_CFT073_genome__k4,bacteria
+CGSC,2,ecoli_CFT073_genome__k4,bacteria
+GSCA,1,ecoli_CFT073_genome__k4,bacteria
+SCAG,1,ecoli_CFT073_genome__k4,bacteria
+CTCM,2,ecoli_CFT073_genome__k4,bacteria
+TCMG,2,ecoli_CFT073_genome__k4,bacteria
+CMGG,1,ecoli_CFT073_genome__k4,bacteria
+MGGC,1,ecoli_CFT073_genome__k4,bacteria
+CAGR,1,ecoli_CFT073_genome__k4,bacteria
+AGRA,1,ecoli_CFT073_genome__k4,bacteria
+GRAA,1,ecoli_CFT073_genome__k4,bacteria
+RAAG,1,ecoli_CFT073_genome__k4,bacteria
+CCCM,2,ecoli_CFT073_genome__k4,bacteria
+CCMT,1,ecoli_CFT073_genome__k4,bacteria
+CMTG,1,ecoli_CFT073_genome__k4,bacteria
+MTGC,3,ecoli_CFT073_genome__k4,bacteria
+CCGM,1,ecoli_CFT073_genome__k4,bacteria
+CGMG,1,ecoli_CFT073_genome__k4,bacteria
+GMGG,1,ecoli_CFT073_genome__k4,bacteria
+MGGT,1,ecoli_CFT073_genome__k4,bacteria
+GAAK,2,ecoli_CFT073_genome__k4,bacteria
+AAKC,3,ecoli_CFT073_genome__k4,bacteria
+AKCA,2,ecoli_CFT073_genome__k4,bacteria
+KCAG,2,ecoli_CFT073_genome__k4,bacteria
+GTCK,1,ecoli_CFT073_genome__k4,bacteria
+TCKA,2,ecoli_CFT073_genome__k4,bacteria
+CKAC,3,ecoli_CFT073_genome__k4,bacteria
+KACC,2,ecoli_CFT073_genome__k4,bacteria
+CGAY,1,ecoli_CFT073_genome__k4,bacteria
+GAYC,2,ecoli_CFT073_genome__k4,bacteria
+AYCT,1,ecoli_CFT073_genome__k4,bacteria
+YCTC,1,ecoli_CFT073_genome__k4,bacteria
+CCAK,2,ecoli_CFT073_genome__k4,bacteria
+CAKG,2,ecoli_CFT073_genome__k4,bacteria
+AKGA,1,ecoli_CFT073_genome__k4,bacteria
+KGAT,1,ecoli_CFT073_genome__k4,bacteria
+CTTS,1,ecoli_CFT073_genome__k4,bacteria
+TTSA,1,ecoli_CFT073_genome__k4,bacteria
+TSAA,2,ecoli_CFT073_genome__k4,bacteria
+SAAG,1,ecoli_CFT073_genome__k4,bacteria
+AGCM,1,ecoli_CFT073_genome__k4,bacteria
+GCMC,2,ecoli_CFT073_genome__k4,bacteria
+CMCT,2,ecoli_CFT073_genome__k4,bacteria
+MCTT,1,ecoli_CFT073_genome__k4,bacteria
+CTTW,2,ecoli_CFT073_genome__k4,bacteria
+TTWG,1,ecoli_CFT073_genome__k4,bacteria
+TWGY,1,ecoli_CFT073_genome__k4,bacteria
+WGYC,1,ecoli_CFT073_genome__k4,bacteria
+GYCG,3,ecoli_CFT073_genome__k4,bacteria
+YCGG,1,ecoli_CFT073_genome__k4,bacteria
+CAGK,3,ecoli_CFT073_genome__k4,bacteria
+AGKC,2,ecoli_CFT073_genome__k4,bacteria
+GKCC,2,ecoli_CFT073_genome__k4,bacteria
+KCCA,1,ecoli_CFT073_genome__k4,bacteria
+GGGM,1,ecoli_CFT073_genome__k4,bacteria
+GGMA,1,ecoli_CFT073_genome__k4,bacteria
+GMAA,1,ecoli_CFT073_genome__k4,bacteria
+MAAT,2,ecoli_CFT073_genome__k4,bacteria
+GAGW,1,ecoli_CFT073_genome__k4,bacteria
+AGWC,4,ecoli_CFT073_genome__k4,bacteria
+GWCG,1,ecoli_CFT073_genome__k4,bacteria
+WCGG,1,ecoli_CFT073_genome__k4,bacteria
+TTTW,1,ecoli_CFT073_genome__k4,bacteria
+TTWC,2,ecoli_CFT073_genome__k4,bacteria
+TWCT,1,ecoli_CFT073_genome__k4,bacteria
+WCTG,2,ecoli_CFT073_genome__k4,bacteria
+CGTS,2,ecoli_CFT073_genome__k4,bacteria
+GTSW,1,ecoli_CFT073_genome__k4,bacteria
+TSWC,1,ecoli_CFT073_genome__k4,bacteria
+SWCT,1,ecoli_CFT073_genome__k4,bacteria
+WCTC,2,ecoli_CFT073_genome__k4,bacteria
+TGCR,2,ecoli_CFT073_genome__k4,bacteria
+GCRA,4,ecoli_CFT073_genome__k4,bacteria
+CRAT,2,ecoli_CFT073_genome__k4,bacteria
+RATA,3,ecoli_CFT073_genome__k4,bacteria
+CAGW,2,ecoli_CFT073_genome__k4,bacteria
+GWCT,3,ecoli_CFT073_genome__k4,bacteria
+ATGB,1,ecoli_CFT073_genome__k4,bacteria
+TGBT,1,ecoli_CFT073_genome__k4,bacteria
+GBTA,1,ecoli_CFT073_genome__k4,bacteria
+BTAA,1,ecoli_CFT073_genome__k4,bacteria
+TACS,1,ecoli_CFT073_genome__k4,bacteria
+ACSG,1,ecoli_CFT073_genome__k4,bacteria
+CSGC,1,ecoli_CFT073_genome__k4,bacteria
+SGCC,1,ecoli_CFT073_genome__k4,bacteria
+CTTR,2,ecoli_CFT073_genome__k4,bacteria
+TTRA,2,ecoli_CFT073_genome__k4,bacteria
+TRAT,3,ecoli_CFT073_genome__k4,bacteria
+GTSG,2,ecoli_CFT073_genome__k4,bacteria
+TSGC,1,ecoli_CFT073_genome__k4,bacteria
+SGCG,1,ecoli_CFT073_genome__k4,bacteria
+TCAS,2,ecoli_CFT073_genome__k4,bacteria
+CASG,1,ecoli_CFT073_genome__k4,bacteria
+ASGC,1,ecoli_CFT073_genome__k4,bacteria
+SGCA,1,ecoli_CFT073_genome__k4,bacteria
+GGAK,1,ecoli_CFT073_genome__k4,bacteria
+GAKS,1,ecoli_CFT073_genome__k4,bacteria
+AKSC,1,ecoli_CFT073_genome__k4,bacteria
+KSCR,1,ecoli_CFT073_genome__k4,bacteria
+SCRG,1,ecoli_CFT073_genome__k4,bacteria
+CRGC,2,ecoli_CFT073_genome__k4,bacteria
+RGCG,1,ecoli_CFT073_genome__k4,bacteria
+GCGK,1,ecoli_CFT073_genome__k4,bacteria
+CGKG,1,ecoli_CFT073_genome__k4,bacteria
+GKGA,1,ecoli_CFT073_genome__k4,bacteria
+KGAW,1,ecoli_CFT073_genome__k4,bacteria
+GAWC,1,ecoli_CFT073_genome__k4,bacteria
+AWCG,1,ecoli_CFT073_genome__k4,bacteria
+WCGC,1,ecoli_CFT073_genome__k4,bacteria
+CAAM,1,ecoli_CFT073_genome__k4,bacteria
+AAMC,1,ecoli_CFT073_genome__k4,bacteria
+AMCG,1,ecoli_CFT073_genome__k4,bacteria
+MCGG,1,ecoli_CFT073_genome__k4,bacteria
+TTCR,1,ecoli_CFT073_genome__k4,bacteria
+TCRC,2,ecoli_CFT073_genome__k4,bacteria
+CRCG,1,ecoli_CFT073_genome__k4,bacteria
+RCGA,1,ecoli_CFT073_genome__k4,bacteria
+GACW,1,ecoli_CFT073_genome__k4,bacteria
+ACWT,1,ecoli_CFT073_genome__k4,bacteria
+CWTT,1,ecoli_CFT073_genome__k4,bacteria
+WTTT,3,ecoli_CFT073_genome__k4,bacteria
+ATTS,1,ecoli_CFT073_genome__k4,bacteria
+TTST,1,ecoli_CFT073_genome__k4,bacteria
+TSTT,1,ecoli_CFT073_genome__k4,bacteria
+STTA,2,ecoli_CFT073_genome__k4,bacteria
+AAGW,1,ecoli_CFT073_genome__k4,bacteria
+GWCC,1,ecoli_CFT073_genome__k4,bacteria
+WCCA,2,ecoli_CFT073_genome__k4,bacteria
+CTAY,1,ecoli_CFT073_genome__k4,bacteria
+TAYG,1,ecoli_CFT073_genome__k4,bacteria
+AYGC,1,ecoli_CFT073_genome__k4,bacteria
+YGCC,2,ecoli_CFT073_genome__k4,bacteria
+CASC,2,ecoli_CFT073_genome__k4,bacteria
+ASCG,1,ecoli_CFT073_genome__k4,bacteria
+SCGG,1,ecoli_CFT073_genome__k4,bacteria
+CGGY,1,ecoli_CFT073_genome__k4,bacteria
+YGCA,2,ecoli_CFT073_genome__k4,bacteria
+GCCW,1,ecoli_CFT073_genome__k4,bacteria
+CCWR,1,ecoli_CFT073_genome__k4,bacteria
+CWRC,1,ecoli_CFT073_genome__k4,bacteria
+WRCG,1,ecoli_CFT073_genome__k4,bacteria
+RCGG,1,ecoli_CFT073_genome__k4,bacteria
+GATW,2,ecoli_CFT073_genome__k4,bacteria
+ATWG,1,ecoli_CFT073_genome__k4,bacteria
+TWGC,1,ecoli_CFT073_genome__k4,bacteria
+WGCA,1,ecoli_CFT073_genome__k4,bacteria
+GCAW,2,ecoli_CFT073_genome__k4,bacteria
+CAWC,1,ecoli_CFT073_genome__k4,bacteria
+AWCK,1,ecoli_CFT073_genome__k4,bacteria
+WCKC,1,ecoli_CFT073_genome__k4,bacteria
+CKCA,1,ecoli_CFT073_genome__k4,bacteria
+KCAT,2,ecoli_CFT073_genome__k4,bacteria
+GCKA,2,ecoli_CFT073_genome__k4,bacteria
+CKAA,1,ecoli_CFT073_genome__k4,bacteria
+KAAA,1,ecoli_CFT073_genome__k4,bacteria
+GGCK,2,ecoli_CFT073_genome__k4,bacteria
+GCKC,1,ecoli_CFT073_genome__k4,bacteria
+CKCG,1,ecoli_CFT073_genome__k4,bacteria
+KCGC,1,ecoli_CFT073_genome__k4,bacteria
+AGTM,1,ecoli_CFT073_genome__k4,bacteria
+GTMT,1,ecoli_CFT073_genome__k4,bacteria
+TMTG,3,ecoli_CFT073_genome__k4,bacteria
+MTGG,1,ecoli_CFT073_genome__k4,bacteria
+TGGM,1,ecoli_CFT073_genome__k4,bacteria
+GGMG,1,ecoli_CFT073_genome__k4,bacteria
+GMGT,2,ecoli_CFT073_genome__k4,bacteria
+MGTG,1,ecoli_CFT073_genome__k4,bacteria
+TWCY,1,ecoli_CFT073_genome__k4,bacteria
+WCYT,1,ecoli_CFT073_genome__k4,bacteria
+CYTT,2,ecoli_CFT073_genome__k4,bacteria
+YTTC,3,ecoli_CFT073_genome__k4,bacteria
+CGCS,1,ecoli_CFT073_genome__k4,bacteria
+GCST,2,ecoli_CFT073_genome__k4,bacteria
+CSTT,2,ecoli_CFT073_genome__k4,bacteria
+STTT,1,ecoli_CFT073_genome__k4,bacteria
+GGCR,2,ecoli_CFT073_genome__k4,bacteria
+RATT,2,ecoli_CFT073_genome__k4,bacteria
+AGGK,1,ecoli_CFT073_genome__k4,bacteria
+GGKG,1,ecoli_CFT073_genome__k4,bacteria
+GKGT,1,ecoli_CFT073_genome__k4,bacteria
+KGTT,1,ecoli_CFT073_genome__k4,bacteria
+GATR,1,ecoli_CFT073_genome__k4,bacteria
+ATRT,1,ecoli_CFT073_genome__k4,bacteria
+TRTC,2,ecoli_CFT073_genome__k4,bacteria
+RTCA,2,ecoli_CFT073_genome__k4,bacteria
+AGKT,1,ecoli_CFT073_genome__k4,bacteria
+GKTG,1,ecoli_CFT073_genome__k4,bacteria
+KTGC,1,ecoli_CFT073_genome__k4,bacteria
+CAGY,1,ecoli_CFT073_genome__k4,bacteria
+AGYG,1,ecoli_CFT073_genome__k4,bacteria
+GYGA,1,ecoli_CFT073_genome__k4,bacteria
+YGAT,2,ecoli_CFT073_genome__k4,bacteria
+CTGS,1,ecoli_CFT073_genome__k4,bacteria
+TGSC,1,ecoli_CFT073_genome__k4,bacteria
+GSCC,1,ecoli_CFT073_genome__k4,bacteria
+SCCG,2,ecoli_CFT073_genome__k4,bacteria
+GCAR,2,ecoli_CFT073_genome__k4,bacteria
+CARC,2,ecoli_CFT073_genome__k4,bacteria
+ARCA,3,ecoli_CFT073_genome__k4,bacteria
+RCAK,1,ecoli_CFT073_genome__k4,bacteria
+AKGC,1,ecoli_CFT073_genome__k4,bacteria
+KGCT,1,ecoli_CFT073_genome__k4,bacteria
+ACCR,1,ecoli_CFT073_genome__k4,bacteria
+CCRR,1,ecoli_CFT073_genome__k4,bacteria
+CRRA,1,ecoli_CFT073_genome__k4,bacteria
+RRAC,1,ecoli_CFT073_genome__k4,bacteria
+RACG,1,ecoli_CFT073_genome__k4,bacteria
+GTGR,1,ecoli_CFT073_genome__k4,bacteria
+TGRA,1,ecoli_CFT073_genome__k4,bacteria
+GRAG,1,ecoli_CFT073_genome__k4,bacteria
+RAGC,1,ecoli_CFT073_genome__k4,bacteria
+CGAR,2,ecoli_CFT073_genome__k4,bacteria
+GARG,1,ecoli_CFT073_genome__k4,bacteria
+ARGA,1,ecoli_CFT073_genome__k4,bacteria
+RGAA,2,ecoli_CFT073_genome__k4,bacteria
+CGTY,2,ecoli_CFT073_genome__k4,bacteria
+GTYC,1,ecoli_CFT073_genome__k4,bacteria
+TYCA,1,ecoli_CFT073_genome__k4,bacteria
+YCAT,1,ecoli_CFT073_genome__k4,bacteria
+TATY,1,ecoli_CFT073_genome__k4,bacteria
+ATYT,2,ecoli_CFT073_genome__k4,bacteria
+TYTG,1,ecoli_CFT073_genome__k4,bacteria
+YTGA,2,ecoli_CFT073_genome__k4,bacteria
+TTTY,1,ecoli_CFT073_genome__k4,bacteria
+TTYT,1,ecoli_CFT073_genome__k4,bacteria
+TYTT,2,ecoli_CFT073_genome__k4,bacteria
+YTTG,1,ecoli_CFT073_genome__k4,bacteria
+GCAK,2,ecoli_CFT073_genome__k4,bacteria
+CAKT,2,ecoli_CFT073_genome__k4,bacteria
+AKTA,1,ecoli_CFT073_genome__k4,bacteria
+KTAT,1,ecoli_CFT073_genome__k4,bacteria
+CCAM,1,ecoli_CFT073_genome__k4,bacteria
+CAMC,2,ecoli_CFT073_genome__k4,bacteria
+AMCA,2,ecoli_CFT073_genome__k4,bacteria
+MCAM,1,ecoli_CFT073_genome__k4,bacteria
+MCAC,1,ecoli_CFT073_genome__k4,bacteria
+GTTW,1,ecoli_CFT073_genome__k4,bacteria
+TTWW,1,ecoli_CFT073_genome__k4,bacteria
+TWWT,1,ecoli_CFT073_genome__k4,bacteria
+WWTT,1,ecoli_CFT073_genome__k4,bacteria
+TTGW,1,ecoli_CFT073_genome__k4,bacteria
+TGWA,1,ecoli_CFT073_genome__k4,bacteria
+GWAC,1,ecoli_CFT073_genome__k4,bacteria
+WACA,1,ecoli_CFT073_genome__k4,bacteria
+GCCS,2,ecoli_CFT073_genome__k4,bacteria
+CCSG,2,ecoli_CFT073_genome__k4,bacteria
+CSGT,1,ecoli_CFT073_genome__k4,bacteria
+SGTG,1,ecoli_CFT073_genome__k4,bacteria
+TCAR,1,ecoli_CFT073_genome__k4,bacteria
+RCAA,1,ecoli_CFT073_genome__k4,bacteria
+GTAY,1,ecoli_CFT073_genome__k4,bacteria
+TAYA,1,ecoli_CFT073_genome__k4,bacteria
+AYAC,1,ecoli_CFT073_genome__k4,bacteria
+YACG,1,ecoli_CFT073_genome__k4,bacteria
+GTAS,1,ecoli_CFT073_genome__k4,bacteria
+TASC,1,ecoli_CFT073_genome__k4,bacteria
+ASCC,2,ecoli_CFT073_genome__k4,bacteria
+SCCA,1,ecoli_CFT073_genome__k4,bacteria
+ATCK,1,ecoli_CFT073_genome__k4,bacteria
+KACA,2,ecoli_CFT073_genome__k4,bacteria
+CATM,2,ecoli_CFT073_genome__k4,bacteria
+ATMT,2,ecoli_CFT073_genome__k4,bacteria
+CACS,1,ecoli_CFT073_genome__k4,bacteria
+ACSA,1,ecoli_CFT073_genome__k4,bacteria
+CSAT,1,ecoli_CFT073_genome__k4,bacteria
+SATC,1,ecoli_CFT073_genome__k4,bacteria
+CAAY,1,ecoli_CFT073_genome__k4,bacteria
+AAYC,1,ecoli_CFT073_genome__k4,bacteria
+AYCA,1,ecoli_CFT073_genome__k4,bacteria
+YCAC,1,ecoli_CFT073_genome__k4,bacteria
+KCCT,1,ecoli_CFT073_genome__k4,bacteria
+CATY,1,ecoli_CFT073_genome__k4,bacteria
+YTTT,1,ecoli_CFT073_genome__k4,bacteria
+TCMA,1,ecoli_CFT073_genome__k4,bacteria
+CMAT,1,ecoli_CFT073_genome__k4,bacteria
+MATA,1,ecoli_CFT073_genome__k4,bacteria
+CSGA,1,ecoli_CFT073_genome__k4,bacteria
+SGAT,1,ecoli_CFT073_genome__k4,bacteria
+ATTY,1,ecoli_CFT073_genome__k4,bacteria
+TTYC,1,ecoli_CFT073_genome__k4,bacteria
+TYCG,1,ecoli_CFT073_genome__k4,bacteria
+YCGC,1,ecoli_CFT073_genome__k4,bacteria
+AGAY,2,ecoli_CFT073_genome__k4,bacteria
+GAYG,1,ecoli_CFT073_genome__k4,bacteria
+AYGG,1,ecoli_CFT073_genome__k4,bacteria
+YGGA,1,ecoli_CFT073_genome__k4,bacteria
+CARA,1,ecoli_CFT073_genome__k4,bacteria
+ARAA,1,ecoli_CFT073_genome__k4,bacteria
+RAAA,2,ecoli_CFT073_genome__k4,bacteria
+TTAM,1,ecoli_CFT073_genome__k4,bacteria
+TAMG,1,ecoli_CFT073_genome__k4,bacteria
+AMGC,1,ecoli_CFT073_genome__k4,bacteria
+MGCA,1,ecoli_CFT073_genome__k4,bacteria
+GGTK,1,ecoli_CFT073_genome__k4,bacteria
+GTKA,1,ecoli_CFT073_genome__k4,bacteria
+TKAT,1,ecoli_CFT073_genome__k4,bacteria
+KATG,1,ecoli_CFT073_genome__k4,bacteria
+TGTY,1,ecoli_CFT073_genome__k4,bacteria
+GTYG,2,ecoli_CFT073_genome__k4,bacteria
+TYGC,2,ecoli_CFT073_genome__k4,bacteria
+CCMC,1,ecoli_CFT073_genome__k4,bacteria
+CMCC,1,ecoli_CFT073_genome__k4,bacteria
+MCCG,2,ecoli_CFT073_genome__k4,bacteria
+AATY,3,ecoli_CFT073_genome__k4,bacteria
+ATYG,2,ecoli_CFT073_genome__k4,bacteria
+GCGM,1,ecoli_CFT073_genome__k4,bacteria
+CGMC,1,ecoli_CFT073_genome__k4,bacteria
+GMCC,1,ecoli_CFT073_genome__k4,bacteria
+CAAK,1,ecoli_CFT073_genome__k4,bacteria
+CATS,1,ecoli_CFT073_genome__k4,bacteria
+ATST,1,ecoli_CFT073_genome__k4,bacteria
+TSTG,1,ecoli_CFT073_genome__k4,bacteria
+STGA,1,ecoli_CFT073_genome__k4,bacteria
+GGTY,1,ecoli_CFT073_genome__k4,bacteria
+TYGT,1,ecoli_CFT073_genome__k4,bacteria
+YGTS,1,ecoli_CFT073_genome__k4,bacteria
+GTSA,1,ecoli_CFT073_genome__k4,bacteria
+SAAY,1,ecoli_CFT073_genome__k4,bacteria
+AAYA,1,ecoli_CFT073_genome__k4,bacteria
+AYAA,1,ecoli_CFT073_genome__k4,bacteria
+YAAC,1,ecoli_CFT073_genome__k4,bacteria
+CCAW,2,ecoli_CFT073_genome__k4,bacteria
+CAWA,1,ecoli_CFT073_genome__k4,bacteria
+AWAG,1,ecoli_CFT073_genome__k4,bacteria
+WAGC,1,ecoli_CFT073_genome__k4,bacteria
+ATYA,1,ecoli_CFT073_genome__k4,bacteria
+TYAC,2,ecoli_CFT073_genome__k4,bacteria
+YACC,1,ecoli_CFT073_genome__k4,bacteria
+TACM,1,ecoli_CFT073_genome__k4,bacteria
+ACMG,1,ecoli_CFT073_genome__k4,bacteria
+CMGT,2,ecoli_CFT073_genome__k4,bacteria
+MGTA,3,ecoli_CFT073_genome__k4,bacteria
+ACGK,2,ecoli_CFT073_genome__k4,bacteria
+CGKT,1,ecoli_CFT073_genome__k4,bacteria
+GKTC,1,ecoli_CFT073_genome__k4,bacteria
+KTCT,1,ecoli_CFT073_genome__k4,bacteria
+GTCM,2,ecoli_CFT073_genome__k4,bacteria
+TCMC,1,ecoli_CFT073_genome__k4,bacteria
+MCTC,1,ecoli_CFT073_genome__k4,bacteria
+CCAS,1,ecoli_CFT073_genome__k4,bacteria
+CASA,1,ecoli_CFT073_genome__k4,bacteria
+ASAA,1,ecoli_CFT073_genome__k4,bacteria
+SAAA,2,ecoli_CFT073_genome__k4,bacteria
+AAAW,1,ecoli_CFT073_genome__k4,bacteria
+AAWT,1,ecoli_CFT073_genome__k4,bacteria
+AWTT,2,ecoli_CFT073_genome__k4,bacteria
+AGGW,1,ecoli_CFT073_genome__k4,bacteria
+GGWT,1,ecoli_CFT073_genome__k4,bacteria
+GWTA,1,ecoli_CFT073_genome__k4,bacteria
+WTAC,1,ecoli_CFT073_genome__k4,bacteria
+TTTR,1,ecoli_CFT073_genome__k4,bacteria
+TTRC,1,ecoli_CFT073_genome__k4,bacteria
+TRCC,1,ecoli_CFT073_genome__k4,bacteria
+RCCG,1,ecoli_CFT073_genome__k4,bacteria
+GGTW,1,ecoli_CFT073_genome__k4,bacteria
+GTWT,1,ecoli_CFT073_genome__k4,bacteria
+TTGY,1,ecoli_CFT073_genome__k4,bacteria
+TGYC,1,ecoli_CFT073_genome__k4,bacteria
+GYCA,1,ecoli_CFT073_genome__k4,bacteria
+YCAG,1,ecoli_CFT073_genome__k4,bacteria
+GTYA,1,ecoli_CFT073_genome__k4,bacteria
+TYAA,1,ecoli_CFT073_genome__k4,bacteria
+YAAT,1,ecoli_CFT073_genome__k4,bacteria
+GATK,1,ecoli_CFT073_genome__k4,bacteria
+ATKA,1,ecoli_CFT073_genome__k4,bacteria
+TKAA,1,ecoli_CFT073_genome__k4,bacteria
+KAAT,1,ecoli_CFT073_genome__k4,bacteria
+CGKC,1,ecoli_CFT073_genome__k4,bacteria
+GKCA,1,ecoli_CFT073_genome__k4,bacteria
+AGWA,1,ecoli_CFT073_genome__k4,bacteria
+GWAG,1,ecoli_CFT073_genome__k4,bacteria
+WAGA,1,ecoli_CFT073_genome__k4,bacteria
+AGAM,1,ecoli_CFT073_genome__k4,bacteria
+GAMA,1,ecoli_CFT073_genome__k4,bacteria
+AMAT,1,ecoli_CFT073_genome__k4,bacteria
+MATC,1,ecoli_CFT073_genome__k4,bacteria
+TYGA,1,ecoli_CFT073_genome__k4,bacteria
+ATTK,1,ecoli_CFT073_genome__k4,bacteria
+TTKA,1,ecoli_CFT073_genome__k4,bacteria
+TKAC,1,ecoli_CFT073_genome__k4,bacteria
+TGCM,1,ecoli_CFT073_genome__k4,bacteria
+CMCA,1,ecoli_CFT073_genome__k4,bacteria
+MCAG,1,ecoli_CFT073_genome__k4,bacteria
+CGSG,1,ecoli_CFT073_genome__k4,bacteria
+GSGT,1,ecoli_CFT073_genome__k4,bacteria
+SGTT,1,ecoli_CFT073_genome__k4,bacteria
+TAAR,1,ecoli_CFT073_genome__k4,bacteria
+AARA,1,ecoli_CFT073_genome__k4,bacteria
+ARAC,1,ecoli_CFT073_genome__k4,bacteria
+RACA,1,ecoli_CFT073_genome__k4,bacteria
+AGCS,1,ecoli_CFT073_genome__k4,bacteria
+CCGW,1,ecoli_CFT073_genome__k4,bacteria
+CGWC,1,ecoli_CFT073_genome__k4,bacteria
+CCGS,3,ecoli_CFT073_genome__k4,bacteria
+CGST,1,ecoli_CFT073_genome__k4,bacteria
+GSTA,1,ecoli_CFT073_genome__k4,bacteria
+STAC,1,ecoli_CFT073_genome__k4,bacteria
+TTGR,1,ecoli_CFT073_genome__k4,bacteria
+TGRG,1,ecoli_CFT073_genome__k4,bacteria
+GRGA,1,ecoli_CFT073_genome__k4,bacteria
+GCRT,1,ecoli_CFT073_genome__k4,bacteria
+CRTA,1,ecoli_CFT073_genome__k4,bacteria
+RTAA,1,ecoli_CFT073_genome__k4,bacteria
+ATCY,1,ecoli_CFT073_genome__k4,bacteria
+TCYT,2,ecoli_CFT073_genome__k4,bacteria
+CAKC,1,ecoli_CFT073_genome__k4,bacteria
+AKCG,1,ecoli_CFT073_genome__k4,bacteria
+KCGA,1,ecoli_CFT073_genome__k4,bacteria
+ACCK,1,ecoli_CFT073_genome__k4,bacteria
+CCKC,2,ecoli_CFT073_genome__k4,bacteria
+CKCC,1,ecoli_CFT073_genome__k4,bacteria
+KCCG,1,ecoli_CFT073_genome__k4,bacteria
+CTCR,1,ecoli_CFT073_genome__k4,bacteria
+CRCC,1,ecoli_CFT073_genome__k4,bacteria
+RCCA,1,ecoli_CFT073_genome__k4,bacteria
+TTGK,1,ecoli_CFT073_genome__k4,bacteria
+TGKG,1,ecoli_CFT073_genome__k4,bacteria
+GKGG,1,ecoli_CFT073_genome__k4,bacteria
+KGGT,1,ecoli_CFT073_genome__k4,bacteria
+CCTY,2,ecoli_CFT073_genome__k4,bacteria
+CTYC,2,ecoli_CFT073_genome__k4,bacteria
+TYCT,2,ecoli_CFT073_genome__k4,bacteria
+YCTG,1,ecoli_CFT073_genome__k4,bacteria
+CTGM,1,ecoli_CFT073_genome__k4,bacteria
+TGMG,1,ecoli_CFT073_genome__k4,bacteria
+AGGY,1,ecoli_CFT073_genome__k4,bacteria
+GGYT,1,ecoli_CFT073_genome__k4,bacteria
+GYTG,1,ecoli_CFT073_genome__k4,bacteria
+YTGC,1,ecoli_CFT073_genome__k4,bacteria
+AYCC,1,ecoli_CFT073_genome__k4,bacteria
+YCCA,1,ecoli_CFT073_genome__k4,bacteria
+AGCR,1,ecoli_CFT073_genome__k4,bacteria
+CRAA,3,ecoli_CFT073_genome__k4,bacteria
+RAAR,1,ecoli_CFT073_genome__k4,bacteria
+AARC,1,ecoli_CFT073_genome__k4,bacteria
+RCAG,1,ecoli_CFT073_genome__k4,bacteria
+CTGY,1,ecoli_CFT073_genome__k4,bacteria
+TGYT,1,ecoli_CFT073_genome__k4,bacteria
+GYTT,1,ecoli_CFT073_genome__k4,bacteria
+CTCY,1,ecoli_CFT073_genome__k4,bacteria
+CYTG,1,ecoli_CFT073_genome__k4,bacteria
+ACTR,1,ecoli_CFT073_genome__k4,bacteria
+CTRA,1,ecoli_CFT073_genome__k4,bacteria
+TRAC,1,ecoli_CFT073_genome__k4,bacteria
+RACT,1,ecoli_CFT073_genome__k4,bacteria
+CATR,1,ecoli_CFT073_genome__k4,bacteria
+ATRA,1,ecoli_CFT073_genome__k4,bacteria
+GACR,1,ecoli_CFT073_genome__k4,bacteria
+ACRG,1,ecoli_CFT073_genome__k4,bacteria
+RGCW,1,ecoli_CFT073_genome__k4,bacteria
+GCWC,1,ecoli_CFT073_genome__k4,bacteria
+CWCC,1,ecoli_CFT073_genome__k4,bacteria
+CGGS,1,ecoli_CFT073_genome__k4,bacteria
+GGSG,1,ecoli_CFT073_genome__k4,bacteria
+GSGA,1,ecoli_CFT073_genome__k4,bacteria
+SGAA,1,ecoli_CFT073_genome__k4,bacteria
+AAGM,1,ecoli_CFT073_genome__k4,bacteria
+AGMA,1,ecoli_CFT073_genome__k4,bacteria
+GMAC,1,ecoli_CFT073_genome__k4,bacteria
+MACG,1,ecoli_CFT073_genome__k4,bacteria
+CACM,1,ecoli_CFT073_genome__k4,bacteria
+ACMA,1,ecoli_CFT073_genome__k4,bacteria
+CMAA,1,ecoli_CFT073_genome__k4,bacteria
+GTTS,1,ecoli_CFT073_genome__k4,bacteria
+TTSC,1,ecoli_CFT073_genome__k4,bacteria
+TSCG,1,ecoli_CFT073_genome__k4,bacteria
+SCGA,1,ecoli_CFT073_genome__k4,bacteria
+AKTC,1,ecoli_CFT073_genome__k4,bacteria
+KTCA,1,ecoli_CFT073_genome__k4,bacteria
+CAWT,1,ecoli_CFT073_genome__k4,bacteria
+WTTA,1,ecoli_CFT073_genome__k4,bacteria
+CCGY,1,ecoli_CFT073_genome__k4,bacteria
+CGYC,1,ecoli_CFT073_genome__k4,bacteria
+GYCT,1,ecoli_CFT073_genome__k4,bacteria
+YCTT,2,ecoli_CFT073_genome__k4,bacteria
+GGYC,2,ecoli_CFT073_genome__k4,bacteria
+YCGA,1,ecoli_CFT073_genome__k4,bacteria
+GCKT,1,ecoli_CFT073_genome__k4,bacteria
+CKTA,1,ecoli_CFT073_genome__k4,bacteria
+KTAA,1,ecoli_CFT073_genome__k4,bacteria
+GAGM,1,ecoli_CFT073_genome__k4,bacteria
+AGMG,1,ecoli_CFT073_genome__k4,bacteria
+GMGA,1,ecoli_CFT073_genome__k4,bacteria
+ACCY,1,ecoli_CFT073_genome__k4,bacteria
+CCYT,1,ecoli_CFT073_genome__k4,bacteria
+CYTA,1,ecoli_CFT073_genome__k4,bacteria
+YTAC,1,ecoli_CFT073_genome__k4,bacteria
+CGTR,1,ecoli_CFT073_genome__k4,bacteria
+GTRT,1,ecoli_CFT073_genome__k4,bacteria
+TAAK,1,ecoli_CFT073_genome__k4,bacteria
+AKCT,1,ecoli_CFT073_genome__k4,bacteria
+KCTA,1,ecoli_CFT073_genome__k4,bacteria
+TCGY,1,ecoli_CFT073_genome__k4,bacteria
+CGYG,2,ecoli_CFT073_genome__k4,bacteria
+GYGT,1,ecoli_CFT073_genome__k4,bacteria
+YGTT,1,ecoli_CFT073_genome__k4,bacteria
+GCAS,1,ecoli_CFT073_genome__k4,bacteria
+CGSA,1,ecoli_CFT073_genome__k4,bacteria
+GSAC,1,ecoli_CFT073_genome__k4,bacteria
+SACT,1,ecoli_CFT073_genome__k4,bacteria
+AGCK,1,ecoli_CFT073_genome__k4,bacteria
+TCGW,1,ecoli_CFT073_genome__k4,bacteria
+CGWT,1,ecoli_CFT073_genome__k4,bacteria
+GWTT,1,ecoli_CFT073_genome__k4,bacteria
+WTTG,1,ecoli_CFT073_genome__k4,bacteria
+ACTM,1,ecoli_CFT073_genome__k4,bacteria
+CTMC,1,ecoli_CFT073_genome__k4,bacteria
+TMCA,1,ecoli_CFT073_genome__k4,bacteria
+MCAT,1,ecoli_CFT073_genome__k4,bacteria
+TAGW,1,ecoli_CFT073_genome__k4,bacteria
+WCTA,1,ecoli_CFT073_genome__k4,bacteria
+GCTK,1,ecoli_CFT073_genome__k4,bacteria
+CTKG,1,ecoli_CFT073_genome__k4,bacteria
+TKGA,1,ecoli_CFT073_genome__k4,bacteria
+KGAA,1,ecoli_CFT073_genome__k4,bacteria
+ATWA,1,ecoli_CFT073_genome__k4,bacteria
+TWAA,1,ecoli_CFT073_genome__k4,bacteria
+WAAG,1,ecoli_CFT073_genome__k4,bacteria
+AAGK,1,ecoli_CFT073_genome__k4,bacteria
+AGKY,1,ecoli_CFT073_genome__k4,bacteria
+GKYG,1,ecoli_CFT073_genome__k4,bacteria
+KYGC,1,ecoli_CFT073_genome__k4,bacteria
+YGCW,1,ecoli_CFT073_genome__k4,bacteria
+GCWG,1,ecoli_CFT073_genome__k4,bacteria
+CWGC,1,ecoli_CFT073_genome__k4,bacteria
+WGCG,1,ecoli_CFT073_genome__k4,bacteria
+ATCR,1,ecoli_CFT073_genome__k4,bacteria
+TCRA,1,ecoli_CFT073_genome__k4,bacteria
+RAAC,1,ecoli_CFT073_genome__k4,bacteria
+CCCK,1,ecoli_CFT073_genome__k4,bacteria
+CKCT,1,ecoli_CFT073_genome__k4,bacteria
+KCTC,1,ecoli_CFT073_genome__k4,bacteria
+CAWG,1,ecoli_CFT073_genome__k4,bacteria
+AWGC,1,ecoli_CFT073_genome__k4,bacteria
+WGCT,1,ecoli_CFT073_genome__k4,bacteria
+CACR,1,ecoli_CFT073_genome__k4,bacteria
+ACRT,1,ecoli_CFT073_genome__k4,bacteria
+CRTC,1,ecoli_CFT073_genome__k4,bacteria
+RTCC,1,ecoli_CFT073_genome__k4,bacteria
+GGTS,1,ecoli_CFT073_genome__k4,bacteria
+TSGG,1,ecoli_CFT073_genome__k4,bacteria
+SGGT,1,ecoli_CFT073_genome__k4,bacteria
+AAKA,1,ecoli_CFT073_genome__k4,bacteria
+AKAA,1,ecoli_CFT073_genome__k4,bacteria
+KAAG,1,ecoli_CFT073_genome__k4,bacteria
+GART,1,ecoli_CFT073_genome__k4,bacteria
+ARTA,1,ecoli_CFT073_genome__k4,bacteria
+RTAT,1,ecoli_CFT073_genome__k4,bacteria
+TTAK,1,ecoli_CFT073_genome__k4,bacteria
+TAKK,1,ecoli_CFT073_genome__k4,bacteria
+AKKG,1,ecoli_CFT073_genome__k4,bacteria
+KKGG,1,ecoli_CFT073_genome__k4,bacteria
+KGGC,1,ecoli_CFT073_genome__k4,bacteria
+GAAW,1,ecoli_CFT073_genome__k4,bacteria
+AAWG,1,ecoli_CFT073_genome__k4,bacteria
+AWGA,1,ecoli_CFT073_genome__k4,bacteria
+WGAC,1,ecoli_CFT073_genome__k4,bacteria
+YCGY,1,ecoli_CFT073_genome__k4,bacteria
+TGAR,1,ecoli_CFT073_genome__k4,bacteria
+GARA,1,ecoli_CFT073_genome__k4,bacteria
+ARAG,1,ecoli_CFT073_genome__k4,bacteria
+RAGA,1,ecoli_CFT073_genome__k4,bacteria
+TAGM,1,ecoli_CFT073_genome__k4,bacteria
+AGMT,1,ecoli_CFT073_genome__k4,bacteria
+GMTT,1,ecoli_CFT073_genome__k4,bacteria
+MTTA,1,ecoli_CFT073_genome__k4,bacteria
+CCCS,1,ecoli_CFT073_genome__k4,bacteria
+CCSA,1,ecoli_CFT073_genome__k4,bacteria
+CSAA,1,ecoli_CFT073_genome__k4,bacteria
+GSCG,1,ecoli_CFT073_genome__k4,bacteria
+SCGC,1,ecoli_CFT073_genome__k4,bacteria
+TACK,1,ecoli_CFT073_genome__k4,bacteria
+ACKA,1,ecoli_CFT073_genome__k4,bacteria
+CKAT,1,ecoli_CFT073_genome__k4,bacteria
+KATA,1,ecoli_CFT073_genome__k4,bacteria
+GCTY,1,ecoli_CFT073_genome__k4,bacteria
+CTYA,1,ecoli_CFT073_genome__k4,bacteria
+YACA,1,ecoli_CFT073_genome__k4,bacteria
+TAAM,1,ecoli_CFT073_genome__k4,bacteria
+AAMT,1,ecoli_CFT073_genome__k4,bacteria
+AMTC,1,ecoli_CFT073_genome__k4,bacteria
+MTCA,1,ecoli_CFT073_genome__k4,bacteria
+GTGG,24940,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGGA,21339,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGAG,15367,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GAGT,10302,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGTC,10187,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTCC,13084,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCCG,21833,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCGC,40631,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGCC,48084,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCCG,43094,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCGT,26347,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGTG,24207,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTGT,12620,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGTC,16863,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTCA,23868,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCAC,24484,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CACT,14034,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACTT,12336,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTTT,25383,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTTC,28393,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTCG,22347,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCGC,30819,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGCT,36683,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCTT,24810,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTTG,24187,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTGG,13851,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGGC,39788,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGCA,33028,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCAG,41850,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CAGC,55558,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGCA,28949,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CAGT,20255,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGTG,13662,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTCT,14824,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCTT,18705,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTTG,11003,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTGC,25660,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGCC,33584,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCCC,25695,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCCG,26626,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCGA,19955,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGAT,27746,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GATT,20091,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATTG,18620,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGCA,23205,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CAGG,36083,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGGA,15416,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGAT,22918,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GATG,31299,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATGA,22891,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGAG,17086,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGTT,14437,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTTA,16738,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTAC,17823,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TACC,19987,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACCA,27584,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCAG,43995,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGCC,25509,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCCA,40615,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCAC,26506,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CACA,15164,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACAG,20766,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CAGA,27749,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGAA,19970,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GAAT,17381,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AATT,15616,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATTC,17572,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTCA,30253,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCAG,33034,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGTA,10208,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTAT,14404,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TATG,13195,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATGT,14813,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGTG,14761,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GATC,26286,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATCC,23311,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGTT,27214,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTTG,21845,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGGC,23684,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGCG,45814,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCGG,39433,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGGA,21689,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGAA,23068,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GAAC,22183,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AACT,14825,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACTG,20299,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTGA,32643,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GAGC,21374,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGCG,35956,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCGA,29575,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GATA,21625,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATAA,19886,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TAAC,16721,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AACA,22052,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACAC,13007,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CACG,24560,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACGC,33503,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCTG,55064,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTGG,43089,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGCT,25150,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTGT,15674,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGTA,10713,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATGC,24913,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGCG,31272,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCGC,51715,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCAA,13822,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CAAA,24511,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AAAC,26497,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AACC,23329,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACCG,32843,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTTT,25885,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTTT,35365,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTGC,23945,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGCT,29378,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCTC,22031,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTCG,14766,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCGA,18268,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGGG,17706,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGGT,18519,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGTA,19369,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTAA,17749,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TAAG,10018,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AAGG,16728,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGGG,14724,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGGA,15767,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGAC,12858,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GACA,16689,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACAA,15960,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CAAG,10678,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AAGT,11874,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTAC,14501,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACCT,17987,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCTT,17615,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTTA,10206,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTAA,19295,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TAAT,15429,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AATA,17880,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACAT,15000,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CATC,31996,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATCA,30297,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCAA,20950,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CAAC,22055,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AACG,27250,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACGG,26020,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GACT,10133,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTGC,42921,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGAA,29106,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AATG,20700,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGAT,29898,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATTT,22653,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTCT,19728,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCTG,27376,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGGG,25820,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGTC,19488,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGAT,18739,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCCC,15493,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGCA,31437,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGCT,21207,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTGA,20470,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GAAG,25860,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGGC,23964,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCAC,24089,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AAAG,24664,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AAGC,24117,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCGG,37463,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGGT,32081,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CACC,34328,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACCC,18807,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCCA,18284,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGAC,15170,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GACG,26958,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGTG,32497,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGCG,40464,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGAA,21518,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GAAA,28238,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGTA,16489,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TAAA,21079,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACGT,17958,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCCT,24360,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCTG,36923,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTCA,17458,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGGC,43143,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTCC,15859,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCCT,15238,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCTC,14255,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCGT,32782,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGTC,26835,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGTT,23455,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGAC,21792,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GACC,19577,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCTA,4801,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTAC,10242,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTCT,15144,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCTA,6107,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTAA,6317,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTTC,26874,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCGT,17658,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGGT,17598,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AAAT,22667,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AATC,20421,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATCG,27852,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTAT,9792,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TATA,8655,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTGT,21009,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGTT,21779,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTTC,22417,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTCC,22928,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATGG,23564,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AAAA,34673,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCAT,25029,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CATT,20750,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATTA,15240,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTAT,19922,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCAA,25651,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGGT,26611,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATAT,17008,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACTC,10543,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CGAG,14551,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CATG,20987,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGCC,26587,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCCT,16009,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CAAT,19139,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AAGA,18501,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+AGAG,14963,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTTA,21341,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GCTA,10513,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TATT,17628,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TATC,21648,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGAC,23537,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACGA,17809,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GAGG,13848,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCCA,21694,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCAT,23408,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCGG,19817,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GAGA,16443,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCCC,16417,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GGGG,14006,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTCG,21597,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTGA,23623,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CCAT,23854,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATCT,18891,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ACTA,5912,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TACT,10098,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TACA,10828,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CATA,13558,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATAC,14869,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TACG,16522,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TTAG,6485,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TAGG,4763,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TCTC,16398,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+ATAG,9955,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TAGC,10572,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+GTAG,10125,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TAGA,6149,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TAGT,6063,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+CTAG,982,Enterobacter cloacae subsp. cloacae ATCC 13047__k4,bacteria
+TGGA,14888,Enterococcus faecium DO__k4,bacteria
+GGAA,15562,Enterococcus faecium DO__k4,bacteria
+GAAA,28992,Enterococcus faecium DO__k4,bacteria
+AAAA,56231,Enterococcus faecium DO__k4,bacteria
+AAAC,20393,Enterococcus faecium DO__k4,bacteria
+AACT,13349,Enterococcus faecium DO__k4,bacteria
+ACTA,9319,Enterococcus faecium DO__k4,bacteria
+CTAT,10364,Enterococcus faecium DO__k4,bacteria
+TATT,24162,Enterococcus faecium DO__k4,bacteria
+ATTG,20413,Enterococcus faecium DO__k4,bacteria
+TTGA,24067,Enterococcus faecium DO__k4,bacteria
+TGAA,23435,Enterococcus faecium DO__k4,bacteria
+AAAT,34593,Enterococcus faecium DO__k4,bacteria
+AATG,19396,Enterococcus faecium DO__k4,bacteria
+ATGC,10031,Enterococcus faecium DO__k4,bacteria
+TGCT,15669,Enterococcus faecium DO__k4,bacteria
+GCTA,9225,Enterococcus faecium DO__k4,bacteria
+CTAA,11986,Enterococcus faecium DO__k4,bacteria
+TAAA,25594,Enterococcus faecium DO__k4,bacteria
+AATT,25642,Enterococcus faecium DO__k4,bacteria
+ATTA,17572,Enterococcus faecium DO__k4,bacteria
+TTAG,12018,Enterococcus faecium DO__k4,bacteria
+TAGT,9364,Enterococcus faecium DO__k4,bacteria
+AGTA,12264,Enterococcus faecium DO__k4,bacteria
+GTAC,7013,Enterococcus faecium DO__k4,bacteria
+TACT,12229,Enterococcus faecium DO__k4,bacteria
+CTAG,6445,Enterococcus faecium DO__k4,bacteria
+AGTT,13172,Enterococcus faecium DO__k4,bacteria
+GTTA,9256,Enterococcus faecium DO__k4,bacteria
+TTAT,22936,Enterococcus faecium DO__k4,bacteria
+ATTC,18189,Enterococcus faecium DO__k4,bacteria
+TTCA,23145,Enterococcus faecium DO__k4,bacteria
+TCAC,9356,Enterococcus faecium DO__k4,bacteria
+CACT,7968,Enterococcus faecium DO__k4,bacteria
+ACTT,15743,Enterococcus faecium DO__k4,bacteria
+CTTT,26657,Enterococcus faecium DO__k4,bacteria
+TTTT,56543,Enterococcus faecium DO__k4,bacteria
+TTTA,25556,Enterococcus faecium DO__k4,bacteria
+TTAA,14816,Enterococcus faecium DO__k4,bacteria
+TAAT,17601,Enterococcus faecium DO__k4,bacteria
+ATGA,19769,Enterococcus faecium DO__k4,bacteria
+GAAG,17536,Enterococcus faecium DO__k4,bacteria
+AAGG,11050,Enterococcus faecium DO__k4,bacteria
+AGGA,12332,Enterococcus faecium DO__k4,bacteria
+GGAG,6655,Enterococcus faecium DO__k4,bacteria
+GAGG,5036,Enterococcus faecium DO__k4,bacteria
+AGGC,5078,Enterococcus faecium DO__k4,bacteria
+GGCC,2092,Enterococcus faecium DO__k4,bacteria
+GCCT,5069,Enterococcus faecium DO__k4,bacteria
+CCTT,11224,Enterococcus faecium DO__k4,bacteria
+CTTA,9490,Enterococcus faecium DO__k4,bacteria
+TATA,13185,Enterococcus faecium DO__k4,bacteria
+ATAT,20045,Enterococcus faecium DO__k4,bacteria
+TATG,11804,Enterococcus faecium DO__k4,bacteria
+ATGG,12902,Enterococcus faecium DO__k4,bacteria
+TGGT,11660,Enterococcus faecium DO__k4,bacteria
+GGTA,7922,Enterococcus faecium DO__k4,bacteria
+GTAT,12420,Enterococcus faecium DO__k4,bacteria
+TATC,16614,Enterococcus faecium DO__k4,bacteria
+ATCC,12635,Enterococcus faecium DO__k4,bacteria
+TCCC,6541,Enterococcus faecium DO__k4,bacteria
+CCCT,4219,Enterococcus faecium DO__k4,bacteria
+CCTC,5039,Enterococcus faecium DO__k4,bacteria
+CTCG,4348,Enterococcus faecium DO__k4,bacteria
+TCGA,11813,Enterococcus faecium DO__k4,bacteria
+CGAT,14629,Enterococcus faecium DO__k4,bacteria
+GATG,13920,Enterococcus faecium DO__k4,bacteria
+GCTT,15133,Enterococcus faecium DO__k4,bacteria
+GAAT,18433,Enterococcus faecium DO__k4,bacteria
+AAAG,26319,Enterococcus faecium DO__k4,bacteria
+AAGC,15157,Enterococcus faecium DO__k4,bacteria
+AGCA,15500,Enterococcus faecium DO__k4,bacteria
+GCAA,15289,Enterococcus faecium DO__k4,bacteria
+CAAC,11202,Enterococcus faecium DO__k4,bacteria
+AACA,18990,Enterococcus faecium DO__k4,bacteria
+ACAT,11840,Enterococcus faecium DO__k4,bacteria
+CATA,11728,Enterococcus faecium DO__k4,bacteria
+ATAC,12188,Enterococcus faecium DO__k4,bacteria
+TACC,7754,Enterococcus faecium DO__k4,bacteria
+ACCA,11380,Enterococcus faecium DO__k4,bacteria
+CCAA,14199,Enterococcus faecium DO__k4,bacteria
+CAAA,26719,Enterococcus faecium DO__k4,bacteria
+GGAT,12585,Enterococcus faecium DO__k4,bacteria
+GATT,21867,Enterococcus faecium DO__k4,bacteria
+ATTT,34618,Enterococcus faecium DO__k4,bacteria
+ATCG,14752,Enterococcus faecium DO__k4,bacteria
+TCGC,6473,Enterococcus faecium DO__k4,bacteria
+CGCC,4551,Enterococcus faecium DO__k4,bacteria
+CCTG,6582,Enterococcus faecium DO__k4,bacteria
+CTGC,10385,Enterococcus faecium DO__k4,bacteria
+TAGC,8846,Enterococcus faecium DO__k4,bacteria
+AGCT,12882,Enterococcus faecium DO__k4,bacteria
+ATAA,22650,Enterococcus faecium DO__k4,bacteria
+AATA,23769,Enterococcus faecium DO__k4,bacteria
+TACA,11563,Enterococcus faecium DO__k4,bacteria
+CATG,9497,Enterococcus faecium DO__k4,bacteria
+GATC,16055,Enterococcus faecium DO__k4,bacteria
+CGAA,11308,Enterococcus faecium DO__k4,bacteria
+ACAG,11442,Enterococcus faecium DO__k4,bacteria
+CAGC,12113,Enterococcus faecium DO__k4,bacteria
+AGCG,6786,Enterococcus faecium DO__k4,bacteria
+GCGA,6566,Enterococcus faecium DO__k4,bacteria
+GAAC,11645,Enterococcus faecium DO__k4,bacteria
+AACC,8880,Enterococcus faecium DO__k4,bacteria
+ACCC,3717,Enterococcus faecium DO__k4,bacteria
+CTTG,13889,Enterococcus faecium DO__k4,bacteria
+TGAT,24400,Enterococcus faecium DO__k4,bacteria
+ATCA,24304,Enterococcus faecium DO__k4,bacteria
+TCAA,23897,Enterococcus faecium DO__k4,bacteria
+CCAG,8349,Enterococcus faecium DO__k4,bacteria
+GCTC,5425,Enterococcus faecium DO__k4,bacteria
+TCGT,11565,Enterococcus faecium DO__k4,bacteria
+CGTT,11406,Enterococcus faecium DO__k4,bacteria
+GTTG,11367,Enterococcus faecium DO__k4,bacteria
+TTGT,18912,Enterococcus faecium DO__k4,bacteria
+TGTT,19382,Enterococcus faecium DO__k4,bacteria
+TGAG,7182,Enterococcus faecium DO__k4,bacteria
+AGGT,7340,Enterococcus faecium DO__k4,bacteria
+GGTT,9134,Enterococcus faecium DO__k4,bacteria
+GTTC,11713,Enterococcus faecium DO__k4,bacteria
+TTCC,15851,Enterococcus faecium DO__k4,bacteria
+TCCT,12320,Enterococcus faecium DO__k4,bacteria
+CCTA,5955,Enterococcus faecium DO__k4,bacteria
+CAAG,13621,Enterococcus faecium DO__k4,bacteria
+AAGA,24853,Enterococcus faecium DO__k4,bacteria
+AGAT,16705,Enterococcus faecium DO__k4,bacteria
+TCAT,19638,Enterococcus faecium DO__k4,bacteria
+AGAA,26301,Enterococcus faecium DO__k4,bacteria
+TTGG,14262,Enterococcus faecium DO__k4,bacteria
+TGGG,6006,Enterococcus faecium DO__k4,bacteria
+GGGA,6453,Enterococcus faecium DO__k4,bacteria
+ACCT,7192,Enterococcus faecium DO__k4,bacteria
+CTGG,8214,Enterococcus faecium DO__k4,bacteria
+TGGC,8565,Enterococcus faecium DO__k4,bacteria
+GGCG,4517,Enterococcus faecium DO__k4,bacteria
+CGAC,5433,Enterococcus faecium DO__k4,bacteria
+GACA,10315,Enterococcus faecium DO__k4,bacteria
+ACAA,18325,Enterococcus faecium DO__k4,bacteria
+AATC,21988,Enterococcus faecium DO__k4,bacteria
+AAGT,15625,Enterococcus faecium DO__k4,bacteria
+AGTC,7831,Enterococcus faecium DO__k4,bacteria
+GTCG,5381,Enterococcus faecium DO__k4,bacteria
+TCGG,6096,Enterococcus faecium DO__k4,bacteria
+CGGT,6068,Enterococcus faecium DO__k4,bacteria
+ATGT,11915,Enterococcus faecium DO__k4,bacteria
+TCAG,11770,Enterococcus faecium DO__k4,bacteria
+CAGG,6693,Enterococcus faecium DO__k4,bacteria
+GAGA,9421,Enterococcus faecium DO__k4,bacteria
+CGCT,6742,Enterococcus faecium DO__k4,bacteria
+TTAC,12104,Enterococcus faecium DO__k4,bacteria
+ACTG,10361,Enterococcus faecium DO__k4,bacteria
+GCAG,10399,Enterococcus faecium DO__k4,bacteria
+CAGA,12660,Enterococcus faecium DO__k4,bacteria
+AGAG,7897,Enterococcus faecium DO__k4,bacteria
+GAGC,5564,Enterococcus faecium DO__k4,bacteria
+ATAG,10276,Enterococcus faecium DO__k4,bacteria
+TAGA,11872,Enterococcus faecium DO__k4,bacteria
+TCCA,15134,Enterococcus faecium DO__k4,bacteria
+TGTG,7911,Enterococcus faecium DO__k4,bacteria
+GTGG,5740,Enterococcus faecium DO__k4,bacteria
+GGCA,7802,Enterococcus faecium DO__k4,bacteria
+GCAC,5327,Enterococcus faecium DO__k4,bacteria
+CACC,6696,Enterococcus faecium DO__k4,bacteria
+GTCC,5594,Enterococcus faecium DO__k4,bacteria
+TCCG,6656,Enterococcus faecium DO__k4,bacteria
+CCGC,4537,Enterococcus faecium DO__k4,bacteria
+AGCC,6512,Enterococcus faecium DO__k4,bacteria
+GCCA,8541,Enterococcus faecium DO__k4,bacteria
+CCAT,12905,Enterococcus faecium DO__k4,bacteria
+GCTG,11985,Enterococcus faecium DO__k4,bacteria
+CTGA,11982,Enterococcus faecium DO__k4,bacteria
+TTTG,26756,Enterococcus faecium DO__k4,bacteria
+GATA,16477,Enterococcus faecium DO__k4,bacteria
+TACG,7330,Enterococcus faecium DO__k4,bacteria
+ACGT,7258,Enterococcus faecium DO__k4,bacteria
+GTTT,20758,Enterococcus faecium DO__k4,bacteria
+TGTC,10292,Enterococcus faecium DO__k4,bacteria
+GTCA,10112,Enterococcus faecium DO__k4,bacteria
+CATT,19121,Enterococcus faecium DO__k4,bacteria
+GTAA,12314,Enterococcus faecium DO__k4,bacteria
+GGCT,6475,Enterococcus faecium DO__k4,bacteria
+CTCA,7100,Enterococcus faecium DO__k4,bacteria
+TGCA,12106,Enterococcus faecium DO__k4,bacteria
+GCGC,3379,Enterococcus faecium DO__k4,bacteria
+TGTA,11585,Enterococcus faecium DO__k4,bacteria
+GTAG,7560,Enterococcus faecium DO__k4,bacteria
+TTCT,26883,Enterococcus faecium DO__k4,bacteria
+TCTA,11867,Enterococcus faecium DO__k4,bacteria
+TAAC,9362,Enterococcus faecium DO__k4,bacteria
+CCCG,2721,Enterococcus faecium DO__k4,bacteria
+CTCT,8003,Enterococcus faecium DO__k4,bacteria
+TCTT,25658,Enterococcus faecium DO__k4,bacteria
+CTTC,17722,Enterococcus faecium DO__k4,bacteria
+GCGT,4898,Enterococcus faecium DO__k4,bacteria
+CGTG,4933,Enterococcus faecium DO__k4,bacteria
+GGAC,5621,Enterococcus faecium DO__k4,bacteria
+GACT,7987,Enterococcus faecium DO__k4,bacteria
+TAAG,9209,Enterococcus faecium DO__k4,bacteria
+AGAC,7903,Enterococcus faecium DO__k4,bacteria
+ACTC,6110,Enterococcus faecium DO__k4,bacteria
+GCAT,10100,Enterococcus faecium DO__k4,bacteria
+CAAT,20168,Enterococcus faecium DO__k4,bacteria
+GGTC,4910,Enterococcus faecium DO__k4,bacteria
+CATC,14136,Enterococcus faecium DO__k4,bacteria
+TGCC,7601,Enterococcus faecium DO__k4,bacteria
+CAGT,10494,Enterococcus faecium DO__k4,bacteria
+AGTG,8173,Enterococcus faecium DO__k4,bacteria
+GTGA,9372,Enterococcus faecium DO__k4,bacteria
+TTGC,15184,Enterococcus faecium DO__k4,bacteria
+TTTC,29721,Enterococcus faecium DO__k4,bacteria
+TTCG,11466,Enterococcus faecium DO__k4,bacteria
+GAGT,5957,Enterococcus faecium DO__k4,bacteria
+CCGT,6060,Enterococcus faecium DO__k4,bacteria
+CGTC,5906,Enterococcus faecium DO__k4,bacteria
+TGAC,10173,Enterococcus faecium DO__k4,bacteria
+CTAC,7571,Enterococcus faecium DO__k4,bacteria
+ACGC,4975,Enterococcus faecium DO__k4,bacteria
+CGCA,5707,Enterococcus faecium DO__k4,bacteria
+AGGG,4246,Enterococcus faecium DO__k4,bacteria
+CGTA,7536,Enterococcus faecium DO__k4,bacteria
+AACG,11383,Enterococcus faecium DO__k4,bacteria
+ACGA,11184,Enterococcus faecium DO__k4,bacteria
+CGAG,4244,Enterococcus faecium DO__k4,bacteria
+CCGA,6051,Enterococcus faecium DO__k4,bacteria
+TCTC,9448,Enterococcus faecium DO__k4,bacteria
+GGGG,2871,Enterococcus faecium DO__k4,bacteria
+GGGC,2934,Enterococcus faecium DO__k4,bacteria
+CTGT,11214,Enterococcus faecium DO__k4,bacteria
+GTCT,7852,Enterococcus faecium DO__k4,bacteria
+TCTG,12867,Enterococcus faecium DO__k4,bacteria
+ACAC,7040,Enterococcus faecium DO__k4,bacteria
+ACCG,5917,Enterococcus faecium DO__k4,bacteria
+GCCG,4405,Enterococcus faecium DO__k4,bacteria
+CCGG,3051,Enterococcus faecium DO__k4,bacteria
+CGGA,6750,Enterococcus faecium DO__k4,bacteria
+ATCT,17102,Enterococcus faecium DO__k4,bacteria
+GCGG,4618,Enterococcus faecium DO__k4,bacteria
+CGGC,4309,Enterococcus faecium DO__k4,bacteria
+CCCA,6059,Enterococcus faecium DO__k4,bacteria
+CACA,7779,Enterococcus faecium DO__k4,bacteria
+GGTG,6794,Enterococcus faecium DO__k4,bacteria
+GTGC,5570,Enterococcus faecium DO__k4,bacteria
+TGCG,5794,Enterococcus faecium DO__k4,bacteria
+GACG,5952,Enterococcus faecium DO__k4,bacteria
+CGCG,2364,Enterococcus faecium DO__k4,bacteria
+CACG,4941,Enterococcus faecium DO__k4,bacteria
+ACGG,6189,Enterococcus faecium DO__k4,bacteria
+GTGT,7129,Enterococcus faecium DO__k4,bacteria
+CCAC,5661,Enterococcus faecium DO__k4,bacteria
+GCCC,2741,Enterococcus faecium DO__k4,bacteria
+CGGG,2827,Enterococcus faecium DO__k4,bacteria
+CTCC,6571,Enterococcus faecium DO__k4,bacteria
+TAGG,6217,Enterococcus faecium DO__k4,bacteria
+GACC,4876,Enterococcus faecium DO__k4,bacteria
+GGGT,3692,Enterococcus faecium DO__k4,bacteria
+CCCC,2897,Enterococcus faecium DO__k4,bacteria
+TTTT,64572,enterococcusef_V583__k4,bacteria
+TTTA,35881,enterococcusef_V583__k4,bacteria
+TTAA,30026,enterococcusef_V583__k4,bacteria
+TAAG,11402,enterococcusef_V583__k4,bacteria
+AAGT,17959,enterococcusef_V583__k4,bacteria
+AGTT,15727,enterococcusef_V583__k4,bacteria
+GTTA,14692,enterococcusef_V583__k4,bacteria
+TTAT,25890,enterococcusef_V583__k4,bacteria
+TATC,14490,enterococcusef_V583__k4,bacteria
+ATCC,10536,enterococcusef_V583__k4,bacteria
+TCCA,13357,enterococcusef_V583__k4,bacteria
+CCAC,8190,enterococcusef_V583__k4,bacteria
+CACA,9044,enterococcusef_V583__k4,bacteria
+ACAT,12952,enterococcusef_V583__k4,bacteria
+CATT,22519,enterococcusef_V583__k4,bacteria
+ATTT,41489,enterococcusef_V583__k4,bacteria
+TTAG,16550,enterococcusef_V583__k4,bacteria
+TAGA,11553,enterococcusef_V583__k4,bacteria
+AGAT,13452,enterococcusef_V583__k4,bacteria
+GATA,14846,enterococcusef_V583__k4,bacteria
+ATAA,27021,enterococcusef_V583__k4,bacteria
+TAAC,14622,enterococcusef_V583__k4,bacteria
+AACC,12181,enterococcusef_V583__k4,bacteria
+ACCA,15863,enterococcusef_V583__k4,bacteria
+CCAA,18227,enterococcusef_V583__k4,bacteria
+CAAA,27786,enterococcusef_V583__k4,bacteria
+AAAA,63430,enterococcusef_V583__k4,bacteria
+AAAT,41289,enterococcusef_V583__k4,bacteria
+AATT,40438,enterococcusef_V583__k4,bacteria
+TAAA,36600,enterococcusef_V583__k4,bacteria
+AAAC,24523,enterococcusef_V583__k4,bacteria
+AACA,23953,enterococcusef_V583__k4,bacteria
+CATA,12128,enterococcusef_V583__k4,bacteria
+ATAT,18518,enterococcusef_V583__k4,bacteria
+TATA,12895,enterococcusef_V583__k4,bacteria
+ATAG,10834,enterococcusef_V583__k4,bacteria
+TAGG,7190,enterococcusef_V583__k4,bacteria
+AGGA,11166,enterococcusef_V583__k4,bacteria
+GGAG,5255,enterococcusef_V583__k4,bacteria
+GAGG,4815,enterococcusef_V583__k4,bacteria
+AGGT,8613,enterococcusef_V583__k4,bacteria
+GGTC,5567,enterococcusef_V583__k4,bacteria
+GTCA,10370,enterococcusef_V583__k4,bacteria
+TCAC,10357,enterococcusef_V583__k4,bacteria
+CACT,9312,enterococcusef_V583__k4,bacteria
+ACTG,9948,enterococcusef_V583__k4,bacteria
+CTGT,11699,enterococcusef_V583__k4,bacteria
+TGTA,12190,enterococcusef_V583__k4,bacteria
+GTAT,11632,enterococcusef_V583__k4,bacteria
+TATG,11231,enterococcusef_V583__k4,bacteria
+ATGC,10629,enterococcusef_V583__k4,bacteria
+TGCC,9845,enterococcusef_V583__k4,bacteria
+GCCC,4308,enterococcusef_V583__k4,bacteria
+CCCG,3162,enterococcusef_V583__k4,bacteria
+CCGA,5778,enterococcusef_V583__k4,bacteria
+CGAC,6315,enterococcusef_V583__k4,bacteria
+GACG,6064,enterococcusef_V583__k4,bacteria
+ACGT,10041,enterococcusef_V583__k4,bacteria
+CGTG,6211,enterococcusef_V583__k4,bacteria
+GTGG,8274,enterococcusef_V583__k4,bacteria
+TGGA,12986,enterococcusef_V583__k4,bacteria
+GGAA,15161,enterococcusef_V583__k4,bacteria
+GAAA,30406,enterococcusef_V583__k4,bacteria
+AAAG,28980,enterococcusef_V583__k4,bacteria
+GTTT,25045,enterococcusef_V583__k4,bacteria
+TTTG,28278,enterococcusef_V583__k4,bacteria
+TTGG,18614,enterococcusef_V583__k4,bacteria
+TGGC,12653,enterococcusef_V583__k4,bacteria
+GGCA,9913,enterococcusef_V583__k4,bacteria
+GCAT,10935,enterococcusef_V583__k4,bacteria
+TAGC,10711,enterococcusef_V583__k4,bacteria
+AGCC,8871,enterococcusef_V583__k4,bacteria
+GCCT,7089,enterococcusef_V583__k4,bacteria
+CCTT,12584,enterococcusef_V583__k4,bacteria
+CTTG,14446,enterococcusef_V583__k4,bacteria
+TTGA,24677,enterococcusef_V583__k4,bacteria
+TGAA,25739,enterococcusef_V583__k4,bacteria
+GAAG,17169,enterococcusef_V583__k4,bacteria
+AAGA,24188,enterococcusef_V583__k4,bacteria
+AGAA,26454,enterococcusef_V583__k4,bacteria
+AAGC,16865,enterococcusef_V583__k4,bacteria
+CCTA,6882,enterococcusef_V583__k4,bacteria
+CTAT,10164,enterococcusef_V583__k4,bacteria
+ATCA,21106,enterococcusef_V583__k4,bacteria
+TCAA,24646,enterococcusef_V583__k4,bacteria
+CAAG,14188,enterococcusef_V583__k4,bacteria
+AGCG,8835,enterococcusef_V583__k4,bacteria
+GCGA,7633,enterococcusef_V583__k4,bacteria
+CGAT,10970,enterococcusef_V583__k4,bacteria
+GATT,21619,enterococcusef_V583__k4,bacteria
+TTGT,23364,enterococcusef_V583__k4,bacteria
+TGTC,10315,enterococcusef_V583__k4,bacteria
+GTCG,6200,enterococcusef_V583__k4,bacteria
+TCGG,6055,enterococcusef_V583__k4,bacteria
+CGGC,6021,enterococcusef_V583__k4,bacteria
+GGCG,7234,enterococcusef_V583__k4,bacteria
+GCGC,5933,enterococcusef_V583__k4,bacteria
+CGCC,7406,enterococcusef_V583__k4,bacteria
+GCCA,12745,enterococcusef_V583__k4,bacteria
+TGAT,21053,enterococcusef_V583__k4,bacteria
+GATG,12735,enterococcusef_V583__k4,bacteria
+TGCT,15043,enterococcusef_V583__k4,bacteria
+GCTT,16749,enterococcusef_V583__k4,bacteria
+GGAT,10650,enterococcusef_V583__k4,bacteria
+ATTA,26222,enterococcusef_V583__k4,bacteria
+ACAC,8091,enterococcusef_V583__k4,bacteria
+CACG,6217,enterococcusef_V583__k4,bacteria
+ACGC,6502,enterococcusef_V583__k4,bacteria
+CCCT,4557,enterococcusef_V583__k4,bacteria
+CTTT,29207,enterococcusef_V583__k4,bacteria
+AGAC,7294,enterococcusef_V583__k4,bacteria
+GACA,10257,enterococcusef_V583__k4,bacteria
+ACAA,22897,enterococcusef_V583__k4,bacteria
+CAAC,15613,enterococcusef_V583__k4,bacteria
+CAAT,25368,enterococcusef_V583__k4,bacteria
+AATC,21823,enterococcusef_V583__k4,bacteria
+ATTG,25238,enterococcusef_V583__k4,bacteria
+TGTG,9215,enterococcusef_V583__k4,bacteria
+GGCT,8845,enterococcusef_V583__k4,bacteria
+GCTA,10675,enterococcusef_V583__k4,bacteria
+CTAG,6224,enterococcusef_V583__k4,bacteria
+AGTC,7856,enterococcusef_V583__k4,bacteria
+GTCC,5753,enterococcusef_V583__k4,bacteria
+TCCC,6800,enterococcusef_V583__k4,bacteria
+CTTC,17673,enterococcusef_V583__k4,bacteria
+TTCT,27261,enterococcusef_V583__k4,bacteria
+TCTG,12124,enterococcusef_V583__k4,bacteria
+CTGC,9332,enterococcusef_V583__k4,bacteria
+TGCA,11430,enterococcusef_V583__k4,bacteria
+GCAG,9207,enterococcusef_V583__k4,bacteria
+CAGT,9818,enterococcusef_V583__k4,bacteria
+GTTC,12614,enterococcusef_V583__k4,bacteria
+TTCA,26356,enterococcusef_V583__k4,bacteria
+TCAT,19342,enterococcusef_V583__k4,bacteria
+CATC,13490,enterococcusef_V583__k4,bacteria
+ATCG,11220,enterococcusef_V583__k4,bacteria
+TCGT,11600,enterococcusef_V583__k4,bacteria
+GTGA,10253,enterococcusef_V583__k4,bacteria
+TTAC,15295,enterococcusef_V583__k4,bacteria
+TACT,12453,enterococcusef_V583__k4,bacteria
+CTGG,8785,enterococcusef_V583__k4,bacteria
+TGGG,7590,enterococcusef_V583__k4,bacteria
+GGGA,6782,enterococcusef_V583__k4,bacteria
+ATCT,13866,enterococcusef_V583__k4,bacteria
+TCTT,24687,enterococcusef_V583__k4,bacteria
+TTTC,31583,enterococcusef_V583__k4,bacteria
+TTCG,11719,enterococcusef_V583__k4,bacteria
+GCAA,17185,enterococcusef_V583__k4,bacteria
+TCGA,7834,enterococcusef_V583__k4,bacteria
+CGAA,11390,enterococcusef_V583__k4,bacteria
+AACT,15770,enterococcusef_V583__k4,bacteria
+TGAC,10354,enterococcusef_V583__k4,bacteria
+GACC,5518,enterococcusef_V583__k4,bacteria
+ACCG,6293,enterococcusef_V583__k4,bacteria
+CCGG,2382,enterococcusef_V583__k4,bacteria
+CGGT,6590,enterococcusef_V583__k4,bacteria
+GGTG,8789,enterococcusef_V583__k4,bacteria
+GTGC,6573,enterococcusef_V583__k4,bacteria
+CAGA,11941,enterococcusef_V583__k4,bacteria
+AGTG,9237,enterococcusef_V583__k4,bacteria
+CCCC,3799,enterococcusef_V583__k4,bacteria
+CCCA,7603,enterococcusef_V583__k4,bacteria
+CCAT,14066,enterococcusef_V583__k4,bacteria
+TGTT,24403,enterococcusef_V583__k4,bacteria
+GTTG,15891,enterococcusef_V583__k4,bacteria
+TTGC,17198,enterococcusef_V583__k4,bacteria
+GCCG,5928,enterococcusef_V583__k4,bacteria
+ATGA,18592,enterococcusef_V583__k4,bacteria
+CGCA,7424,enterococcusef_V583__k4,bacteria
+CAGC,11148,enterococcusef_V583__k4,bacteria
+AGCA,15131,enterococcusef_V583__k4,bacteria
+GCAC,6571,enterococcusef_V583__k4,bacteria
+GAAC,12310,enterococcusef_V583__k4,bacteria
+ACTC,5912,enterococcusef_V583__k4,bacteria
+CTCG,4206,enterococcusef_V583__k4,bacteria
+ACCT,8427,enterococcusef_V583__k4,bacteria
+CCTG,6946,enterococcusef_V583__k4,bacteria
+TAGT,11566,enterococcusef_V583__k4,bacteria
+AGTA,12418,enterococcusef_V583__k4,bacteria
+GTAA,16002,enterococcusef_V583__k4,bacteria
+CTTA,10966,enterococcusef_V583__k4,bacteria
+TAAT,27305,enterococcusef_V583__k4,bacteria
+TCCT,11342,enterococcusef_V583__k4,bacteria
+CTAA,16880,enterococcusef_V583__k4,bacteria
+GTAC,6336,enterococcusef_V583__k4,bacteria
+TACA,12039,enterococcusef_V583__k4,bacteria
+ACTT,18272,enterococcusef_V583__k4,bacteria
+CACC,8636,enterococcusef_V583__k4,bacteria
+CGTT,15576,enterococcusef_V583__k4,bacteria
+TATT,27588,enterococcusef_V583__k4,bacteria
+TGGT,16051,enterococcusef_V583__k4,bacteria
+GGTA,8903,enterococcusef_V583__k4,bacteria
+AAGG,12727,enterococcusef_V583__k4,bacteria
+AATG,22412,enterococcusef_V583__k4,bacteria
+ATGG,13607,enterococcusef_V583__k4,bacteria
+GCTC,5660,enterococcusef_V583__k4,bacteria
+CTCA,6693,enterococcusef_V583__k4,bacteria
+CATG,9158,enterococcusef_V583__k4,bacteria
+GCTG,10964,enterococcusef_V583__k4,bacteria
+CGCT,8678,enterococcusef_V583__k4,bacteria
+CGAG,4026,enterococcusef_V583__k4,bacteria
+GATC,6925,enterococcusef_V583__k4,bacteria
+CCAG,9085,enterococcusef_V583__k4,bacteria
+CAGG,6918,enterococcusef_V583__k4,bacteria
+GGTT,12536,enterococcusef_V583__k4,bacteria
+TCTA,11476,enterococcusef_V583__k4,bacteria
+GTGT,8352,enterococcusef_V583__k4,bacteria
+GTAG,7412,enterococcusef_V583__k4,bacteria
+AGGG,4823,enterococcusef_V583__k4,bacteria
+GGGT,4541,enterococcusef_V583__k4,bacteria
+ACCC,4214,enterococcusef_V583__k4,bacteria
+ATGT,12708,enterococcusef_V583__k4,bacteria
+GAAT,18859,enterococcusef_V583__k4,bacteria
+AATA,28148,enterococcusef_V583__k4,bacteria
+AACG,15164,enterococcusef_V583__k4,bacteria
+TACG,7475,enterococcusef_V583__k4,bacteria
+ACGA,11456,enterococcusef_V583__k4,bacteria
+ATTC,19215,enterococcusef_V583__k4,bacteria
+TCCG,6229,enterococcusef_V583__k4,bacteria
+CGGA,5995,enterococcusef_V583__k4,bacteria
+TCGC,7856,enterococcusef_V583__k4,bacteria
+GACT,7987,enterococcusef_V583__k4,bacteria
+GCGG,6376,enterococcusef_V583__k4,bacteria
+TTCC,15749,enterococcusef_V583__k4,bacteria
+ATAC,11644,enterococcusef_V583__k4,bacteria
+TACC,8462,enterococcusef_V583__k4,bacteria
+CCGC,6328,enterococcusef_V583__k4,bacteria
+CTGA,10166,enterococcusef_V583__k4,bacteria
+TCTC,7668,enterococcusef_V583__k4,bacteria
+GGGG,3909,enterococcusef_V583__k4,bacteria
+GTCT,7174,enterococcusef_V583__k4,bacteria
+ACGG,6921,enterococcusef_V583__k4,bacteria
+TGCG,7414,enterococcusef_V583__k4,bacteria
+GAGC,5595,enterococcusef_V583__k4,bacteria
+GCGT,6652,enterococcusef_V583__k4,bacteria
+ACTA,11390,enterococcusef_V583__k4,bacteria
+CCGT,7124,enterococcusef_V583__k4,bacteria
+AGAG,7770,enterococcusef_V583__k4,bacteria
+GAGA,7288,enterococcusef_V583__k4,bacteria
+GGAC,5863,enterococcusef_V583__k4,bacteria
+CTCT,7654,enterococcusef_V583__k4,bacteria
+TCAG,10180,enterococcusef_V583__k4,bacteria
+CCTC,5003,enterococcusef_V583__k4,bacteria
+CGGG,3128,enterococcusef_V583__k4,bacteria
+CGTC,5759,enterococcusef_V583__k4,bacteria
+ACAG,11353,enterococcusef_V583__k4,bacteria
+CGTA,7871,enterococcusef_V583__k4,bacteria
+GAGT,5895,enterococcusef_V583__k4,bacteria
+CGCG,3111,enterococcusef_V583__k4,bacteria
+AGCT,11482,enterococcusef_V583__k4,bacteria
+CTCC,5690,enterococcusef_V583__k4,bacteria
+GGGC,4218,enterococcusef_V583__k4,bacteria
+CTAC,7155,enterococcusef_V583__k4,bacteria
+TGAG,6542,enterococcusef_V583__k4,bacteria
+AGGC,7048,enterococcusef_V583__k4,bacteria
+GGCC,3948,enterococcusef_V583__k4,bacteria
+GGTG,33636,klebsiella_genome__k4,bacteria
+GTGG,24571,klebsiella_genome__k4,bacteria
+TGGT,26193,klebsiella_genome__k4,bacteria
+GGTC,22479,klebsiella_genome__k4,bacteria
+GTCT,13570,klebsiella_genome__k4,bacteria
+TCTG,23747,klebsiella_genome__k4,bacteria
+CTGC,46463,klebsiella_genome__k4,bacteria
+TGCC,31922,klebsiella_genome__k4,bacteria
+GCCT,27299,klebsiella_genome__k4,bacteria
+CCTC,16434,klebsiella_genome__k4,bacteria
+CTCG,18631,klebsiella_genome__k4,bacteria
+TCGC,38830,klebsiella_genome__k4,bacteria
+CGCA,30509,klebsiella_genome__k4,bacteria
+GCAT,24302,klebsiella_genome__k4,bacteria
+CATA,13822,klebsiella_genome__k4,bacteria
+ATAA,19523,klebsiella_genome__k4,bacteria
+TAAA,19271,klebsiella_genome__k4,bacteria
+AAAG,23732,klebsiella_genome__k4,bacteria
+AAGC,23700,klebsiella_genome__k4,bacteria
+AGCG,43464,klebsiella_genome__k4,bacteria
+GCGG,53731,klebsiella_genome__k4,bacteria
+CGGT,32275,klebsiella_genome__k4,bacteria
+GGTA,18481,klebsiella_genome__k4,bacteria
+GTAT,13067,klebsiella_genome__k4,bacteria
+TATG,13225,klebsiella_genome__k4,bacteria
+ATGA,21542,klebsiella_genome__k4,bacteria
+TGAA,23748,klebsiella_genome__k4,bacteria
+GAAA,26143,klebsiella_genome__k4,bacteria
+AAAA,31783,klebsiella_genome__k4,bacteria
+AAAT,20735,klebsiella_genome__k4,bacteria
+AATG,18017,klebsiella_genome__k4,bacteria
+ATGG,24118,klebsiella_genome__k4,bacteria
+TGGA,20322,klebsiella_genome__k4,bacteria
+GGAT,23865,klebsiella_genome__k4,bacteria
+GATT,18716,klebsiella_genome__k4,bacteria
+ATTG,16644,klebsiella_genome__k4,bacteria
+TTGA,18706,klebsiella_genome__k4,bacteria
+GAAG,25364,klebsiella_genome__k4,bacteria
+AGCC,27558,klebsiella_genome__k4,bacteria
+GCCC,28447,klebsiella_genome__k4,bacteria
+CCCG,29470,klebsiella_genome__k4,bacteria
+CCGG,47855,klebsiella_genome__k4,bacteria
+CGGG,29745,klebsiella_genome__k4,bacteria
+GGGC,28148,klebsiella_genome__k4,bacteria
+GGCC,35496,klebsiella_genome__k4,bacteria
+GCCG,63557,klebsiella_genome__k4,bacteria
+CCGT,22166,klebsiella_genome__k4,bacteria
+CGTG,18442,klebsiella_genome__k4,bacteria
+ATTC,15589,klebsiella_genome__k4,bacteria
+TTCT,17485,klebsiella_genome__k4,bacteria
+TCTA,5944,klebsiella_genome__k4,bacteria
+CTAC,10426,klebsiella_genome__k4,bacteria
+TACT,9468,klebsiella_genome__k4,bacteria
+ACTC,9892,klebsiella_genome__k4,bacteria
+CTCA,15860,klebsiella_genome__k4,bacteria
+TCAA,18747,klebsiella_genome__k4,bacteria
+CAAC,18623,klebsiella_genome__k4,bacteria
+AACT,12921,klebsiella_genome__k4,bacteria
+ACTT,11137,klebsiella_genome__k4,bacteria
+CTTT,24112,klebsiella_genome__k4,bacteria
+TTTC,26632,klebsiella_genome__k4,bacteria
+TTCG,23681,klebsiella_genome__k4,bacteria
+TCGT,17001,klebsiella_genome__k4,bacteria
+CGTC,28468,klebsiella_genome__k4,bacteria
+TCTT,17033,klebsiella_genome__k4,bacteria
+TCGA,22851,klebsiella_genome__k4,bacteria
+CGAG,18975,klebsiella_genome__k4,bacteria
+GAGA,16441,klebsiella_genome__k4,bacteria
+AGAA,17472,klebsiella_genome__k4,bacteria
+AAGA,16740,klebsiella_genome__k4,bacteria
+AGAC,13877,klebsiella_genome__k4,bacteria
+GACT,10676,klebsiella_genome__k4,bacteria
+CTCC,18033,klebsiella_genome__k4,bacteria
+TCCG,23360,klebsiella_genome__k4,bacteria
+GGGA,16925,klebsiella_genome__k4,bacteria
+GATC,31397,klebsiella_genome__k4,bacteria
+ATCC,23987,klebsiella_genome__k4,bacteria
+TCCT,15658,klebsiella_genome__k4,bacteria
+CCTG,37082,klebsiella_genome__k4,bacteria
+CTGA,30161,klebsiella_genome__k4,bacteria
+TGAG,16115,klebsiella_genome__k4,bacteria
+GAGT,9899,klebsiella_genome__k4,bacteria
+AGTA,9516,klebsiella_genome__k4,bacteria
+TATT,17566,klebsiella_genome__k4,bacteria
+ATTA,14597,klebsiella_genome__k4,bacteria
+TTAA,17340,klebsiella_genome__k4,bacteria
+AGAT,19185,klebsiella_genome__k4,bacteria
+ATCT,18611,klebsiella_genome__k4,bacteria
+TTTA,19247,klebsiella_genome__k4,bacteria
+TTAT,19542,klebsiella_genome__k4,bacteria
+TATA,9158,klebsiella_genome__k4,bacteria
+ATAT,18608,klebsiella_genome__k4,bacteria
+ATAG,12544,klebsiella_genome__k4,bacteria
+TAGA,6433,klebsiella_genome__k4,bacteria
+AGAG,13541,klebsiella_genome__k4,bacteria
+CTGT,18837,klebsiella_genome__k4,bacteria
+TGTT,18590,klebsiella_genome__k4,bacteria
+GTTC,19450,klebsiella_genome__k4,bacteria
+CTAT,11945,klebsiella_genome__k4,bacteria
+TTGT,13014,klebsiella_genome__k4,bacteria
+TGTG,11151,klebsiella_genome__k4,bacteria
+GTGA,20338,klebsiella_genome__k4,bacteria
+TGAT,28435,klebsiella_genome__k4,bacteria
+TCTC,16076,klebsiella_genome__k4,bacteria
+CTCT,13134,klebsiella_genome__k4,bacteria
+CTTA,9523,klebsiella_genome__k4,bacteria
+TTAG,6589,klebsiella_genome__k4,bacteria
+TAGG,5355,klebsiella_genome__k4,bacteria
+AGGA,15733,klebsiella_genome__k4,bacteria
+ATCG,34569,klebsiella_genome__k4,bacteria
+CGAC,27579,klebsiella_genome__k4,bacteria
+TTTG,21235,klebsiella_genome__k4,bacteria
+GATA,23268,klebsiella_genome__k4,bacteria
+TAAG,9582,klebsiella_genome__k4,bacteria
+AAGT,11064,klebsiella_genome__k4,bacteria
+AGTC,10821,klebsiella_genome__k4,bacteria
+GTCG,27557,klebsiella_genome__k4,bacteria
+TCGG,25757,klebsiella_genome__k4,bacteria
+CGGA,23951,klebsiella_genome__k4,bacteria
+CCGC,52989,klebsiella_genome__k4,bacteria
+CGCG,48683,klebsiella_genome__k4,bacteria
+GCGA,38424,klebsiella_genome__k4,bacteria
+CGAA,23278,klebsiella_genome__k4,bacteria
+GTAA,14453,klebsiella_genome__k4,bacteria
+ATCA,29035,klebsiella_genome__k4,bacteria
+CAAA,21425,klebsiella_genome__k4,bacteria
+AGCT,23729,klebsiella_genome__k4,bacteria
+GCTT,23882,klebsiella_genome__k4,bacteria
+AAGG,17417,klebsiella_genome__k4,bacteria
+TCAC,20167,klebsiella_genome__k4,bacteria
+CACT,11713,klebsiella_genome__k4,bacteria
+ACTA,6382,klebsiella_genome__k4,bacteria
+TATC,23213,klebsiella_genome__k4,bacteria
+GAAT,15745,klebsiella_genome__k4,bacteria
+CTGG,45906,klebsiella_genome__k4,bacteria
+GTCC,13240,klebsiella_genome__k4,bacteria
+CGTA,13793,klebsiella_genome__k4,bacteria
+GCTG,63171,klebsiella_genome__k4,bacteria
+TGGG,17590,klebsiella_genome__k4,bacteria
+TCAG,30519,klebsiella_genome__k4,bacteria
+CAGA,24461,klebsiella_genome__k4,bacteria
+AGGG,16770,klebsiella_genome__k4,bacteria
+GGGT,19032,klebsiella_genome__k4,bacteria
+GGTT,20404,klebsiella_genome__k4,bacteria
+GTTA,14317,klebsiella_genome__k4,bacteria
+ATGC,24298,klebsiella_genome__k4,bacteria
+TGCA,21577,klebsiella_genome__k4,bacteria
+GCAC,20645,klebsiella_genome__k4,bacteria
+CACA,11535,klebsiella_genome__k4,bacteria
+ACAG,19227,klebsiella_genome__k4,bacteria
+CAGC,65217,klebsiella_genome__k4,bacteria
+GCTC,23256,klebsiella_genome__k4,bacteria
+AAAC,22372,klebsiella_genome__k4,bacteria
+AACC,20194,klebsiella_genome__k4,bacteria
+ACCA,26819,klebsiella_genome__k4,bacteria
+CCAT,24291,klebsiella_genome__k4,bacteria
+ATAC,13393,klebsiella_genome__k4,bacteria
+TACG,13494,klebsiella_genome__k4,bacteria
+ACGG,22455,klebsiella_genome__k4,bacteria
+TTGG,13466,klebsiella_genome__k4,bacteria
+TAAC,14323,klebsiella_genome__k4,bacteria
+TACC,18124,klebsiella_genome__k4,bacteria
+ACCG,32198,klebsiella_genome__k4,bacteria
+GTTG,19319,klebsiella_genome__k4,bacteria
+TCCA,20994,klebsiella_genome__k4,bacteria
+CCAA,13368,klebsiella_genome__k4,bacteria
+CAAG,10243,klebsiella_genome__k4,bacteria
+TTTT,31985,klebsiella_genome__k4,bacteria
+AGCA,30511,klebsiella_genome__k4,bacteria
+CATG,19188,klebsiella_genome__k4,bacteria
+CCAC,25350,klebsiella_genome__k4,bacteria
+GGAC,13443,klebsiella_genome__k4,bacteria
+GACG,28961,klebsiella_genome__k4,bacteria
+ACGA,17047,klebsiella_genome__k4,bacteria
+CGAT,34065,klebsiella_genome__k4,bacteria
+TTAC,14213,klebsiella_genome__k4,bacteria
+TACA,9214,klebsiella_genome__k4,bacteria
+ACAA,12956,klebsiella_genome__k4,bacteria
+CAAT,16763,klebsiella_genome__k4,bacteria
+AATT,13427,klebsiella_genome__k4,bacteria
+GAGC,23123,klebsiella_genome__k4,bacteria
+GCAA,21983,klebsiella_genome__k4,bacteria
+ATTT,20641,klebsiella_genome__k4,bacteria
+TTCC,21757,klebsiella_genome__k4,bacteria
+CCAG,47762,klebsiella_genome__k4,bacteria
+CAGG,37775,klebsiella_genome__k4,bacteria
+TCCC,17005,klebsiella_genome__k4,bacteria
+CCCA,18182,klebsiella_genome__k4,bacteria
+GCCA,44776,klebsiella_genome__k4,bacteria
+CGCT,42524,klebsiella_genome__k4,bacteria
+GGAA,21886,klebsiella_genome__k4,bacteria
+GTGT,9384,klebsiella_genome__k4,bacteria
+TTCA,24581,klebsiella_genome__k4,bacteria
+ACGT,14878,klebsiella_genome__k4,bacteria
+CGTT,23402,klebsiella_genome__k4,bacteria
+CTTC,25833,klebsiella_genome__k4,bacteria
+GCGT,30060,klebsiella_genome__k4,bacteria
+CACC,33533,klebsiella_genome__k4,bacteria
+CCGA,25575,klebsiella_genome__k4,bacteria
+GTTT,22361,klebsiella_genome__k4,bacteria
+TTGC,22204,klebsiella_genome__k4,bacteria
+CCCC,17060,klebsiella_genome__k4,bacteria
+GCAG,47459,klebsiella_genome__k4,bacteria
+AGGC,27450,klebsiella_genome__k4,bacteria
+CCTT,17608,klebsiella_genome__k4,bacteria
+GCGC,69273,klebsiella_genome__k4,bacteria
+CGCC,69103,klebsiella_genome__k4,bacteria
+CTAA,6500,klebsiella_genome__k4,bacteria
+TAAT,14640,klebsiella_genome__k4,bacteria
+AGGT,17499,klebsiella_genome__k4,bacteria
+TGTC,15003,klebsiella_genome__k4,bacteria
+CGGC,63827,klebsiella_genome__k4,bacteria
+GGCT,27236,klebsiella_genome__k4,bacteria
+CCCT,16286,klebsiella_genome__k4,bacteria
+CCTA,5102,klebsiella_genome__k4,bacteria
+TAGC,13222,klebsiella_genome__k4,bacteria
+CACG,18772,klebsiella_genome__k4,bacteria
+GGCG,68857,klebsiella_genome__k4,bacteria
+TGCT,29533,klebsiella_genome__k4,bacteria
+GTCA,22404,klebsiella_genome__k4,bacteria
+TCAT,22447,klebsiella_genome__k4,bacteria
+GAAC,19132,klebsiella_genome__k4,bacteria
+AACG,22880,klebsiella_genome__k4,bacteria
+CTTG,10192,klebsiella_genome__k4,bacteria
+TGCG,30484,klebsiella_genome__k4,bacteria
+GACC,22635,klebsiella_genome__k4,bacteria
+GTGC,20551,klebsiella_genome__k4,bacteria
+CAGT,17514,klebsiella_genome__k4,bacteria
+AGTG,11615,klebsiella_genome__k4,bacteria
+GCTA,12713,klebsiella_genome__k4,bacteria
+GATG,32169,klebsiella_genome__k4,bacteria
+ACAT,12706,klebsiella_genome__k4,bacteria
+ACTG,17367,klebsiella_genome__k4,bacteria
+TGTA,9132,klebsiella_genome__k4,bacteria
+ATGT,12641,klebsiella_genome__k4,bacteria
+TGGC,43956,klebsiella_genome__k4,bacteria
+GTAC,12268,klebsiella_genome__k4,bacteria
+ACGC,29727,klebsiella_genome__k4,bacteria
+ACCT,16983,klebsiella_genome__k4,bacteria
+AGTT,13052,klebsiella_genome__k4,bacteria
+CATC,32974,klebsiella_genome__k4,bacteria
+ACAC,9391,klebsiella_genome__k4,bacteria
+AATA,17820,klebsiella_genome__k4,bacteria
+GTAG,11134,klebsiella_genome__k4,bacteria
+TAGT,6527,klebsiella_genome__k4,bacteria
+TGAC,22449,klebsiella_genome__k4,bacteria
+GAGG,16905,klebsiella_genome__k4,bacteria
+GGAG,17737,klebsiella_genome__k4,bacteria
+GGGG,16454,klebsiella_genome__k4,bacteria
+ACCC,18486,klebsiella_genome__k4,bacteria
+GGCA,31792,klebsiella_genome__k4,bacteria
+AATC,18618,klebsiella_genome__k4,bacteria
+AACA,18455,klebsiella_genome__k4,bacteria
+CATT,17762,klebsiella_genome__k4,bacteria
+GACA,15076,klebsiella_genome__k4,bacteria
+CTAG,1270,klebsiella_genome__k4,bacteria
+CATG,11903,Morganella morganii subsp. morganii KT__k4,bacteria
+ATGG,13284,Morganella morganii subsp. morganii KT__k4,bacteria
+TGGC,18811,Morganella morganii subsp. morganii KT__k4,bacteria
+GGCG,24211,Morganella morganii subsp. morganii KT__k4,bacteria
+GCGA,12232,Morganella morganii subsp. morganii KT__k4,bacteria
+CGAC,8681,Morganella morganii subsp. morganii KT__k4,bacteria
+GACG,11649,Morganella morganii subsp. morganii KT__k4,bacteria
+ACGG,19532,Morganella morganii subsp. morganii KT__k4,bacteria
+CGGC,33705,Morganella morganii subsp. morganii KT__k4,bacteria
+GGCC,13734,Morganella morganii subsp. morganii KT__k4,bacteria
+GCCA,18958,Morganella morganii subsp. morganii KT__k4,bacteria
+CCAT,13214,Morganella morganii subsp. morganii KT__k4,bacteria
+CATC,20947,Morganella morganii subsp. morganii KT__k4,bacteria
+ATCT,13791,Morganella morganii subsp. morganii KT__k4,bacteria
+TCTG,22822,Morganella morganii subsp. morganii KT__k4,bacteria
+CTGC,27851,Morganella morganii subsp. morganii KT__k4,bacteria
+TGCG,19072,Morganella morganii subsp. morganii KT__k4,bacteria
+GCGG,31626,Morganella morganii subsp. morganii KT__k4,bacteria
+GCGC,21117,Morganella morganii subsp. morganii KT__k4,bacteria
+CGCA,18912,Morganella morganii subsp. morganii KT__k4,bacteria
+GCAA,15456,Morganella morganii subsp. morganii KT__k4,bacteria
+CAAT,15156,Morganella morganii subsp. morganii KT__k4,bacteria
+AATT,14992,Morganella morganii subsp. morganii KT__k4,bacteria
+ATTC,15190,Morganella morganii subsp. morganii KT__k4,bacteria
+TTCA,22316,Morganella morganii subsp. morganii KT__k4,bacteria
+TCAC,19644,Morganella morganii subsp. morganii KT__k4,bacteria
+CACG,11552,Morganella morganii subsp. morganii KT__k4,bacteria
+GGCA,23997,Morganella morganii subsp. morganii KT__k4,bacteria
+GCAT,17311,Morganella morganii subsp. morganii KT__k4,bacteria
+CATT,15986,Morganella morganii subsp. morganii KT__k4,bacteria
+ATTG,15043,Morganella morganii subsp. morganii KT__k4,bacteria
+TTGA,12899,Morganella morganii subsp. morganii KT__k4,bacteria
+TGAC,19001,Morganella morganii subsp. morganii KT__k4,bacteria
+GACA,14817,Morganella morganii subsp. morganii KT__k4,bacteria
+ACAG,20014,Morganella morganii subsp. morganii KT__k4,bacteria
+CAGT,20835,Morganella morganii subsp. morganii KT__k4,bacteria
+AGTT,10983,Morganella morganii subsp. morganii KT__k4,bacteria
+GTTT,20815,Morganella morganii subsp. morganii KT__k4,bacteria
+TTTT,32601,Morganella morganii subsp. morganii KT__k4,bacteria
+TTTG,17200,Morganella morganii subsp. morganii KT__k4,bacteria
+TGAT,27564,Morganella morganii subsp. morganii KT__k4,bacteria
+GATG,20864,Morganella morganii subsp. morganii KT__k4,bacteria
+ATGC,17154,Morganella morganii subsp. morganii KT__k4,bacteria
+TGCT,18888,Morganella morganii subsp. morganii KT__k4,bacteria
+GCTG,33618,Morganella morganii subsp. morganii KT__k4,bacteria
+CTGA,29457,Morganella morganii subsp. morganii KT__k4,bacteria
+AGTA,8184,Morganella morganii subsp. morganii KT__k4,bacteria
+GTAT,13255,Morganella morganii subsp. morganii KT__k4,bacteria
+TATC,21380,Morganella morganii subsp. morganii KT__k4,bacteria
+ATCG,14653,Morganella morganii subsp. morganii KT__k4,bacteria
+TCGC,12126,Morganella morganii subsp. morganii KT__k4,bacteria
+GATA,21837,Morganella morganii subsp. morganii KT__k4,bacteria
+ATAA,23171,Morganella morganii subsp. morganii KT__k4,bacteria
+TAAA,18578,Morganella morganii subsp. morganii KT__k4,bacteria
+AAAT,22170,Morganella morganii subsp. morganii KT__k4,bacteria
+AATC,18288,Morganella morganii subsp. morganii KT__k4,bacteria
+ATCA,27575,Morganella morganii subsp. morganii KT__k4,bacteria
+TCAT,18648,Morganella morganii subsp. morganii KT__k4,bacteria
+CATA,12002,Morganella morganii subsp. morganii KT__k4,bacteria
+ATAC,13504,Morganella morganii subsp. morganii KT__k4,bacteria
+TACA,8960,Morganella morganii subsp. morganii KT__k4,bacteria
+ACAA,12213,Morganella morganii subsp. morganii KT__k4,bacteria
+CAAA,17053,Morganella morganii subsp. morganii KT__k4,bacteria
+AATA,20090,Morganella morganii subsp. morganii KT__k4,bacteria
+TAAT,17028,Morganella morganii subsp. morganii KT__k4,bacteria
+ATAT,19074,Morganella morganii subsp. morganii KT__k4,bacteria
+TCGA,7109,Morganella morganii subsp. morganii KT__k4,bacteria
+CGAT,14822,Morganella morganii subsp. morganii KT__k4,bacteria
+GATT,18168,Morganella morganii subsp. morganii KT__k4,bacteria
+ATTT,22285,Morganella morganii subsp. morganii KT__k4,bacteria
+TTTA,18393,Morganella morganii subsp. morganii KT__k4,bacteria
+TTAC,14347,Morganella morganii subsp. morganii KT__k4,bacteria
+TACG,8338,Morganella morganii subsp. morganii KT__k4,bacteria
+ACGC,12405,Morganella morganii subsp. morganii KT__k4,bacteria
+CGCC,24646,Morganella morganii subsp. morganii KT__k4,bacteria
+GCCG,33928,Morganella morganii subsp. morganii KT__k4,bacteria
+CCGT,19547,Morganella morganii subsp. morganii KT__k4,bacteria
+CGTA,8328,Morganella morganii subsp. morganii KT__k4,bacteria
+TATG,11607,Morganella morganii subsp. morganii KT__k4,bacteria
+TGCC,24054,Morganella morganii subsp. morganii KT__k4,bacteria
+GCCC,12862,Morganella morganii subsp. morganii KT__k4,bacteria
+CCCG,19948,Morganella morganii subsp. morganii KT__k4,bacteria
+CCGC,31814,Morganella morganii subsp. morganii KT__k4,bacteria
+CGTC,11647,Morganella morganii subsp. morganii KT__k4,bacteria
+GTCT,9439,Morganella morganii subsp. morganii KT__k4,bacteria
+CTGG,21756,Morganella morganii subsp. morganii KT__k4,bacteria
+GCAC,16978,Morganella morganii subsp. morganii KT__k4,bacteria
+CACA,15376,Morganella morganii subsp. morganii KT__k4,bacteria
+GTTC,13375,Morganella morganii subsp. morganii KT__k4,bacteria
+TCAG,29305,Morganella morganii subsp. morganii KT__k4,bacteria
+CAGA,23152,Morganella morganii subsp. morganii KT__k4,bacteria
+AGAC,9714,Morganella morganii subsp. morganii KT__k4,bacteria
+CAGG,21789,Morganella morganii subsp. morganii KT__k4,bacteria
+AGGA,9849,Morganella morganii subsp. morganii KT__k4,bacteria
+GGAG,7907,Morganella morganii subsp. morganii KT__k4,bacteria
+GAGT,6899,Morganella morganii subsp. morganii KT__k4,bacteria
+CGCG,17087,Morganella morganii subsp. morganii KT__k4,bacteria
+ACGA,6659,Morganella morganii subsp. morganii KT__k4,bacteria
+CGAA,10553,Morganella morganii subsp. morganii KT__k4,bacteria
+GAAC,13527,Morganella morganii subsp. morganii KT__k4,bacteria
+AACA,16996,Morganella morganii subsp. morganii KT__k4,bacteria
+GGAT,21718,Morganella morganii subsp. morganii KT__k4,bacteria
+ATGA,18406,Morganella morganii subsp. morganii KT__k4,bacteria
+ATGT,11529,Morganella morganii subsp. morganii KT__k4,bacteria
+TGTC,14590,Morganella morganii subsp. morganii KT__k4,bacteria
+GTCA,19076,Morganella morganii subsp. morganii KT__k4,bacteria
+TGAG,11335,Morganella morganii subsp. morganii KT__k4,bacteria
+AGTC,7648,Morganella morganii subsp. morganii KT__k4,bacteria
+CAGC,34145,Morganella morganii subsp. morganii KT__k4,bacteria
+AGCA,19174,Morganella morganii subsp. morganii KT__k4,bacteria
+CTGT,19944,Morganella morganii subsp. morganii KT__k4,bacteria
+TGTA,9019,Morganella morganii subsp. morganii KT__k4,bacteria
+GTAC,9523,Morganella morganii subsp. morganii KT__k4,bacteria
+TACC,15034,Morganella morganii subsp. morganii KT__k4,bacteria
+ACCT,10067,Morganella morganii subsp. morganii KT__k4,bacteria
+CCTT,9220,Morganella morganii subsp. morganii KT__k4,bacteria
+CTTC,13548,Morganella morganii subsp. morganii KT__k4,bacteria
+AGCG,17111,Morganella morganii subsp. morganii KT__k4,bacteria
+GCGT,12506,Morganella morganii subsp. morganii KT__k4,bacteria
+CGTT,13509,Morganella morganii subsp. morganii KT__k4,bacteria
+GTTG,10744,Morganella morganii subsp. morganii KT__k4,bacteria
+TGAA,22233,Morganella morganii subsp. morganii KT__k4,bacteria
+AAAA,32711,Morganella morganii subsp. morganii KT__k4,bacteria
+AAAC,20688,Morganella morganii subsp. morganii KT__k4,bacteria
+AACC,16721,Morganella morganii subsp. morganii KT__k4,bacteria
+ACCG,27426,Morganella morganii subsp. morganii KT__k4,bacteria
+CCGA,13943,Morganella morganii subsp. morganii KT__k4,bacteria
+GATC,16926,Morganella morganii subsp. morganii KT__k4,bacteria
+ATCC,21522,Morganella morganii subsp. morganii KT__k4,bacteria
+TCCG,24323,Morganella morganii subsp. morganii KT__k4,bacteria
+GACC,12237,Morganella morganii subsp. morganii KT__k4,bacteria
+ACCA,17016,Morganella morganii subsp. morganii KT__k4,bacteria
+GAAG,13743,Morganella morganii subsp. morganii KT__k4,bacteria
+AAGA,11888,Morganella morganii subsp. morganii KT__k4,bacteria
+AGAA,14884,Morganella morganii subsp. morganii KT__k4,bacteria
+AACT,11002,Morganella morganii subsp. morganii KT__k4,bacteria
+ACTG,20954,Morganella morganii subsp. morganii KT__k4,bacteria
+TGGG,7252,Morganella morganii subsp. morganii KT__k4,bacteria
+GGGG,8036,Morganella morganii subsp. morganii KT__k4,bacteria
+GGGA,11069,Morganella morganii subsp. morganii KT__k4,bacteria
+TCGG,13905,Morganella morganii subsp. morganii KT__k4,bacteria
+GCCT,12190,Morganella morganii subsp. morganii KT__k4,bacteria
+CCTG,21614,Morganella morganii subsp. morganii KT__k4,bacteria
+TCCC,11259,Morganella morganii subsp. morganii KT__k4,bacteria
+TTCC,19053,Morganella morganii subsp. morganii KT__k4,bacteria
+CCGG,40320,Morganella morganii subsp. morganii KT__k4,bacteria
+GCAG,28249,Morganella morganii subsp. morganii KT__k4,bacteria
+CCAA,6526,Morganella morganii subsp. morganii KT__k4,bacteria
+ACCC,11571,Morganella morganii subsp. morganii KT__k4,bacteria
+TGTT,16878,Morganella morganii subsp. morganii KT__k4,bacteria
+TTCT,14642,Morganella morganii subsp. morganii KT__k4,bacteria
+TCTT,11582,Morganella morganii subsp. morganii KT__k4,bacteria
+CTTT,17119,Morganella morganii subsp. morganii KT__k4,bacteria
+TTGT,12060,Morganella morganii subsp. morganii KT__k4,bacteria
+TGGT,16658,Morganella morganii subsp. morganii KT__k4,bacteria
+GGTG,21887,Morganella morganii subsp. morganii KT__k4,bacteria
+GTGT,12121,Morganella morganii subsp. morganii KT__k4,bacteria
+TGTG,15167,Morganella morganii subsp. morganii KT__k4,bacteria
+GTGC,17152,Morganella morganii subsp. morganii KT__k4,bacteria
+CGCT,16817,Morganella morganii subsp. morganii KT__k4,bacteria
+GCTA,4776,Morganella morganii subsp. morganii KT__k4,bacteria
+CTAA,3348,Morganella morganii subsp. morganii KT__k4,bacteria
+TCTC,9141,Morganella morganii subsp. morganii KT__k4,bacteria
+CTCG,5976,Morganella morganii subsp. morganii KT__k4,bacteria
+CGTG,11531,Morganella morganii subsp. morganii KT__k4,bacteria
+GTGG,13358,Morganella morganii subsp. morganii KT__k4,bacteria
+GGTC,12240,Morganella morganii subsp. morganii KT__k4,bacteria
+TCTA,3067,Morganella morganii subsp. morganii KT__k4,bacteria
+CTAC,3192,Morganella morganii subsp. morganii KT__k4,bacteria
+ATTA,16510,Morganella morganii subsp. morganii KT__k4,bacteria
+TTAT,22446,Morganella morganii subsp. morganii KT__k4,bacteria
+TATT,19881,Morganella morganii subsp. morganii KT__k4,bacteria
+GTCG,8464,Morganella morganii subsp. morganii KT__k4,bacteria
+TCGT,6681,Morganella morganii subsp. morganii KT__k4,bacteria
+TTCG,10728,Morganella morganii subsp. morganii KT__k4,bacteria
+CGGG,19839,Morganella morganii subsp. morganii KT__k4,bacteria
+GGGC,12529,Morganella morganii subsp. morganii KT__k4,bacteria
+GGCT,15370,Morganella morganii subsp. morganii KT__k4,bacteria
+GTCC,9146,Morganella morganii subsp. morganii KT__k4,bacteria
+TCCT,9846,Morganella morganii subsp. morganii KT__k4,bacteria
+TTTC,24626,Morganella morganii subsp. morganii KT__k4,bacteria
+CGGT,27329,Morganella morganii subsp. morganii KT__k4,bacteria
+GGTT,16597,Morganella morganii subsp. morganii KT__k4,bacteria
+TTAG,3259,Morganella morganii subsp. morganii KT__k4,bacteria
+TAGC,4760,Morganella morganii subsp. morganii KT__k4,bacteria
+AGTG,13418,Morganella morganii subsp. morganii KT__k4,bacteria
+TTGG,6460,Morganella morganii subsp. morganii KT__k4,bacteria
+CCTC,7106,Morganella morganii subsp. morganii KT__k4,bacteria
+CTCC,7972,Morganella morganii subsp. morganii KT__k4,bacteria
+TAGT,4208,Morganella morganii subsp. morganii KT__k4,bacteria
+CACC,22088,Morganella morganii subsp. morganii KT__k4,bacteria
+CCAG,22353,Morganella morganii subsp. morganii KT__k4,bacteria
+GGTA,14972,Morganella morganii subsp. morganii KT__k4,bacteria
+GTAA,14413,Morganella morganii subsp. morganii KT__k4,bacteria
+CGGA,24510,Morganella morganii subsp. morganii KT__k4,bacteria
+GGAC,8740,Morganella morganii subsp. morganii KT__k4,bacteria
+CCAC,13612,Morganella morganii subsp. morganii KT__k4,bacteria
+CCCT,8277,Morganella morganii subsp. morganii KT__k4,bacteria
+CTCA,11583,Morganella morganii subsp. morganii KT__k4,bacteria
+AGCT,10681,Morganella morganii subsp. morganii KT__k4,bacteria
+GCTT,12287,Morganella morganii subsp. morganii KT__k4,bacteria
+AAAG,17359,Morganella morganii subsp. morganii KT__k4,bacteria
+AAGC,12514,Morganella morganii subsp. morganii KT__k4,bacteria
+TTAA,14263,Morganella morganii subsp. morganii KT__k4,bacteria
+TAAC,13109,Morganella morganii subsp. morganii KT__k4,bacteria
+GGAA,19200,Morganella morganii subsp. morganii KT__k4,bacteria
+GTGA,19371,Morganella morganii subsp. morganii KT__k4,bacteria
+GAAT,15014,Morganella morganii subsp. morganii KT__k4,bacteria
+ACAC,12259,Morganella morganii subsp. morganii KT__k4,bacteria
+CTAT,7420,Morganella morganii subsp. morganii KT__k4,bacteria
+TACT,8234,Morganella morganii subsp. morganii KT__k4,bacteria
+GACT,7433,Morganella morganii subsp. morganii KT__k4,bacteria
+TTGC,15768,Morganella morganii subsp. morganii KT__k4,bacteria
+TGCA,15911,Morganella morganii subsp. morganii KT__k4,bacteria
+GAAA,24586,Morganella morganii subsp. morganii KT__k4,bacteria
+AATG,15999,Morganella morganii subsp. morganii KT__k4,bacteria
+TGGA,12137,Morganella morganii subsp. morganii KT__k4,bacteria
+CTCT,8740,Morganella morganii subsp. morganii KT__k4,bacteria
+CTTG,4201,Morganella morganii subsp. morganii KT__k4,bacteria
+AGGC,12267,Morganella morganii subsp. morganii KT__k4,bacteria
+AGCC,15504,Morganella morganii subsp. morganii KT__k4,bacteria
+TCCA,12265,Morganella morganii subsp. morganii KT__k4,bacteria
+AGAT,13691,Morganella morganii subsp. morganii KT__k4,bacteria
+AGAG,8798,Morganella morganii subsp. morganii KT__k4,bacteria
+GAGC,11051,Morganella morganii subsp. morganii KT__k4,bacteria
+CCCA,7467,Morganella morganii subsp. morganii KT__k4,bacteria
+GCTC,11075,Morganella morganii subsp. morganii KT__k4,bacteria
+CACT,13477,Morganella morganii subsp. morganii KT__k4,bacteria
+GTTA,13033,Morganella morganii subsp. morganii KT__k4,bacteria
+ACTT,8158,Morganella morganii subsp. morganii KT__k4,bacteria
+CAAC,10733,Morganella morganii subsp. morganii KT__k4,bacteria
+GAGA,8953,Morganella morganii subsp. morganii KT__k4,bacteria
+AGGG,8077,Morganella morganii subsp. morganii KT__k4,bacteria
+ACTA,4085,Morganella morganii subsp. morganii KT__k4,bacteria
+TCAA,12953,Morganella morganii subsp. morganii KT__k4,bacteria
+ACTC,6949,Morganella morganii subsp. morganii KT__k4,bacteria
+AAGT,8290,Morganella morganii subsp. morganii KT__k4,bacteria
+GGGT,11570,Morganella morganii subsp. morganii KT__k4,bacteria
+AACG,13338,Morganella morganii subsp. morganii KT__k4,bacteria
+ACAT,11664,Morganella morganii subsp. morganii KT__k4,bacteria
+AGGT,10139,Morganella morganii subsp. morganii KT__k4,bacteria
+AAGG,9095,Morganella morganii subsp. morganii KT__k4,bacteria
+GAGG,7024,Morganella morganii subsp. morganii KT__k4,bacteria
+GTAG,3312,Morganella morganii subsp. morganii KT__k4,bacteria
+CCCC,8285,Morganella morganii subsp. morganii KT__k4,bacteria
+TAGG,2424,Morganella morganii subsp. morganii KT__k4,bacteria
+CGAG,5887,Morganella morganii subsp. morganii KT__k4,bacteria
+TAGA,3094,Morganella morganii subsp. morganii KT__k4,bacteria
+TAAG,6480,Morganella morganii subsp. morganii KT__k4,bacteria
+TATA,9327,Morganella morganii subsp. morganii KT__k4,bacteria
+CAAG,4205,Morganella morganii subsp. morganii KT__k4,bacteria
+ATAG,7507,Morganella morganii subsp. morganii KT__k4,bacteria
+ACGT,6281,Morganella morganii subsp. morganii KT__k4,bacteria
+CCTA,2440,Morganella morganii subsp. morganii KT__k4,bacteria
+CTTA,6379,Morganella morganii subsp. morganii KT__k4,bacteria
+CTAG,408,Morganella morganii subsp. morganii KT__k4,bacteria
+TCTG,13654,proteuspm_HI4320__k4,bacteria
+CTGT,13502,proteuspm_HI4320__k4,bacteria
+TGTA,13542,proteuspm_HI4320__k4,bacteria
+GTAA,20859,proteuspm_HI4320__k4,bacteria
+TAAC,21435,proteuspm_HI4320__k4,bacteria
+AACT,17174,proteuspm_HI4320__k4,bacteria
+ACTC,10040,proteuspm_HI4320__k4,bacteria
+CTCC,5836,proteuspm_HI4320__k4,bacteria
+TCCC,8306,proteuspm_HI4320__k4,bacteria
+CCCC,7531,proteuspm_HI4320__k4,bacteria
+CCCT,7982,proteuspm_HI4320__k4,bacteria
+CCTT,14688,proteuspm_HI4320__k4,bacteria
+CTTA,16185,proteuspm_HI4320__k4,bacteria
+TTAT,41450,proteuspm_HI4320__k4,bacteria
+TATT,44917,proteuspm_HI4320__k4,bacteria
+ATTA,41298,proteuspm_HI4320__k4,bacteria
+TTAG,20606,proteuspm_HI4320__k4,bacteria
+TAGT,13502,proteuspm_HI4320__k4,bacteria
+AGTA,14979,proteuspm_HI4320__k4,bacteria
+GTAG,8179,proteuspm_HI4320__k4,bacteria
+TAAT,41063,proteuspm_HI4320__k4,bacteria
+AATA,45006,proteuspm_HI4320__k4,bacteria
+ATAT,31323,proteuspm_HI4320__k4,bacteria
+TATG,16696,proteuspm_HI4320__k4,bacteria
+ATGT,15479,proteuspm_HI4320__k4,bacteria
+GTAT,16375,proteuspm_HI4320__k4,bacteria
+TATA,19546,proteuspm_HI4320__k4,bacteria
+ATAC,16171,proteuspm_HI4320__k4,bacteria
+TACT,14842,proteuspm_HI4320__k4,bacteria
+ACTA,13426,proteuspm_HI4320__k4,bacteria
+CTAC,8023,proteuspm_HI4320__k4,bacteria
+TACA,13461,proteuspm_HI4320__k4,bacteria
+ACAA,22370,proteuspm_HI4320__k4,bacteria
+CAAT,28115,proteuspm_HI4320__k4,bacteria
+ATAA,41822,proteuspm_HI4320__k4,bacteria
+TAAG,16412,proteuspm_HI4320__k4,bacteria
+AAGT,18471,proteuspm_HI4320__k4,bacteria
+AATG,27099,proteuspm_HI4320__k4,bacteria
+ATGC,17196,proteuspm_HI4320__k4,bacteria
+TGCT,20304,proteuspm_HI4320__k4,bacteria
+GCTC,10578,proteuspm_HI4320__k4,bacteria
+CTCG,6526,proteuspm_HI4320__k4,bacteria
+TCGA,8872,proteuspm_HI4320__k4,bacteria
+CGAA,9429,proteuspm_HI4320__k4,bacteria
+GAAT,17080,proteuspm_HI4320__k4,bacteria
+TAAA,44691,proteuspm_HI4320__k4,bacteria
+AAAT,42571,proteuspm_HI4320__k4,bacteria
+AATT,35875,proteuspm_HI4320__k4,bacteria
+ATTT,42590,proteuspm_HI4320__k4,bacteria
+TTTT,57545,proteuspm_HI4320__k4,bacteria
+TTTA,44565,proteuspm_HI4320__k4,bacteria
+TTAA,40246,proteuspm_HI4320__k4,bacteria
+ATTG,27792,proteuspm_HI4320__k4,bacteria
+TTGT,21931,proteuspm_HI4320__k4,bacteria
+TAGG,9844,proteuspm_HI4320__k4,bacteria
+AGGT,14039,proteuspm_HI4320__k4,bacteria
+GGTA,15955,proteuspm_HI4320__k4,bacteria
+TTGA,25546,proteuspm_HI4320__k4,bacteria
+TGAG,12910,proteuspm_HI4320__k4,bacteria
+GAGG,6665,proteuspm_HI4320__k4,bacteria
+AGGC,9871,proteuspm_HI4320__k4,bacteria
+GGCA,14289,proteuspm_HI4320__k4,bacteria
+GCAA,22000,proteuspm_HI4320__k4,bacteria
+ATAG,18398,proteuspm_HI4320__k4,bacteria
+TAGA,13687,proteuspm_HI4320__k4,bacteria
+AGAA,21144,proteuspm_HI4320__k4,bacteria
+GAAA,25489,proteuspm_HI4320__k4,bacteria
+AAAA,57554,proteuspm_HI4320__k4,bacteria
+AAAG,28362,proteuspm_HI4320__k4,bacteria
+AAGA,22599,proteuspm_HI4320__k4,bacteria
+TTTG,25838,proteuspm_HI4320__k4,bacteria
+TGAC,12544,proteuspm_HI4320__k4,bacteria
+GACA,10298,proteuspm_HI4320__k4,bacteria
+ACAT,15870,proteuspm_HI4320__k4,bacteria
+CATC,19278,proteuspm_HI4320__k4,bacteria
+ATCT,19114,proteuspm_HI4320__k4,bacteria
+TCTC,10545,proteuspm_HI4320__k4,bacteria
+CTCT,12712,proteuspm_HI4320__k4,bacteria
+TCGC,11154,proteuspm_HI4320__k4,bacteria
+CGCT,12966,proteuspm_HI4320__k4,bacteria
+GCTT,19812,proteuspm_HI4320__k4,bacteria
+CTTT,28064,proteuspm_HI4320__k4,bacteria
+TTGC,21872,proteuspm_HI4320__k4,bacteria
+AACC,16707,proteuspm_HI4320__k4,bacteria
+ACCA,20338,proteuspm_HI4320__k4,bacteria
+CCAG,10008,proteuspm_HI4320__k4,bacteria
+CAGT,13263,proteuspm_HI4320__k4,bacteria
+AGGG,8048,proteuspm_HI4320__k4,bacteria
+GGGT,8752,proteuspm_HI4320__k4,bacteria
+GGTC,5980,proteuspm_HI4320__k4,bacteria
+GTCA,12410,proteuspm_HI4320__k4,bacteria
+TCAA,25654,proteuspm_HI4320__k4,bacteria
+CAAA,26178,proteuspm_HI4320__k4,bacteria
+AAAC,25424,proteuspm_HI4320__k4,bacteria
+CTAA,20674,proteuspm_HI4320__k4,bacteria
+GAGA,10621,proteuspm_HI4320__k4,bacteria
+AGAC,7216,proteuspm_HI4320__k4,bacteria
+ACAG,13481,proteuspm_HI4320__k4,bacteria
+CAGA,13449,proteuspm_HI4320__k4,bacteria
+CAGG,10596,proteuspm_HI4320__k4,bacteria
+AGGA,10026,proteuspm_HI4320__k4,bacteria
+GGAT,13299,proteuspm_HI4320__k4,bacteria
+GATT,20377,proteuspm_HI4320__k4,bacteria
+TGTT,25547,proteuspm_HI4320__k4,bacteria
+GTTA,20801,proteuspm_HI4320__k4,bacteria
+TGCG,10780,proteuspm_HI4320__k4,bacteria
+GCGT,10137,proteuspm_HI4320__k4,bacteria
+CGTA,10060,proteuspm_HI4320__k4,bacteria
+GTAC,9123,proteuspm_HI4320__k4,bacteria
+ACTT,18413,proteuspm_HI4320__k4,bacteria
+TTAC,20547,proteuspm_HI4320__k4,bacteria
+CAGC,14469,proteuspm_HI4320__k4,bacteria
+AGCC,12882,proteuspm_HI4320__k4,bacteria
+GCCC,7199,proteuspm_HI4320__k4,bacteria
+CCCA,10142,proteuspm_HI4320__k4,bacteria
+AGTG,14633,proteuspm_HI4320__k4,bacteria
+GTGA,16756,proteuspm_HI4320__k4,bacteria
+GACT,8482,proteuspm_HI4320__k4,bacteria
+CTAT,17972,proteuspm_HI4320__k4,bacteria
+ATGA,22906,proteuspm_HI4320__k4,bacteria
+TGAA,24770,proteuspm_HI4320__k4,bacteria
+TACC,15724,proteuspm_HI4320__k4,bacteria
+CCAC,11958,proteuspm_HI4320__k4,bacteria
+CACC,15358,proteuspm_HI4320__k4,bacteria
+ACCG,10724,proteuspm_HI4320__k4,bacteria
+CCGG,6325,proteuspm_HI4320__k4,bacteria
+CGGA,5836,proteuspm_HI4320__k4,bacteria
+GGAA,11955,proteuspm_HI4320__k4,bacteria
+GCGG,8890,proteuspm_HI4320__k4,bacteria
+CGGG,5884,proteuspm_HI4320__k4,bacteria
+GGGG,7166,proteuspm_HI4320__k4,bacteria
+GGGC,7194,proteuspm_HI4320__k4,bacteria
+GGCG,10015,proteuspm_HI4320__k4,bacteria
+GGCT,12824,proteuspm_HI4320__k4,bacteria
+GCTG,14170,proteuspm_HI4320__k4,bacteria
+TGTC,9978,proteuspm_HI4320__k4,bacteria
+GTCG,7504,proteuspm_HI4320__k4,bacteria
+CGCA,11094,proteuspm_HI4320__k4,bacteria
+GCAT,17509,proteuspm_HI4320__k4,bacteria
+CATA,17138,proteuspm_HI4320__k4,bacteria
+AACA,25955,proteuspm_HI4320__k4,bacteria
+AACG,15469,proteuspm_HI4320__k4,bacteria
+ACGA,10786,proteuspm_HI4320__k4,bacteria
+AAGC,19672,proteuspm_HI4320__k4,bacteria
+CCCG,5987,proteuspm_HI4320__k4,bacteria
+CCGC,9138,proteuspm_HI4320__k4,bacteria
+CATT,27588,proteuspm_HI4320__k4,bacteria
+TTGG,18764,proteuspm_HI4320__k4,bacteria
+TGGC,17232,proteuspm_HI4320__k4,bacteria
+GCGA,11079,proteuspm_HI4320__k4,bacteria
+AATC,20849,proteuspm_HI4320__k4,bacteria
+ATCA,32109,proteuspm_HI4320__k4,bacteria
+TCAG,16243,proteuspm_HI4320__k4,bacteria
+GGAG,5716,proteuspm_HI4320__k4,bacteria
+AGAG,12809,proteuspm_HI4320__k4,bacteria
+GAGC,10395,proteuspm_HI4320__k4,bacteria
+AGCT,13943,proteuspm_HI4320__k4,bacteria
+CGAG,6531,proteuspm_HI4320__k4,bacteria
+GAGT,10285,proteuspm_HI4320__k4,bacteria
+GTGT,10998,proteuspm_HI4320__k4,bacteria
+TGGG,10109,proteuspm_HI4320__k4,bacteria
+GGGA,8095,proteuspm_HI4320__k4,bacteria
+GAAC,9830,proteuspm_HI4320__k4,bacteria
+CTTC,15136,proteuspm_HI4320__k4,bacteria
+TTCA,25373,proteuspm_HI4320__k4,bacteria
+AGTT,17283,proteuspm_HI4320__k4,bacteria
+GTTG,18625,proteuspm_HI4320__k4,bacteria
+TGCC,14210,proteuspm_HI4320__k4,bacteria
+GCCA,17462,proteuspm_HI4320__k4,bacteria
+CCAA,18833,proteuspm_HI4320__k4,bacteria
+TGCA,17358,proteuspm_HI4320__k4,bacteria
+GCAG,12045,proteuspm_HI4320__k4,bacteria
+AAGG,14879,proteuspm_HI4320__k4,bacteria
+GGTG,15282,proteuspm_HI4320__k4,bacteria
+GTGC,11281,proteuspm_HI4320__k4,bacteria
+CTGA,16586,proteuspm_HI4320__k4,bacteria
+TGAT,31570,proteuspm_HI4320__k4,bacteria
+GATA,26024,proteuspm_HI4320__k4,bacteria
+TATC,25961,proteuspm_HI4320__k4,bacteria
+ATCG,14580,proteuspm_HI4320__k4,bacteria
+AGCA,20239,proteuspm_HI4320__k4,bacteria
+GGAC,4532,proteuspm_HI4320__k4,bacteria
+CAAG,15948,proteuspm_HI4320__k4,bacteria
+AGTC,8626,proteuspm_HI4320__k4,bacteria
+CTGG,9593,proteuspm_HI4320__k4,bacteria
+TGGT,20285,proteuspm_HI4320__k4,bacteria
+GCAC,11426,proteuspm_HI4320__k4,bacteria
+ACCT,14063,proteuspm_HI4320__k4,bacteria
+CCTG,10610,proteuspm_HI4320__k4,bacteria
+CTGC,12303,proteuspm_HI4320__k4,bacteria
+AGAT,19187,proteuspm_HI4320__k4,bacteria
+CTTG,15858,proteuspm_HI4320__k4,bacteria
+GTGG,11929,proteuspm_HI4320__k4,bacteria
+ACGG,8605,proteuspm_HI4320__k4,bacteria
+CGGC,8250,proteuspm_HI4320__k4,bacteria
+GAAG,14899,proteuspm_HI4320__k4,bacteria
+CCTC,6841,proteuspm_HI4320__k4,bacteria
+CTCA,12930,proteuspm_HI4320__k4,bacteria
+TCAC,17024,proteuspm_HI4320__k4,bacteria
+CACT,14931,proteuspm_HI4320__k4,bacteria
+TACG,9837,proteuspm_HI4320__k4,bacteria
+TCTT,22330,proteuspm_HI4320__k4,bacteria
+TTCG,9239,proteuspm_HI4320__k4,bacteria
+GCTA,15477,proteuspm_HI4320__k4,bacteria
+TCTA,13523,proteuspm_HI4320__k4,bacteria
+GGTT,16483,proteuspm_HI4320__k4,bacteria
+GTTT,25294,proteuspm_HI4320__k4,bacteria
+CAAC,18616,proteuspm_HI4320__k4,bacteria
+AGCG,13002,proteuspm_HI4320__k4,bacteria
+CGTG,8206,proteuspm_HI4320__k4,bacteria
+ATCC,13643,proteuspm_HI4320__k4,bacteria
+TCCT,9911,proteuspm_HI4320__k4,bacteria
+CATG,12262,proteuspm_HI4320__k4,bacteria
+ATGG,18885,proteuspm_HI4320__k4,bacteria
+CCTA,9623,proteuspm_HI4320__k4,bacteria
+GTCC,4541,proteuspm_HI4320__k4,bacteria
+TAGC,15530,proteuspm_HI4320__k4,bacteria
+CGAT,14112,proteuspm_HI4320__k4,bacteria
+GATG,18409,proteuspm_HI4320__k4,bacteria
+TCGT,11049,proteuspm_HI4320__k4,bacteria
+TTTC,25545,proteuspm_HI4320__k4,bacteria
+CCAT,18986,proteuspm_HI4320__k4,bacteria
+TGGA,11545,proteuspm_HI4320__k4,bacteria
+TCGG,6774,proteuspm_HI4320__k4,bacteria
+CGGT,10624,proteuspm_HI4320__k4,bacteria
+CTAG,5380,proteuspm_HI4320__k4,bacteria
+ACGT,10877,proteuspm_HI4320__k4,bacteria
+CGTT,15390,proteuspm_HI4320__k4,bacteria
+CCGT,8615,proteuspm_HI4320__k4,bacteria
+CGTC,7022,proteuspm_HI4320__k4,bacteria
+TCAT,23901,proteuspm_HI4320__k4,bacteria
+GATC,13358,proteuspm_HI4320__k4,bacteria
+TCCG,6015,proteuspm_HI4320__k4,bacteria
+CGAC,7422,proteuspm_HI4320__k4,bacteria
+ATTC,17077,proteuspm_HI4320__k4,bacteria
+TTCC,12055,proteuspm_HI4320__k4,bacteria
+CGCC,10065,proteuspm_HI4320__k4,bacteria
+GCCG,8109,proteuspm_HI4320__k4,bacteria
+CCGA,6757,proteuspm_HI4320__k4,bacteria
+ACTG,13550,proteuspm_HI4320__k4,bacteria
+TGTG,12843,proteuspm_HI4320__k4,bacteria
+GTTC,9983,proteuspm_HI4320__k4,bacteria
+TTCT,21074,proteuspm_HI4320__k4,bacteria
+CGCG,5989,proteuspm_HI4320__k4,bacteria
+CACA,13094,proteuspm_HI4320__k4,bacteria
+GACG,6992,proteuspm_HI4320__k4,bacteria
+ACAC,11087,proteuspm_HI4320__k4,bacteria
+TCCA,11843,proteuspm_HI4320__k4,bacteria
+CACG,8112,proteuspm_HI4320__k4,bacteria
+ACGC,10142,proteuspm_HI4320__k4,bacteria
+GCCT,9806,proteuspm_HI4320__k4,bacteria
+GGCC,5419,proteuspm_HI4320__k4,bacteria
+GTCT,7151,proteuspm_HI4320__k4,bacteria
+GCGC,9680,proteuspm_HI4320__k4,bacteria
+ACCC,8606,proteuspm_HI4320__k4,bacteria
+GACC,5942,proteuspm_HI4320__k4,bacteria
+TTTA,1782,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTAA,1170,Pseudomonas aeruginosa PAO1__k4,bacteria
+TAAA,1784,Pseudomonas aeruginosa PAO1__k4,bacteria
+AAAG,7788,Pseudomonas aeruginosa PAO1__k4,bacteria
+AAGA,13290,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGAG,10108,Pseudomonas aeruginosa PAO1__k4,bacteria
+GAGA,14776,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGAC,12681,Pseudomonas aeruginosa PAO1__k4,bacteria
+GACC,41092,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACCG,38668,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCGG,71182,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGGC,115298,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGCG,109086,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCGA,54388,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGAT,35285,Pseudomonas aeruginosa PAO1__k4,bacteria
+GATT,7605,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATTC,9595,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTCT,13944,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCTA,5716,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTAG,1917,Pseudomonas aeruginosa PAO1__k4,bacteria
+TAGT,4668,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGTG,8764,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTGA,15424,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGAA,16757,Pseudomonas aeruginosa PAO1__k4,bacteria
+GAAA,16168,Pseudomonas aeruginosa PAO1__k4,bacteria
+AAAT,5860,Pseudomonas aeruginosa PAO1__k4,bacteria
+AATC,8085,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATCG,35443,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCGA,47217,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGAA,35077,Pseudomonas aeruginosa PAO1__k4,bacteria
+GAAC,30814,Pseudomonas aeruginosa PAO1__k4,bacteria
+AACG,20902,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACGG,25322,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGGG,39048,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGGC,45604,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGCA,41350,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCAG,56926,Pseudomonas aeruginosa PAO1__k4,bacteria
+CAGG,64391,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGGT,26623,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGTC,40768,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTCA,16377,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCAA,12541,Pseudomonas aeruginosa PAO1__k4,bacteria
+CAAT,7649,Pseudomonas aeruginosa PAO1__k4,bacteria
+AATT,4862,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATTT,5633,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTTC,15365,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTCC,26314,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCCA,28100,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCAA,13480,Pseudomonas aeruginosa PAO1__k4,bacteria
+CAAC,27096,Pseudomonas aeruginosa PAO1__k4,bacteria
+AACC,17988,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACCA,29534,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCAG,70217,Pseudomonas aeruginosa PAO1__k4,bacteria
+CAGC,70629,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGCG,48231,Pseudomonas aeruginosa PAO1__k4,bacteria
+GATG,32347,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATGA,13497,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGAC,16251,Pseudomonas aeruginosa PAO1__k4,bacteria
+GACG,37588,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACGT,13877,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGTA,12135,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTAA,3089,Pseudomonas aeruginosa PAO1__k4,bacteria
+TAAT,1877,Pseudomonas aeruginosa PAO1__k4,bacteria
+AATA,4567,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATAG,6364,Pseudomonas aeruginosa PAO1__k4,bacteria
+TAGA,6038,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGAT,12859,Pseudomonas aeruginosa PAO1__k4,bacteria
+GATA,8181,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATAC,6357,Pseudomonas aeruginosa PAO1__k4,bacteria
+TACA,7117,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACAA,9811,Pseudomonas aeruginosa PAO1__k4,bacteria
+CAAG,21673,Pseudomonas aeruginosa PAO1__k4,bacteria
+AAGG,22395,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGGA,24136,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGAA,27252,Pseudomonas aeruginosa PAO1__k4,bacteria
+GAAG,36400,Pseudomonas aeruginosa PAO1__k4,bacteria
+AAGT,9085,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGTC,12356,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCAT,13840,Pseudomonas aeruginosa PAO1__k4,bacteria
+CATT,7706,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTTT,6659,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCTT,13515,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTTT,7613,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGAT,21387,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGAA,14005,Pseudomonas aeruginosa PAO1__k4,bacteria
+AAAC,8442,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGGT,37375,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGTT,16697,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTTA,2535,Pseudomonas aeruginosa PAO1__k4,bacteria
+AATG,7581,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATGC,24265,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGCT,33756,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCTC,37527,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTCT,10335,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTTG,22379,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTGG,12974,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGGG,21695,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGGA,16100,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGAC,25174,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCGC,110030,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGCT,47268,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCTT,22505,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCTG,14794,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTGT,16997,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGTG,7645,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTGC,29623,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGCA,23460,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCAT,24542,Pseudomonas aeruginosa PAO1__k4,bacteria
+CATA,4480,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATAA,2676,Pseudomonas aeruginosa PAO1__k4,bacteria
+TAAC,2643,Pseudomonas aeruginosa PAO1__k4,bacteria
+AACT,14579,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACTC,10773,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTCG,49723,Pseudomonas aeruginosa PAO1__k4,bacteria
+AAGC,22826,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGCC,35571,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCCC,48714,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCCA,23219,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGCA,34446,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCAA,24724,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATTG,7460,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTGC,23655,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGCG,37231,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCGT,31103,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGTG,23113,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTGT,8642,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGTT,14714,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTTT,7787,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCTC,15188,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTCC,24136,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCCG,29127,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGGC,48450,Pseudomonas aeruginosa PAO1__k4,bacteria
+CAAA,4138,Pseudomonas aeruginosa PAO1__k4,bacteria
+AAAA,6858,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTTG,25380,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTGT,9569,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGTC,16311,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTCG,52781,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGAG,47156,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGTG,42806,Pseudomonas aeruginosa PAO1__k4,bacteria
+GAGG,30131,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGCT,33589,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCTG,66425,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCCT,24302,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCTT,23390,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTTC,36988,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCTG,63300,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTGA,22436,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGAG,11658,Pseudomonas aeruginosa PAO1__k4,bacteria
+GAGC,36134,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCCT,48502,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTGG,65931,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGGG,16526,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACGA,22797,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATGG,21685,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGGT,27995,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTAT,2556,Pseudomonas aeruginosa PAO1__k4,bacteria
+TATC,7836,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATCC,22149,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCAC,31666,Pseudomonas aeruginosa PAO1__k4,bacteria
+CACA,8571,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACAG,18002,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCGG,77276,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACAC,9708,Pseudomonas aeruginosa PAO1__k4,bacteria
+CACG,25066,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGCA,38568,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGGG,24623,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATGT,10445,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGTA,6983,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTAC,13824,Pseudomonas aeruginosa PAO1__k4,bacteria
+TACC,15187,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACCC,24890,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCCC,18417,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCCT,26175,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTCA,17082,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGGT,23662,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTCC,25442,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGAC,53928,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCGT,24654,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGTC,37245,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCGG,47146,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGCC,78424,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTGC,57008,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGCC,40104,Pseudomonas aeruginosa PAO1__k4,bacteria
+TATT,4391,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATTA,1876,Pseudomonas aeruginosa PAO1__k4,bacteria
+TAAG,1735,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTCT,12080,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTGA,12908,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGAT,19599,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTTG,3887,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCTC,32985,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTCA,12279,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCAG,23074,Pseudomonas aeruginosa PAO1__k4,bacteria
+CATC,33637,Pseudomonas aeruginosa PAO1__k4,bacteria
+CATG,25853,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTGG,28639,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGGA,26442,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCCG,40722,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCTA,9002,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTAC,17261,Pseudomonas aeruginosa PAO1__k4,bacteria
+TAGG,6915,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTTA,1824,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTCG,33822,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCGT,22285,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGTT,19426,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCCG,114594,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCGC,80230,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGCC,114746,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATCT,12854,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATAT,4190,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACTT,9394,Pseudomonas aeruginosa PAO1__k4,bacteria
+TGGC,53097,Pseudomonas aeruginosa PAO1__k4,bacteria
+CAGT,17650,Pseudomonas aeruginosa PAO1__k4,bacteria
+GATC,40997,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGCG,78249,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGCT,20846,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCCC,16512,Pseudomonas aeruginosa PAO1__k4,bacteria
+AACA,15526,Pseudomonas aeruginosa PAO1__k4,bacteria
+CACC,46237,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACCT,27412,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCGA,47044,Pseudomonas aeruginosa PAO1__k4,bacteria
+GAAT,9709,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTAT,6090,Pseudomonas aeruginosa PAO1__k4,bacteria
+TATG,4111,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCAC,31632,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACTG,17853,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACGC,33450,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGTT,14079,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTAG,17654,Pseudomonas aeruginosa PAO1__k4,bacteria
+TAGC,9505,Pseudomonas aeruginosa PAO1__k4,bacteria
+TACG,11890,Pseudomonas aeruginosa PAO1__k4,bacteria
+GCCA,57035,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCAT,22525,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCGC,55121,Pseudomonas aeruginosa PAO1__k4,bacteria
+CAGA,15549,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGTA,15384,Pseudomonas aeruginosa PAO1__k4,bacteria
+CCTA,6716,Pseudomonas aeruginosa PAO1__k4,bacteria
+CGGA,29205,Pseudomonas aeruginosa PAO1__k4,bacteria
+GGAG,22070,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTAT,5861,Pseudomonas aeruginosa PAO1__k4,bacteria
+TCAC,16392,Pseudomonas aeruginosa PAO1__k4,bacteria
+GACA,17076,Pseudomonas aeruginosa PAO1__k4,bacteria
+GTTC,29214,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACAT,10769,Pseudomonas aeruginosa PAO1__k4,bacteria
+ATCA,20109,Pseudomonas aeruginosa PAO1__k4,bacteria
+CACT,9524,Pseudomonas aeruginosa PAO1__k4,bacteria
+GAGT,9951,Pseudomonas aeruginosa PAO1__k4,bacteria
+AGTA,6155,Pseudomonas aeruginosa PAO1__k4,bacteria
+TACT,6348,Pseudomonas aeruginosa PAO1__k4,bacteria
+ACTA,4709,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTAG,1191,Pseudomonas aeruginosa PAO1__k4,bacteria
+GACT,12278,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTAC,3100,Pseudomonas aeruginosa PAO1__k4,bacteria
+CTAA,1104,Pseudomonas aeruginosa PAO1__k4,bacteria
+TATA,2359,Pseudomonas aeruginosa PAO1__k4,bacteria
+TTAC,10304,Serratia marcescens__k4,bacteria
+TACC,13678,Serratia marcescens__k4,bacteria
+ACCC,14693,Serratia marcescens__k4,bacteria
+CCCA,16127,Serratia marcescens__k4,bacteria
+CCAG,38874,Serratia marcescens__k4,bacteria
+CAGC,63223,Serratia marcescens__k4,bacteria
+AGCG,39804,Serratia marcescens__k4,bacteria
+GCGT,32029,Serratia marcescens__k4,bacteria
+CGTG,21820,Serratia marcescens__k4,bacteria
+GTGA,18581,Serratia marcescens__k4,bacteria
+TGAT,26432,Serratia marcescens__k4,bacteria
+GATC,38060,Serratia marcescens__k4,bacteria
+ATCC,18716,Serratia marcescens__k4,bacteria
+TCCA,18062,Serratia marcescens__k4,bacteria
+CCAC,23826,Serratia marcescens__k4,bacteria
+CACT,9665,Serratia marcescens__k4,bacteria
+ACTA,4696,Serratia marcescens__k4,bacteria
+CTAG,1361,Serratia marcescens__k4,bacteria
+TAGT,4445,Serratia marcescens__k4,bacteria
+AGTA,6236,Serratia marcescens__k4,bacteria
+GTAA,10092,Serratia marcescens__k4,bacteria
+TAAA,12060,Serratia marcescens__k4,bacteria
+AAAT,16279,Serratia marcescens__k4,bacteria
+AATC,14526,Serratia marcescens__k4,bacteria
+ATCG,36364,Serratia marcescens__k4,bacteria
+TCGG,29247,Serratia marcescens__k4,bacteria
+CGGC,76528,Serratia marcescens__k4,bacteria
+GGCT,24021,Serratia marcescens__k4,bacteria
+GCTT,19480,Serratia marcescens__k4,bacteria
+CTTT,16188,Serratia marcescens__k4,bacteria
+TTTA,12039,Serratia marcescens__k4,bacteria
+TTAA,9132,Serratia marcescens__k4,bacteria
+TAAG,5921,Serratia marcescens__k4,bacteria
+AAGT,9432,Serratia marcescens__k4,bacteria
+AGTT,11575,Serratia marcescens__k4,bacteria
+GTTG,24218,Serratia marcescens__k4,bacteria
+TTGT,11044,Serratia marcescens__k4,bacteria
+TGTT,19411,Serratia marcescens__k4,bacteria
+GTTT,19064,Serratia marcescens__k4,bacteria
+TTTT,23167,Serratia marcescens__k4,bacteria
+TTTG,17528,Serratia marcescens__k4,bacteria
+GTTC,21337,Serratia marcescens__k4,bacteria
+TTCT,13808,Serratia marcescens__k4,bacteria
+TCTG,17523,Serratia marcescens__k4,bacteria
+CTGT,18630,Serratia marcescens__k4,bacteria
+TGTC,13465,Serratia marcescens__k4,bacteria
+GTCG,26412,Serratia marcescens__k4,bacteria
+TCGT,16054,Serratia marcescens__k4,bacteria
+CGTT,24284,Serratia marcescens__k4,bacteria
+TTGC,22855,Serratia marcescens__k4,bacteria
+TGCT,27218,Serratia marcescens__k4,bacteria
+TTTC,21693,Serratia marcescens__k4,bacteria
+TTCA,21711,Serratia marcescens__k4,bacteria
+TCAC,18758,Serratia marcescens__k4,bacteria
+CACC,36247,Serratia marcescens__k4,bacteria
+ACCT,15111,Serratia marcescens__k4,bacteria
+CCTC,11462,Serratia marcescens__k4,bacteria
+CTCC,11841,Serratia marcescens__k4,bacteria
+TCCG,19027,Serratia marcescens__k4,bacteria
+CCGA,29094,Serratia marcescens__k4,bacteria
+CGAT,35658,Serratia marcescens__k4,bacteria
+GATA,15617,Serratia marcescens__k4,bacteria
+ATAT,10793,Serratia marcescens__k4,bacteria
+TATC,15489,Serratia marcescens__k4,bacteria
+TCGC,35201,Serratia marcescens__k4,bacteria
+CGCG,51603,Serratia marcescens__k4,bacteria
+GCGC,78601,Serratia marcescens__k4,bacteria
+CGCA,33387,Serratia marcescens__k4,bacteria
+GCAA,23637,Serratia marcescens__k4,bacteria
+CAAT,13477,Serratia marcescens__k4,bacteria
+AATG,13830,Serratia marcescens__k4,bacteria
+ATGT,11080,Serratia marcescens__k4,bacteria
+CGCC,75538,Serratia marcescens__k4,bacteria
+GCCG,75733,Serratia marcescens__k4,bacteria
+CCGC,54267,Serratia marcescens__k4,bacteria
+CGCT,39773,Serratia marcescens__k4,bacteria
+GCTG,63500,Serratia marcescens__k4,bacteria
+CTGA,26432,Serratia marcescens__k4,bacteria
+TGAA,22003,Serratia marcescens__k4,bacteria
+GAAC,21209,Serratia marcescens__k4,bacteria
+AACG,24736,Serratia marcescens__k4,bacteria
+ACGG,21550,Serratia marcescens__k4,bacteria
+CGGA,18759,Serratia marcescens__k4,bacteria
+GGAA,19071,Serratia marcescens__k4,bacteria
+GAAA,22512,Serratia marcescens__k4,bacteria
+AAAA,23854,Serratia marcescens__k4,bacteria
+AATA,11799,Serratia marcescens__k4,bacteria
+ATAA,12660,Serratia marcescens__k4,bacteria
+AAGC,20118,Serratia marcescens__k4,bacteria
+AGCA,27520,Serratia marcescens__k4,bacteria
+CAAA,18059,Serratia marcescens__k4,bacteria
+AAAG,16785,Serratia marcescens__k4,bacteria
+AAGA,14747,Serratia marcescens__k4,bacteria
+AGAA,14223,Serratia marcescens__k4,bacteria
+ATAG,8530,Serratia marcescens__k4,bacteria
+TTGA,16648,Serratia marcescens__k4,bacteria
+TGAC,18228,Serratia marcescens__k4,bacteria
+GACT,7522,Serratia marcescens__k4,bacteria
+ACTT,8998,Serratia marcescens__k4,bacteria
+CTTG,12747,Serratia marcescens__k4,bacteria
+TTGG,17203,Serratia marcescens__k4,bacteria
+TGGG,15976,Serratia marcescens__k4,bacteria
+GGGA,10236,Serratia marcescens__k4,bacteria
+GGAT,18624,Serratia marcescens__k4,bacteria
+TAGC,8660,Serratia marcescens__k4,bacteria
+GCGA,35687,Serratia marcescens__k4,bacteria
+GATT,14262,Serratia marcescens__k4,bacteria
+ATTG,13257,Serratia marcescens__k4,bacteria
+TAAC,9390,Serratia marcescens__k4,bacteria
+AACC,19225,Serratia marcescens__k4,bacteria
+ACCA,23119,Serratia marcescens__k4,bacteria
+CCAA,17901,Serratia marcescens__k4,bacteria
+TAGA,4909,Serratia marcescens__k4,bacteria
+AGAG,8798,Serratia marcescens__k4,bacteria
+GAGG,11486,Serratia marcescens__k4,bacteria
+AGGG,11812,Serratia marcescens__k4,bacteria
+GGGG,12060,Serratia marcescens__k4,bacteria
+GGAC,9928,Serratia marcescens__k4,bacteria
+GACA,13839,Serratia marcescens__k4,bacteria
+ACAG,18832,Serratia marcescens__k4,bacteria
+CAGA,17601,Serratia marcescens__k4,bacteria
+GAGT,7500,Serratia marcescens__k4,bacteria
+GTAT,9568,Serratia marcescens__k4,bacteria
+TATT,11969,Serratia marcescens__k4,bacteria
+ATTT,16008,Serratia marcescens__k4,bacteria
+TCAT,17023,Serratia marcescens__k4,bacteria
+CATG,18809,Serratia marcescens__k4,bacteria
+ATGA,17059,Serratia marcescens__k4,bacteria
+TGAG,12057,Serratia marcescens__k4,bacteria
+GAGA,11573,Serratia marcescens__k4,bacteria
+AGAC,9784,Serratia marcescens__k4,bacteria
+ACAA,11680,Serratia marcescens__k4,bacteria
+CAAC,25140,Serratia marcescens__k4,bacteria
+AACA,19809,Serratia marcescens__k4,bacteria
+ACAT,11282,Serratia marcescens__k4,bacteria
+ATGC,23266,Serratia marcescens__k4,bacteria
+TGCG,33082,Serratia marcescens__k4,bacteria
+CATC,29331,Serratia marcescens__k4,bacteria
+ATCA,26722,Serratia marcescens__k4,bacteria
+TCAG,25965,Serratia marcescens__k4,bacteria
+AGCC,24624,Serratia marcescens__k4,bacteria
+GCCT,26071,Serratia marcescens__k4,bacteria
+CCTG,33081,Serratia marcescens__k4,bacteria
+AAAC,19567,Serratia marcescens__k4,bacteria
+CACA,10213,Serratia marcescens__k4,bacteria
+AATT,10511,Serratia marcescens__k4,bacteria
+ATTA,8674,Serratia marcescens__k4,bacteria
+TTAT,12711,Serratia marcescens__k4,bacteria
+ACCG,32237,Serratia marcescens__k4,bacteria
+ATAC,9618,Serratia marcescens__k4,bacteria
+CAGG,32970,Serratia marcescens__k4,bacteria
+AGGT,15219,Serratia marcescens__k4,bacteria
+GGTA,13319,Serratia marcescens__k4,bacteria
+CGGG,22774,Serratia marcescens__k4,bacteria
+GGGC,25910,Serratia marcescens__k4,bacteria
+GGCG,75581,Serratia marcescens__k4,bacteria
+GCGG,53753,Serratia marcescens__k4,bacteria
+GACG,27695,Serratia marcescens__k4,bacteria
+ACGC,32232,Serratia marcescens__k4,bacteria
+GCAC,24912,Serratia marcescens__k4,bacteria
+AGGA,12144,Serratia marcescens__k4,bacteria
+ACAC,10111,Serratia marcescens__k4,bacteria
+GCCC,26390,Serratia marcescens__k4,bacteria
+CCCG,23133,Serratia marcescens__k4,bacteria
+CCTA,5158,Serratia marcescens__k4,bacteria
+CTAA,3878,Serratia marcescens__k4,bacteria
+TAAT,8391,Serratia marcescens__k4,bacteria
+CAGT,13870,Serratia marcescens__k4,bacteria
+AGTG,9883,Serratia marcescens__k4,bacteria
+GTGC,24956,Serratia marcescens__k4,bacteria
+TTCG,24438,Serratia marcescens__k4,bacteria
+CTTA,5836,Serratia marcescens__k4,bacteria
+ATTC,12717,Serratia marcescens__k4,bacteria
+GGAG,11930,Serratia marcescens__k4,bacteria
+AGAT,16025,Serratia marcescens__k4,bacteria
+GATG,28800,Serratia marcescens__k4,bacteria
+CGAG,18094,Serratia marcescens__k4,bacteria
+TGGC,41439,Serratia marcescens__k4,bacteria
+CTCG,17664,Serratia marcescens__k4,bacteria
+CGGT,31521,Serratia marcescens__k4,bacteria
+GTAG,9185,Serratia marcescens__k4,bacteria
+CGAA,24823,Serratia marcescens__k4,bacteria
+GAAT,12519,Serratia marcescens__k4,bacteria
+ACGT,14691,Serratia marcescens__k4,bacteria
+CTGC,43879,Serratia marcescens__k4,bacteria
+CGTC,27362,Serratia marcescens__k4,bacteria
+CGAC,27126,Serratia marcescens__k4,bacteria
+ATGG,18547,Serratia marcescens__k4,bacteria
+TGGA,18414,Serratia marcescens__k4,bacteria
+GTCA,18340,Serratia marcescens__k4,bacteria
+GCCA,41900,Serratia marcescens__k4,bacteria
+CACG,21482,Serratia marcescens__k4,bacteria
+GGTC,15822,Serratia marcescens__k4,bacteria
+GTCT,9673,Serratia marcescens__k4,bacteria
+TCTT,13954,Serratia marcescens__k4,bacteria
+GTCC,9777,Serratia marcescens__k4,bacteria
+CCCC,12507,Serratia marcescens__k4,bacteria
+CCAT,18607,Serratia marcescens__k4,bacteria
+ATCT,15604,Serratia marcescens__k4,bacteria
+CTGG,38776,Serratia marcescens__k4,bacteria
+TGGT,22452,Serratia marcescens__k4,bacteria
+GGTG,35557,Serratia marcescens__k4,bacteria
+GTGG,23755,Serratia marcescens__k4,bacteria
+TCGA,24376,Serratia marcescens__k4,bacteria
+CAAG,13541,Serratia marcescens__k4,bacteria
+GGGT,14416,Serratia marcescens__k4,bacteria
+CATT,13914,Serratia marcescens__k4,bacteria
+TGCC,31861,Serratia marcescens__k4,bacteria
+GAGC,20320,Serratia marcescens__k4,bacteria
+GGCC,38071,Serratia marcescens__k4,bacteria
+GCAG,43993,Serratia marcescens__k4,bacteria
+AGGC,26137,Serratia marcescens__k4,bacteria
+CCGG,45033,Serratia marcescens__k4,bacteria
+TACG,11104,Serratia marcescens__k4,bacteria
+ACGA,16544,Serratia marcescens__k4,bacteria
+AAGG,15830,Serratia marcescens__k4,bacteria
+AACT,11536,Serratia marcescens__k4,bacteria
+ACTC,7481,Serratia marcescens__k4,bacteria
+CTCA,11972,Serratia marcescens__k4,bacteria
+TCAA,16999,Serratia marcescens__k4,bacteria
+TGCA,22795,Serratia marcescens__k4,bacteria
+TCTC,11217,Serratia marcescens__k4,bacteria
+GGCA,32341,Serratia marcescens__k4,bacteria
+CTCT,8463,Serratia marcescens__k4,bacteria
+GAAG,23880,Serratia marcescens__k4,bacteria
+GTGT,10001,Serratia marcescens__k4,bacteria
+TTCC,18882,Serratia marcescens__k4,bacteria
+GCTA,8625,Serratia marcescens__k4,bacteria
+CTAT,8725,Serratia marcescens__k4,bacteria
+AGCT,20373,Serratia marcescens__k4,bacteria
+CTAC,9369,Serratia marcescens__k4,bacteria
+AGTC,7553,Serratia marcescens__k4,bacteria
+TCTA,4854,Serratia marcescens__k4,bacteria
+CCGT,21736,Serratia marcescens__k4,bacteria
+GCAT,23501,Serratia marcescens__k4,bacteria
+TCCC,10083,Serratia marcescens__k4,bacteria
+GACC,16010,Serratia marcescens__k4,bacteria
+GGTT,18910,Serratia marcescens__k4,bacteria
+GCTC,19780,Serratia marcescens__k4,bacteria
+ACTG,13613,Serratia marcescens__k4,bacteria
+TGTA,7846,Serratia marcescens__k4,bacteria
+TATA,5826,Serratia marcescens__k4,bacteria
+CGTA,11044,Serratia marcescens__k4,bacteria
+GTAC,9600,Serratia marcescens__k4,bacteria
+TCCT,12044,Serratia marcescens__k4,bacteria
+TACT,6065,Serratia marcescens__k4,bacteria
+CTTC,23092,Serratia marcescens__k4,bacteria
+CCCT,11906,Serratia marcescens__k4,bacteria
+CCTT,15431,Serratia marcescens__k4,bacteria
+TACA,8044,Serratia marcescens__k4,bacteria
+CATA,8359,Serratia marcescens__k4,bacteria
+TGTG,10033,Serratia marcescens__k4,bacteria
+TATG,8513,Serratia marcescens__k4,bacteria
+GTTA,9561,Serratia marcescens__k4,bacteria
+TAGG,5026,Serratia marcescens__k4,bacteria
+TTAG,3964,Serratia marcescens__k4,bacteria
+GCAT,10427,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CATT,21105,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATTT,37627,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTTA,35085,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTAC,14073,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TACT,11490,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACTA,9408,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTAT,11073,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TATG,14305,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATGT,14272,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGTT,18111,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTTT,16424,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTTC,18839,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTCA,22003,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCAC,8585,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CACT,7404,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACTC,4315,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTCC,2763,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCCA,8573,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCAA,10253,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CAAA,19291,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AAAA,38946,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AAAG,19544,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AAGT,15301,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGTG,7854,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTGC,5841,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGCT,11189,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCTT,10588,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTTC,11193,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTCT,16849,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCTG,7648,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTGT,7290,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGTC,7079,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTCT,5648,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCTA,12236,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATGC,10383,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGCA,12224,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCAG,6031,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CAGA,7595,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGAT,14124,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GATA,15820,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATAC,13619,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCCC,2722,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCCC,1523,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCCT,2479,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCTT,7441,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTTT,18945,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTTT,38507,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTTG,19072,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTGC,11144,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CAGC,6011,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGCA,11314,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCAC,5840,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CACC,7323,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACCC,2993,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCTG,4185,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTGC,5712,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTAT,29645,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TATC,15390,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATCC,6887,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCAT,10563,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTGT,17900,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGTG,7601,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTGT,7348,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTTA,12978,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TATA,22336,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TACA,14370,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACAT,14234,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCAT,20028,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CATA,14270,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACAA,18424,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CAAT,20283,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AATC,16949,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATCT,13919,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCTT,16095,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATAA,29547,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TAAA,35125,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AAAT,37321,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AATT,33205,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATTA,30828,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TATT,31186,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTCC,6397,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCCA,3804,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AAAC,16708,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AACC,8070,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCAC,4817,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CACA,7645,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AACA,18191,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACAC,7374,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACCT,8677,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTTA,10127,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTAA,31854,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTGG,10402,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGGT,12239,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGTA,8896,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTAT,13708,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACTG,7487,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATTG,20243,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCTC,3155,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTCA,5860,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCAA,19029,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGTT,12048,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACTT,14970,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CAAC,10330,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AACG,8771,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACGC,4579,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGCT,4730,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCTA,7761,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TACC,8690,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCTC,2882,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTGG,4985,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGGA,8764,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGAT,7144,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TAAG,10357,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGTA,11803,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TAAT,30603,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AATG,20929,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATTC,13676,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACAG,7196,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGAG,4973,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GAGT,4487,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTTC,7633,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCCT,5417,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCAG,7604,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AAGA,16229,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGAA,17001,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GAAC,7513,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATAT,28791,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTGA,18947,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGAC,7292,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GACA,7022,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GAGG,3024,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGGT,8940,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGTT,8225,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTTG,10249,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGTA,14019,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTAG,6770,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TAGA,12211,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGAT,20033,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GATT,16878,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTAC,6477,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CAGG,4383,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGGG,2774,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGGT,3085,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AATA,30969,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AAGC,10548,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGCC,3670,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCCT,3724,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATCA,19995,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CAGT,7610,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTAG,13446,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TAGG,6089,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTAA,13728,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATAG,11437,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TAGT,9574,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTGA,7556,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGCG,4586,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCGT,4445,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGTA,6427,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TAAC,12602,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AACT,12121,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTTG,8829,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTGA,8754,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTAC,6939,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TACG,6558,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACGA,7392,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGAA,6024,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GAAA,19157,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGAG,2955,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTCA,7388,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CAAG,9031,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGGG,4015,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGGA,3021,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGAA,6671,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTAA,13558,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGGC,5943,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGCT,3684,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCAA,11229,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGCT,7823,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACCA,12101,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GAAT,13845,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATGA,19751,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGAG,5939,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GAGC,3163,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGCG,4780,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCGA,4267,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGAT,7894,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GATG,11656,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GACG,3573,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGAA,21744,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGCA,4771,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCTG,5922,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GAAG,10925,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGTC,3338,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CATG,8406,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GAGA,5435,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TAGC,7865,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCAG,4768,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGTC,5267,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCCA,5923,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGCC,2898,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGGC,3816,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGCG,3000,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGTT,8900,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCGG,2053,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGGT,3704,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGTG,7509,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACGT,8020,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGAC,3163,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GACC,3342,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGCA,5217,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATGG,10890,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGAC,5372,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CATC,11471,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGTC,3700,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTAG,4086,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TTCG,6092,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCGT,7381,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGTG,3964,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACCG,3654,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCGT,3145,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ATCG,7850,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCGA,5129,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGAC,3275,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GATC,4841,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CACG,4244,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGGG,1666,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCCG,1841,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCGC,1999,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCGC,3376,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCGC,4220,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AAGG,7779,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GACT,5165,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCTA,5789,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCCG,2356,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGCG,1775,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCGA,2647,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTCG,3327,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+ACGG,3155,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+AGGA,5745,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GCCC,1680,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTGG,4684,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGCC,1519,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCTC,5224,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCGG,1172,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGGA,2403,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CCCG,1112,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TGCC,5081,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTCG,2166,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GTCC,3021,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGGC,1875,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+TCGG,2705,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+GGGC,1786,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CTCT,4787,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGAG,2242,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
+CGGG,1103,Staphylococcus saprophyticus ATCC 15305__k4,bacteria
